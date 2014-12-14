@@ -1,12 +1,12 @@
 # Site settings
-title: Feed your mind - The CoderDojos contest for Expo 2015 
-email: coderdojomi@gmail.com 
-description: > 
-  Feed Your Mind is the CoderDojos contest related to the Universal Exposition that will be held in Milan (Italy) starting on the 1st of May 2015.
+title: CoderDojoMilano
+email: coderdojomi@gmail.com
+description: >
+  CoderDojoMilano
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://coderdojomilano.it" # the base hostname & protocol for your site
-twitter_username: CoderDojoMi 
-github_username: CoderDojoMilano 
+twitter_username: CoderDojoMi
+github_username: CoderDojoMilano
 
 # Build settings
 markdown: kramdown
