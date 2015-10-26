@@ -1,0 +1,20 @@
+---
+author: admin
+comments: false
+date: 2013-04-30 15:20:03+00:00
+layout: post
+slug: sold-out-2
+title: Sold Out!
+wordpress_id: 1118
+categories:
+- News
+---
+
+<blockquote>Le registrazioni per il Coderdojo di Sabato 18 Maggio sono già esaurite: l'entusiasmo e la fiducia che ci state dimostrando in questo modo sono per noi motivo di incoraggiamento a fare sempre meglio.
+
+**Grazie** :-)
+
+Per coloro che non sono riusciti a registrarsi ricordiamo che, nel caso si dovessero verificare delle rinunce, daremo comunicazione attraverso queste pagine delle nuove disponibilità, quindi stay tuned ;-)</blockquote>
+
+
+![sold_out](http://coderdojomilano.it/wp-content/uploads/2013/03/sold_out1.jpg)

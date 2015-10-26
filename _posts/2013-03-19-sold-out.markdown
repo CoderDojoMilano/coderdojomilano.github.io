@@ -1,0 +1,19 @@
+---
+author: admin
+comments: false
+date: 2013-03-19 18:20:15+00:00
+layout: post
+slug: sold-out
+title: Sold Out!
+wordpress_id: 253
+categories:
+- News
+---
+
+Un po' lo speravamo, ma certo non ci aspettavamo che in meno di 2 giorni i 20 posti che avevamo messo a disposizione per il prossimo Coderdojo del 20 Aprile andassero esauriti.
+
+In ogni caso, per chi fosse ancora interessato a registrarsi, stiamo cercando una soluzione per estendere il numero di posti disponibili. Tenete d'occhio queste pagine per avere un aggiornamento.
+
+_E nel frattempo ... un grosso **GRAZIE**! a tutti voi che state sostenendo questa iniziativa._
+
+[![Sold Out](http://coderdojomilano.it/wp-content/uploads/2013/03/sold_out.jpg)](http://coderdojomilano.it/wp-content/uploads/2013/03/sold_out.jpg)

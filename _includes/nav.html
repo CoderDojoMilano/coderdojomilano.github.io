@@ -1,0 +1,62 @@
+<!-- Fixed navbar -->
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="{{ "/"  | prepend: site.baseurl }}">{{ site.title }}</a>
+    </div>
+    <div class="navbar-collapse collapse navbar-right">
+      <ul class="nav navbar-nav">
+        <li {% if page.title == "Home" %}class="active"{% endif %}><a href="{{"/" | prepend: site.baseurl }}">Home</a></li>
+        <li class="dropdown {% if page.title == 'Calendario eventi' %} active{% endif %}">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button">Calendario eventi<span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="{{"/events-calendar/" | prepend: site.baseurl }}">Eventi in programma</a></li>
+            <li><a href="{{"/events-past/" | prepend: site.baseurl }}">Eventi passati</a></li>
+          </ul>
+        </li>        
+        <li class="dropdown {% if page.title == 'Chi siamo' %} active{% endif %}">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button">Chi siamo<span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="{{"/about/" | prepend: site.baseurl }}">Cos'è CoderDojo</a></li>
+            <li><a href="{{"/chi-siamo/" | prepend: site.baseurl }}">I nostri Mentor</a></li>
+          </ul>
+        </li>        
+        <li class="dropdown {% if page.title == 'Collabora' %} active{% endif %}">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button">Collabora<span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="{{"/sostienici/" | prepend: site.baseurl }}">Sostienici</a></li>
+            <li><a href="{{"/mentors/" | prepend: site.baseurl }}">Diventa Mentor anche tu</a></li>
+          </ul>
+        </li>        
+        <li class="dropdown {% if page.title == 'Risorse' %} active{% endif %}">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button">Risorse<span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="{{"/category/#tutorial" | prepend: site.baseurl }}">Tutorial</a></li>
+            <li><a href="http://kata.coderdojo.com/wiki/KataItalia">Kata Italia</a></li>
+            <li><a href="{{"/category/#tutorial" | prepend: site.baseurl }}">Rassegna tool</a></li>
+          </ul>
+        </li>        
+        <li class="dropdown {% if page.title == 'Contatti' %} active{% endif %}">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button">Contatti<span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="{{"/contatti/" | prepend: site.baseurl }}">CoderDojo Milano</a></li>
+            <li><a href="http://www.coderdojoitalia.org/">CoderDojo in Italia</a></li>
+          </ul>
+        </li>        
+        <li class="dropdown {% if page.title == 'FAQ' %} active{% endif %}">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button">FAQ<span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="{{"/faq/" | prepend: site.baseurl }}">Domande frequenti</a></li>
+            <li><a href="{{"/copyright/" | prepend: site.baseurl }}">Copyright</a></li>
+          </ul>
+        </li>        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div>
+</div>
