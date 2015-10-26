@@ -4,7 +4,7 @@
 title: CoderDojo Milano.
 description: "Awesome description of CoderDojo Milano site"
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
-baseurl: "/" #important: start with /
+baseurl: "" #important: start with /
 url: "http://coderdojomilano.github.io"
 
 # Build settings
