@@ -1,0 +1,25 @@
+# Site settings
+title: CoderDojo Milano
+url: http://www.coderdojomilano.it
+description: "CoderDojo Milano - Dedicato a ragazzi e ragazze di età compresa tra i 7 e 17 anni che vogliono imparare a programmare, divertendosi"
+#email: your-email@domain.com
+
+# Color settings
+color:
+  bg: '#17baef'
+  navbar: '#00f'
+  links: '#00f'
+  links-focus: '#0ff'
+
+# Socials
+social:
+  - title: google-plus
+    url: https://plus.google.com/+CoderdojomilanoIt
+  - title: facebook
+    url: https://www.facebook.com/CoderDojoMi
+  - title: twitter
+    url: https://twitter.com/CoderDojoMi
+
+# Build settings
+markdown: kramdown
+permalink: pretty
