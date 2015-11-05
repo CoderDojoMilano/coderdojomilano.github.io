@@ -1,17 +1,39 @@
     <!-- Contact Section -->
     <section id="contact" class="content-section text-center">
+        <script src="http://www.kvstore.io/js/public.js?storage_uuid=a26d6629-e365-4dea-8d40-dcf0d1b3a1aa"></script>
         <h2>Contact</h2>
-        <p>
-            Dolor reprehenderit repellendus, optio labore odio at tempore debitis nisi. Quasi debitis tenetur eaque molestias non porro odio sapiente.
-        </p>
-        <p>
-            <a href="mailto:{{ site.email }}">{{ site.email }}</a>
-        </p>
-        <ul class="list-inline banner-social-buttons">
-        {% for network in site.social %}
-            <li>
-                <a href="{{ network.url }}" class="btn btn-default btn-lg"><i class="fa fa-{{ network.title }} fa-fw"></i> <span class="network-name">{{ network.title }}</span></a>
-            </li>
-        {% endfor %}
-        </ul>
+        <form class="contact-form">
+            <div class="col-md-12 col-sm-12">
+                <div class="row">
+                    <div class="col-md-6 col-xs-12 form-group">
+                        <label class="sr-only">Your name</label>
+                        <input type="text" class="form-control" name="name" placeholder="Il tuo nome" minlength="2" required="" aria-required="true" data-emoji_font="true">
+                    </div>
+                    <div class="col-md-6 col-xs-12 form-group">
+                        <label class="sr-only" >Email address</label>
+                        <input type="email" class="form-control" name="email" placeholder="La tua e-mail" required aria-required="true">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12 form-group">
+                        <label class="sr-only">Your message</label>
+                        <textarea class="form-control" name="message" placeholder="Inserisci il tuo messaggio" rows="12" required="" aria-required="true" data-emoji_font="true"></textarea>
+                    </div>
+                    <div class="col-md-12 form-group">
+                        <button data-id="contact-submit" class="btn btn-block btn-cta btn-cta-primary">Invia</button>
+                    </div>
+                </div>
+            </div>
+        </form>
+        <div class="col-md-12 col-sm-12">
+            <div class="row">
+                <ul class="list-inline banner-social-buttons">
+                    {% for network in site.social %}
+                        <li>
+                            <a href="{{ network.url }}" class="btn btn-default btn-lg"><i class="fa fa-{{ network.title }} fa-fw"></i> <span class="network-name">{{ network.title }}</span></a>
+                        </li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
     </section>
