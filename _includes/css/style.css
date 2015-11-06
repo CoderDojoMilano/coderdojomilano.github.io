@@ -248,8 +248,15 @@ a:focus {
     }
 }
 
-/* Events */
+/* Contacts */
 
+#contact {
+    padding-left: 50px;
+    padding-right: 50px;
+
+}
+
+/* Events */
 
 .events-section {
     color: {{ site.color.bg }};
@@ -273,14 +280,6 @@ a:focus {
         display: block;
     }
 }
-
-
-
-
-
-
-
-
 
 .btn {
     font-weight: 400;
