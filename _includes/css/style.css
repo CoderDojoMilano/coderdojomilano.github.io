@@ -114,6 +114,17 @@ a:focus {
     padding: 50px 0;
 }
 
+.mentor-section {
+    background-color: rgba(255,255,255,.3);
+    color: white;
+    min-height: 300px;
+    padding-top: 50px;
+}
+
+.mentor-section a {
+    margin-top: 50px;
+}
+
 /* Pages */
 .page {
     padding: 80px 0px 0px;
