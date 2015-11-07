@@ -56,6 +56,8 @@ $(document).ready(function() {
         validate();
 
         if (contact_form_element.valid()) {
+            submit_button_element.attr("disabled", "disabled");
+
             var key = "ts_" + Date.now();
             var payload = JSON.stringify({ name: name_element.val(), email: email_element.val(), message: message_element.val});
 
@@ -64,12 +66,10 @@ $(document).ready(function() {
                     key,
                     payload,
                     function(res) { console.log("should open the confirmation popup");  });
-                    submit_button_element.attr("disabled", "disabled");
-            } else {
+            } else
                 console.log( "Debugging --> should write to kvstore.io: " + key + " ==> " + payload );
-            };
 
         }
-
+        return true;
     });
 });
