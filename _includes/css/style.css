@@ -114,6 +114,15 @@ a:focus {
     padding: 50px 0;
 }
 
+/* Pages */
+.page {
+    padding: 80px 0px 0px;
+}
+
+.page p {
+    padding: 10px 0px 0px;
+}
+
 /* Intro */
 
 .intro {
