@@ -2,7 +2,7 @@
     <section id="contact" class="content-section text-center">
         <h2>Contatti</h2>
         <p>Se desideri ricevere <b>informazioni o chiarimenti</b> sui prossimi eventi o sulle modalità di registrazione, scrivici qui:</p>
-        <form class="contact-form form-horizontal">
+        <form class="contact-form form-horizontal" novalidate>
             <div class="form-group">
                 <label class="control-label">Il tuo nome</label>
                 <input type="text" class="form-control" name="name" minlength="2" required aria-required="true" data-emoji_font="true">
@@ -20,7 +20,7 @@
                 <input type="text" class="form-control" name="calculation" required aria-required="true">
             </div>
             <div class="col-md-12 form-group">
-                <button data-id="contact-submit" class="btn btn-block btn-cta btn-cta-primary">Invia</button>
+                <button type="submit" data-id="contact-submit" class="btn btn-block btn-cta btn-cta-primary">Invia</button>
             </div>
         </form>
         <div class="col-md-12 col-sm-12">
