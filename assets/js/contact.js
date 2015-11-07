@@ -27,6 +27,10 @@ var validate = function() {
     });
 }
 
+var confirm_form = function() {
+    submit_button_element.replaceWith("<span>Ok, grazie per averci contattato!</span>");
+}
+
 generate_random_operation = function() {
     var getRandomInt = function(min, max) {
       return Math.floor(Math.random() * (max - min)) + min;
@@ -65,9 +69,11 @@ $(document).ready(function() {
                 kvstoreio("contacts",
                     key,
                     payload,
-                    function(res) { console.log("should open the confirmation popup");  });
-            } else
+                    function(res) { confirm_form() });
+            } else {
                 console.log( "Debugging --> should write to kvstore.io: " + key + " ==> " + payload );
+                confirm_form();
+            }
 
         }
         return true;
