@@ -1,0 +1,16 @@
+---
+author: admin
+comments: false
+date: 2013-05-27 14:57:53+00:00
+layout: post
+slug: sold-out-3
+title: Sold Out
+wordpress_id: 1260
+categories:
+- News
+---
+
+<blockquote>Posti esauriti … ma a chi è ancora interessato a partecipare con i propri figli al **Coderdojo di Sabato 1 Giugno** nella cornice del **Wired Next Fest**, ricordiamo che da qui a Venerdì 31, in caso di disdetta, renderemo nuovamente disponibili i ticket inutilizzati.</blockquote>
+
+
+![sold_out](http://coderdojomilano.it/wp-content/uploads/2013/03/sold_out1.jpg)

@@ -1,0 +1,31 @@
+---
+author: admin
+comments: false
+date: 2013-03-21 12:19:30+00:00
+layout: post
+slug: '285'
+title: Coderdojo Milano su Repubblica.it
+wordpress_id: 285
+categories:
+- News
+- Rassegna Stampa
+---
+
+Oggi l'articolo di Repubblica.it su Coderdojo Milano ha guadagnato la prima pagina del giornale online e la nostra pagina Facebook è stata inondata di like. Grazie a tutti.
+Stiamo lavorando per ampliare il numero di posti disponibili già a partire dal 20 Aprile.
+State sintonizzati su queste pagine per ricevere gli aggiornamenti!
+
+
+
+
+
+
+
+
+["Che bravo il mio bambino, il videogioco lo ha scritto lui" - Repubblica.it](http://www.repubblica.it/tecnologia/2013/03/12/news/bambini_programmatori-54394224/)
+
+
+
+
+
+

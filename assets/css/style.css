@@ -2,7 +2,6 @@ body {
     width: 100%;
     height: 100%;
     font-family: 'Lato', arial, sans-serif;
-    color: #fff;
     background-color: {{ site.color.bg }};
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -355,4 +354,9 @@ img::selection {
 
 img::-moz-selection {
     background: 0 0;
+}
+
+.mtb {
+    margin-top:80px;
+    margin-bottom: 80px; 
 }
