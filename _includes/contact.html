@@ -1,17 +1,37 @@
     <!-- Contact Section -->
     <section id="contact" class="content-section text-center">
-        <h2>Contact</h2>
-        <p>
-            Dolor reprehenderit repellendus, optio labore odio at tempore debitis nisi. Quasi debitis tenetur eaque molestias non porro odio sapiente.
-        </p>
-        <p>
-            <a href="mailto:{{ site.email }}">{{ site.email }}</a>
-        </p>
-        <ul class="list-inline banner-social-buttons">
-        {% for network in site.social %}
-            <li>
-                <a href="{{ network.url }}" class="btn btn-default btn-lg"><i class="fa fa-{{ network.title }} fa-fw"></i> <span class="network-name">{{ network.title }}</span></a>
-            </li>
-        {% endfor %}
-        </ul>
+        <h2>Contatti</h2>
+        <p>Se desideri ricevere <b>informazioni o chiarimenti</b> sui prossimi eventi o sulle modalità di registrazione, scrivici qui:</p>
+        <form class="contact-form form-horizontal" novalidate>
+            <div class="form-group">
+                <label class="control-label">Il tuo nome</label>
+                <input type="text" class="form-control" name="name" minlength="2" required aria-required="true" data-emoji_font="true">
+            </div>
+            <div class="form-group">
+                <label class="control-label" >Il tuo indirizzo e-mail</label>
+                <input type="email" class="form-control" name="email" required aria-required="true">
+            </div>
+            <div class="form-group">
+                <label class="control-label">Inserisci il tuo messaggio</label>
+                <textarea class="form-control" name="message" rows="12" required aria-required="true" data-emoji_font="true"></textarea>
+            </div>
+            <div class="form-group">
+                <label class="control-label" data-id="calculation-label"></label>
+                <input type="text" class="form-control" name="calculation" required aria-required="true">
+            </div>
+            <div class="col-md-12 form-group">
+                <button type="submit" data-id="contact-submit" class="btn btn-block btn-cta btn-cta-primary">Invia</button>
+            </div>
+        </form>
+        <div class="col-md-12 col-sm-12">
+            <div class="row">
+                <ul class="list-inline banner-social-buttons">
+                    {% for network in site.social %}
+                        <li>
+                            <a href="{{ network.url }}" class="btn btn-default btn-lg"><i class="fa fa-{{ network.title }} fa-fw"></i> <span class="network-name">{{ network.title }}</span></a>
+                        </li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
     </section>

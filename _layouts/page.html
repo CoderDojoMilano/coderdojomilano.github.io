@@ -5,8 +5,11 @@
     </head>
     <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
         {% include nav.html %}
-        {{ content }}
+        <div class="container">
+            <div class="page">
+                {{content}}
+            </div>
+        </div>
         {% include footer.html %}
-        {% include js.html %}
     </body>
 </html>
