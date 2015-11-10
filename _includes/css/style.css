@@ -59,9 +59,22 @@ a:focus {
     background-color: {{ site.color.navbar }};
 }
 
-.navbar-custom .navbar-logo {
+.navbar-custom .navbar-brand .navbar-logo {
+    width: 47px
+}
+
+.navbar-custom.top-nav-collapse .navbar-brand .navbar-logo {
     width: 32px
 }
+
+.navbar-custom .navbar-brand {
+    font-size: 19px;
+}
+
+.navbar-custom.top-nav-collapse .navbar-brand {
+    font-size: 14px;
+}
+
 
 .navbar-custom .navbar-brand:focus {
     outline: 0;
@@ -70,6 +83,14 @@ a:focus {
 .navbar-custom .navbar-brand .navbar-toggle:focus,
 .navbar-custom .navbar-brand .navbar-toggle:active {
     outline: 0;
+}
+
+.navbar-custom .navbar-brand.page-scroll {
+    padding-top: 3px;
+}
+
+.navbar-custom.top-nav-collapse .navbar-brand.page-scroll {
+    padding-top: 11px;
 }
 
 .navbar-custom a {
