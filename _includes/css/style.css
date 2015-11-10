@@ -102,8 +102,8 @@ a:focus {
 
     .top-nav-collapse {
         padding: 0;
-        border-bottom: 1px solid rgba(255,255,255,1);
-        background-color: {{ site.color.navbar }};
+        border-bottom: 1px solid rgba(200,200,200,1);
+        background-color: {{ site.color.navbar-collapsed }};
     }
 }
 
@@ -377,5 +377,5 @@ img::-moz-selection {
 
 .mtb {
     margin-top:80px;
-    margin-bottom: 80px; 
+    margin-bottom: 80px;
 }
