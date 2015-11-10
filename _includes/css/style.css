@@ -114,7 +114,8 @@ a:focus {
 }
 
 .mentor-section {
-    background-color: rgba(255,255,255,.3);
+    background-image: url('/assets/img/back_become_mentor02.jpg');
+    background-attachment: fixed;
     color: white;
     min-height: 300px;
     padding-top: 50px;
@@ -141,7 +142,8 @@ a:focus {
     height: auto;
     padding: 100px 0;
     text-align: center;
-    background: url(/assets/img/intro-bg.jpg) no-repeat bottom center scroll;
+    background: url('/assets/img/intro-bg.jpg') no-repeat bottom center scroll;
+    background-attachment: fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
