@@ -7,6 +7,7 @@ description: "CoderDojo Milano - Dedicato a ragazzi e ragazze di età compresa t
 color:
   bg: '#17baef'
   navbar: 'rgba(255,255,255,.8)'
+  navbar-collapsed: 'rgba(255,255,255,1)'
   links: '#00f'
   links-focus: '#0ff'
 

@@ -20,6 +20,7 @@ h5,
 h6 {
     font-family: Montserrat, "Helvetica Neue", helvetica, arial, sans-serif;
     font-weight: 700;
+    text-shadow: 0.1em 0.1em #666;
 }
 
 p {
@@ -27,6 +28,7 @@ p {
     margin: 0 0 25px;
     font-size: 18px;
     line-height: 1.5;
+    text-shadow: 0px 0px 3px #444;
 }
 
 @media(min-width:767px) {
@@ -59,9 +61,22 @@ a:focus {
     background-color: {{ site.color.navbar }};
 }
 
-.navbar-custom .navbar-logo {
+.navbar-custom .navbar-brand .navbar-logo {
+    width: 47px
+}
+
+.navbar-custom.top-nav-collapse .navbar-brand .navbar-logo {
     width: 32px
 }
+
+.navbar-custom .navbar-brand {
+    font-size: 19px;
+}
+
+.navbar-custom.top-nav-collapse .navbar-brand {
+    font-size: 14px;
+}
+
 
 .navbar-custom .navbar-brand:focus {
     outline: 0;
@@ -70,6 +85,14 @@ a:focus {
 .navbar-custom .navbar-brand .navbar-toggle:focus,
 .navbar-custom .navbar-brand .navbar-toggle:active {
     outline: 0;
+}
+
+.navbar-custom .navbar-brand.page-scroll {
+    padding-top: 3px;
+}
+
+.navbar-custom.top-nav-collapse .navbar-brand.page-scroll {
+    padding-top: 11px;
 }
 
 .navbar-custom a {
@@ -102,8 +125,8 @@ a:focus {
 
     .top-nav-collapse {
         padding: 0;
-        border-bottom: 1px solid rgba(255,255,255,1);
-        background-color: {{ site.color.navbar }};
+        border-bottom: 1px solid rgba(200,200,200,1);
+        background-color: {{ site.color.navbar-collapsed }};
     }
 }
 
@@ -114,7 +137,8 @@ a:focus {
 }
 
 .mentor-section {
-    background-color: rgba(255,255,255,.3);
+    background-image: url('/assets/img/back_become_mentor02.jpg');
+    background-attachment: fixed;
     color: white;
     min-height: 300px;
     padding-top: 50px;
@@ -141,7 +165,8 @@ a:focus {
     height: auto;
     padding: 100px 0;
     text-align: center;
-    background: url(/assets/img/intro-bg.jpg) no-repeat bottom center scroll;
+    background: url('/assets/img/intro-bg.jpg') no-repeat bottom center scroll;
+    background-attachment: fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -377,5 +402,5 @@ img::-moz-selection {
 
 .mtb {
     margin-top:80px;
-    margin-bottom: 80px; 
+    margin-bottom: 80px;
 }
