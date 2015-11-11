@@ -1,0 +1,16 @@
+---
+layout: blog
+title: Mentors
+---
+
+        <! -- MENTORS LIST -->
+                    <ul class="list-unstyled popular-posts">
+        {% for mentor in site.mentors %}
+                            <li>
+                                <img src="{{ "/assets/img/mentors/" | prepend: site.baseurl }}{{ mentor.avatar }}" alt="Avatar" class="img-rounded">
+                                <h3>{{ mentor.name }}</h3>
+                                <p>{{ mentor.content }}</p>
+                            </li>
+        {% endfor %}
+                   </ul>
+ 

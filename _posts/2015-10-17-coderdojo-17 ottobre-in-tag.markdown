@@ -9,7 +9,7 @@ img: event_03.jpg
 thumb: event_03.jpg
 wordpress_id: 309
 categories:
-- Eventi in programma
+- Eventi passati
 ---
 
 Il prossimo coderdojo si terrà in Tag etc, etc.
