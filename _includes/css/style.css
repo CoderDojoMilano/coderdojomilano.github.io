@@ -53,6 +53,11 @@ a:focus {
     color: {{ site.color.links-focus }};
 }
 
+.error {
+    color: red;
+    text-shadow: none;
+}
+
 /* Navigation bar */
 
 .navbar-custom {
