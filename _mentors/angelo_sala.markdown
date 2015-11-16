@@ -1,6 +1,6 @@
 ---
 name: Angelo Sala
-avatar: angelo.jpg
+avatar: angelo_sala.jpg
 ---
 Nato 42 anni fa, si sente Ingegnere fin dall’età di 10 anni e più tardi lo diventa.
 

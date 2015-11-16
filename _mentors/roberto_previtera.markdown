@@ -1,6 +1,6 @@
 ---
 name: Roberto Previtera
-avatar: previ.jpg
+avatar: roberto_previtera.jpg
 ---
 Nato nell’anno del primo uomo sulla Luna, Roberto si avvicina ad un computer all’età di otto anni.
 

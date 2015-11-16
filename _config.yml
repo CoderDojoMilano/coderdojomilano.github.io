@@ -6,11 +6,11 @@ storage_uuid: "a26d6629-e365-4dea-8d40-dcf0d1b3a1aa"
 
 # Color settings
 color:
-  bg: '#17baef'
+  bg: '#efefef'
   navbar: 'rgba(255,255,255,.8)'
   navbar-collapsed: 'rgba(255,255,255,1)'
-  links: '#00f'
-  links-focus: '#0ff'
+  links: '#000'
+  links-focus: '#00f'
 
 # Socials
 social:
