@@ -26,4 +26,13 @@ markdown: kramdown
 permalink: pretty
 
 collections:
-  - mentors
+  mentors:
+    output: no
+  tutorials:
+    output: yes
+    path: /tutorials/:name
+  tools:
+    output: yes
+    path: /tools/:name
+
+ 

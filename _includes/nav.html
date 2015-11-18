@@ -17,21 +17,31 @@
                     <li class="hidden">
                         <a href="/#page-top"></a>
                     </li>
-                    <li>
-                        <a class="page-scroll" href="/#about">About</a>
+                    <li class="dropdown {% if page.title == 'Chi siamo' %} active{% endif %}">
+                      <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button">Chi siamo<span class="caret"></span></a>
+                      <ul class="dropdown-menu">
+                        <li><a href="{{"/#about" | prepend: site.baseurl }}">Cos'è CoderDojo</a></li>
+                        <li><a href="{{"/mentors" | prepend: site.baseurl }}">I nostri Mentor</a></li>
+                      </ul>
                     </li>
-                    <li>
-                        <a class="page-scroll" href="/#events-plan">Eventi</a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" href="/events-past">Archivio eventi</a>
-                    </li>
+                    <li class="dropdown {% if page.title == 'Calendario eventi' %} active{% endif %}">
+                      <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button">Calendario eventi<span class="caret"></span></a>
+                      <ul class="dropdown-menu">
+                        <li><a href="{{"/#events-plan" | prepend: site.baseurl }}">Eventi in programma</a></li>
+                        <li><a href="{{"/events-past" | prepend: site.baseurl }}">Eventi passati</a></li>
+                      </ul>
+                    </li>        
                     <li>
                         <a class="page-scroll" href="/#contact">Contattaci</a>
                     </li>
-                    <li>
-                        <a class="page-scroll" href="/mentors">I nostri mentors</a>
-                    </li>
+                    <li class="dropdown {% if page.title == 'Risorse' %} active{% endif %}">
+                      <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button">Risorse<span class="caret"></span></a>
+                      <ul class="dropdown-menu">
+                        <li><a href="{{"/tutorials" | prepend: site.baseurl }}">Tutorial</a></li>
+                        <li><a href="http://kata.coderdojo.com/wiki/KataItalia">Kata Italia</a></li>
+                        <li><a href="{{"/tools" | prepend: site.baseurl }}">Rassegna tool</a></li>
+                      </ul>
+                    </li>        
                     <li>
                         <a class="page-scroll" href="/mentor">Diventa Mentor</a>
                     </li>

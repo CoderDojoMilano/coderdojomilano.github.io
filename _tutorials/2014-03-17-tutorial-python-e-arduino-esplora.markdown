@@ -14,7 +14,6 @@ categories:
 
 ##### Comandiamo Esplora con Python, di Stefano Ricci.
 
-
 Lo scopo di questo tutorial è di arrivare a comprendere come sia possibile con Python interagire con la scheda Arduino Esplora.
 Si realizzerà dapprima un piccolo programma che interagisca con l'utente tramite tastiera e video e, in un secondo momento, si collegherà la scheda Arduino Esplora in modo da poter ricevere l'input dell'utente dalla scheda (anziché della tastiera) e inviare l'output del programma alla scheda (anziché solo a video).
 

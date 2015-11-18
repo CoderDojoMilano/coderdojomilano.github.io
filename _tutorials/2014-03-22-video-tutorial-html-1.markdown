@@ -17,9 +17,6 @@ categories:
 Impariamo gli elementi base del linguaggio HTML.
 
 Al termine del primo tutorial avremo imparato:
-
-
-
 	
   * Cos'è l'HTML
 

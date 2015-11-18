@@ -26,5 +26,4 @@ Per scaricare sfondi e personaggi, [clicca QUI](https://drive.google.com/file/d
 Per vedere il progetto online, [clicca QUI](http://scratch.mit.edu/projects/19708707/)
 
 
-
 ![SC_PB_S1_acchiappa_uovo](http://coderdojomilano.it/wp-content/uploads/2014/04/SC_PB_S1_acchiappa_uovo.png)

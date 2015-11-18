@@ -14,7 +14,6 @@ categories:
 
 ##### Impariamo a creare un gioco con Scratch.
 
-
 Seguendo questo tutorial imparerai a realizzare un gioco con Scratch familiarizzando con i suoi elementi base.
 
 In particolare: come si sceglie uno sfondo, come si scelgono i personaggi, come si fanno muovere e interagire tra di loro e come si aggiungono i punti e un limite di tempo al gioco.
