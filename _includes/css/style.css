@@ -52,6 +52,15 @@ a:focus {
     color: {{ site.color.links-focus }};
 }
 
+blockquote {
+    margin: 20px 0 20px;
+    border-left: 5px solid #A31E1E;
+}
+
+blockquote p {
+    padding: 10px;
+}
+
 .error {
     color: red;
     text-shadow: none;
@@ -150,15 +159,6 @@ a:focus {
 
 .mentor-section a {
     margin-top: 50px;
-}
-
-/* Pages */
-.page {
-    padding: 80px 0px 0px;
-}
-
-.page p {
-    padding: 10px 0px 0px;
 }
 
 /* Intro */
