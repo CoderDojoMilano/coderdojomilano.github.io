@@ -126,6 +126,16 @@ blockquote p {
     background-color: rgba(255,255,255,.3);
 }
 
+.navbar-brand span {
+    display: none;
+}
+
+@media(min-width:993px) {
+    .navbar-brand span {
+        display: inline ;
+    }
+}
+
 @media(min-width:767px) {
     .navbar {
         padding: 20px 0;
