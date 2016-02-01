@@ -63,7 +63,7 @@ $(document).ready(function() {
           var payload = JSON.stringify( read_values() );
 
           if ( typeof window.kvstoreio !== 'undefined' ) {
-              kvstoreio("mentor",
+              kvstoreio("mentors",
                   key,
                   payload,
                   function(res) { confirm_form() });
