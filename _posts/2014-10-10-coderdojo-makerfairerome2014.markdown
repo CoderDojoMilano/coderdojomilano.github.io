@@ -7,7 +7,7 @@ slug: coderdojo-makerfairerome2014
 title: CoderDojo @MakerFaireRome2014
 wordpress_id: 2296
 categories:
-- News
+- Eventi passati
 ---
 
 ##### CoderDojo @MakerFaireRome2014 di Roberto Previtera

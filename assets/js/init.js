@@ -43,4 +43,6 @@ $(document).ready(function() {
         $('.navbar-toggle:visible').click();
     });
 
+    initMap();
+
 })
