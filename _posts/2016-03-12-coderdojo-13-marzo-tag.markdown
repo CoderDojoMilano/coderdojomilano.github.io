@@ -3,7 +3,8 @@ author: admin
 comments: false
 date: 2016-03-13 14:30:00+00:00
 layout: event
-location: tag milano
+location: tagmilano
+type: Player
 slug: coderdojo-il-13-marzo-in-tag
 title: CoderDojo il 13 marzo in Tag
 img: event_03.jpg
@@ -11,8 +12,6 @@ thumb: event_03.jpg
 categories:
 - Eventi in programma
 ---
-
-## CoderDojo Player
 
 ### Istruzioni
 Vi invitiamo a richiedere un ticket per ogni partecipante: la procedura consentirà di richiedere più ticket contemporaneamente.

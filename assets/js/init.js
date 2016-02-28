@@ -43,6 +43,6 @@ $(document).ready(function() {
         $('.navbar-toggle:visible').click();
     });
 
-    initMap();
-
+    if($("#cd_map_container").length) initMainMap("cd_map_container");
+    if($("#event_map_container").length) initEventMap("event_map_container", event_location);
 })

@@ -22,6 +22,28 @@ social:
   - title: twitter
     url: https://twitter.com/CoderDojoMi
 
+event_locations:
+  - id: tagmilano
+    url: http://talentgarden.org
+    name: TAG Milano
+    lat: 45.4973345
+    lon: 9.2191134
+    logo: logo_tag_milano.png
+    addr: Via Merano, 16, 20127 Milano
+  - id: wemake
+    url: http://wemake.cc
+    name: WeMake
+    lat: 45.507106
+    lon: 9.2262703
+    logo: logo_wemake.png
+    addr: Via Privata Stefanardo da Vimercate, 27, 20128 Milano
+  - id: wcapmi
+    url: http://www.wcap.tim.it/en/accelerators/milan
+    name: Working Capital Accelerator
+    lat: 45.4862554
+    lon: 9.2425329
+    logo: logo_wcap.png
+    addr: Via Rombon, 52, 20134 Milano
 # Build settings
 markdown: kramdown
 permalink: pretty

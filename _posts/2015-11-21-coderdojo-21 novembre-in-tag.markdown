@@ -3,7 +3,7 @@ author: admin
 comments: false
 date: 2015-11-21 14:30:00+00:00
 layout: post
-location: tag milano
+location: tagmilano
 slug: coderdojo-il-21-novembre-in-tag
 title: CoderDojo il 21 novembre in Tag
 img: event_03.jpg

@@ -12,7 +12,8 @@
 {% for event in site.categories['eventi in programma'] %}
                 <tr>
                     <td>{{ event.date | date: "%m/%d/%Y %H:%M" }}</td>
-                    <td><a href="{{ event.url  | prepend: site.baseurl }}">{{ event.title }}</a><br/><span>{{ event.location }}</span></td>
+                    <td><a href="{{ event.url  | prepend: site.baseurl }}">{{ event.title }}</a><br/><span>{%for location in site.event_locations%}{%if location.id == event.location%}
+            {{ location.name }}{%endif%}{%endfor%}</span></td>
                 </tr>
 {% endfor %}
             </tbody>
