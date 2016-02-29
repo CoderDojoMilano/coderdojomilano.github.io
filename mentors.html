@@ -9,7 +9,7 @@ title: Mentors
                             <li><a href="{{mentor.avatar}}"></a>
                             <h3>{{ mentor.name }}</h3>
                                 <div style="display:inline;">
-                                  <img src="{{ "/assets/img/mentors/" | prepend: site.baseurl }}{{ mentor.avatar }}" alt="Avatar" class="img-circle">
+                                  <img src="{{ "/assets/img/mentors/" | prepend: site.baseurl }}{{ mentor.avatar }}" alt="Avatar" class="mentor img-circle">
                                 </div>
                                 <div style="display:inline;">
                                 <p>{{ mentor.content }}</p>
@@ -17,4 +17,4 @@ title: Mentors
                             </li>
         {% endfor %}
                    </ul>
- 
+

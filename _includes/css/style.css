@@ -392,7 +392,7 @@ footer {
 }
 
 footer p {
-    padding: 10px 0;    
+    padding: 10px 0;
     margin: 0;
     font-size: 10pt;
 }
@@ -439,4 +439,8 @@ img::-moz-selection {
     font-size: 8;
     font-style: italic;
     font-weight: normal;
+}
+
+img.mentor.img-circle {
+    width: 180px;
 }
