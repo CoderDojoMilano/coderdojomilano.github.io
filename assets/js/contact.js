@@ -35,8 +35,6 @@
 
        var operation_checker = window.generate_random_operation();
        calculation_label_element.html( "Inserisci il risultato dell'operazione " + operation_checker.operation + " = " );
-       console.log("ci passo");
-       console.log(calculation_label_element);
 
        contact_form_element.submit( function(e) {
             e.preventDefault();
