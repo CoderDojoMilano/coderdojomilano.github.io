@@ -31,8 +31,6 @@
 
 
     $(document).ready(function() {
-         console.log("ci passo");
-
        var operation_checker = window.generate_random_operation();
        calculation_label_element.html( "Inserisci il risultato dell'operazione " + operation_checker.operation + " = " );
 
