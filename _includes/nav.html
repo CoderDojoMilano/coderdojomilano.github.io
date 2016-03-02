@@ -28,11 +28,11 @@
                       </ul>
                     </li>
                     <li class="dropdown {% if page.title == 'Calendario eventi' %} active{% endif %}">
-                      <a class="dropdown-toggle" data-toggle="dropdown" role="button">Calendario eventi<span class="caret"></span></a>
+                      {%comment%}<a class="dropdown-toggle" data-toggle="dropdown" role="button">Calendario eventi<span class="caret"></span></a>
                       <ul class="dropdown-menu">
-                        <li><a href="{{"/events-plan" | prepend: site.baseurl }}">Eventi in programma</a></li>
                         <li><a href="{{"/events-past" | prepend: site.baseurl }}">Eventi passati</a></li>
-                      </ul>
+                      </ul>{%endcomment%}
+                      <li><a href="{{"/events-plan" | prepend: site.baseurl }}">Eventi in programma</a></li>
                     </li>
                     <li class="dropdown {% if page.title == 'Risorse' %} active{% endif %}">
                       <a class="dropdown-toggle" data-toggle="dropdown" role="button">Risorse<span class="caret"></span></a>

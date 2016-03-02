@@ -4,18 +4,18 @@ title: Mentors
 ---
 
         <! -- MENTORS LIST -->
-                    <ul class="list-unstyled popular-posts">
+                    
         {% for mentor in site.mentors %}
-                            <li>
+                            <div class="media">
+                                <div class="media-left pull-left">
+                                  <img class="media-object mentor-avatar img-circle" src="{{ "/assets/img/mentors/" | prepend: site.baseurl }}{{ mentor.avatar }}" alt="Avatar">
+                                </div>
+                                <div class="media-body">
                                 <a href="{{mentor.avatar}}"></a>
-                                <h3>{{ mentor.name }}</h3>
-                                <span>
-                                  <img src="{{ "/assets/img/mentors/" | prepend: site.baseurl }}{{ mentor.avatar }}" alt="Avatar" class="mentor-avatar img-circle">
-                                </span>
-                                <span style="width:400px;">
+                                <h3 class="media-heading">{{ mentor.name }}</h3>
                                     {{ mentor.content }}
-                                </span>
-                            </li>
+                                </div>
+                            </div>
         {% endfor %}
-                   </ul>
+                   
  

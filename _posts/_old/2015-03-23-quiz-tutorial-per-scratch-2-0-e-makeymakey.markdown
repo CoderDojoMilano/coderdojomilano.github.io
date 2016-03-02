@@ -5,7 +5,6 @@ date: 2015-03-23 10:08:37+00:00
 layout: post
 slug: quiz-tutorial-per-scratch-2-0-e-makeymakey
 title: Quiz  - TUTORIAL per SCRATCH 2.0 e MakeyMakey
-wordpress_id: 2524
 categories:
 - News
 - Scratch
