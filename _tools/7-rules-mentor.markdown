@@ -34,4 +34,4 @@ Graphics & translation by Filippo Selden (CoderDojo Milano)
 
 [Italian version](/tools/7-regole-mentor/)
 
-[Pdf Download](/assets/pdf/7-rules-mentor.pdf)
+[Pdf Download](/assets/pdf/The-7-Golden-Rules-for-Mentors.pdf)
