@@ -31,4 +31,4 @@ Più che tante cose che direte, passerà la vostra passione!
 
 Scritto da [Barbara Laura Alaimo](/mentors/#barbara_alaimo) (CoderDojo Milano)
 
-[Versione in Inglese](/tools/7-rules-mentor.html)
+[Versione in Inglese](/tools/7-rules-mentor/)
