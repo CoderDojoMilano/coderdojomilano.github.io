@@ -5,7 +5,6 @@ date: 2014-02-27 07:51:03+00:00
 layout: post
 slug: scratch-base-1-acchiappa-il-cappello
 title: 'Tutorial: Scratch Base 1 - Acchiappa il cappello'
-wordpress_id: 1780
 categories:
 - News
 - Scratch

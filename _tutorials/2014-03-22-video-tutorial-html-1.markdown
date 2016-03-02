@@ -5,7 +5,6 @@ date: 2014-03-22 12:49:42+00:00
 layout: post
 slug: video-tutorial-html-1
 title: 'Video Tutorial: HTML 1'
-wordpress_id: 1826
 categories:
 - Html
 - Tutorial

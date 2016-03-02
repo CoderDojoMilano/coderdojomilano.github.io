@@ -5,7 +5,6 @@ date: 2013-02-19 08:55:07+00:00
 layout: post
 slug: un-gatto-arancione-e-dieci-bambini
 title: Un gatto arancione e dieci bambini
-wordpress_id: 663
 categories:
 - News
 - Rassegna Stampa

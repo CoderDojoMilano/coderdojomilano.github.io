@@ -6,14 +6,15 @@ title: Mentors
         <! -- MENTORS LIST -->
                     <ul class="list-unstyled popular-posts">
         {% for mentor in site.mentors %}
-                            <li><a href="{{mentor.avatar}}"></a>
-                            <h3>{{ mentor.name }}</h3>
-                                <div style="display:inline;">
-                                  <img src="{{ "/assets/img/mentors/" | prepend: site.baseurl }}{{ mentor.avatar }}" alt="Avatar" class="img-circle">
-                                </div>
-                                <div style="display:inline;">
-                                <p>{{ mentor.content }}</p>
-                                </div>
+                            <li>
+                                <a href="{{mentor.avatar}}"></a>
+                                <h3>{{ mentor.name }}</h3>
+                                <span>
+                                  <img src="{{ "/assets/img/mentors/" | prepend: site.baseurl }}{{ mentor.avatar }}" alt="Avatar" class="mentor-avatar img-circle">
+                                </span>
+                                <span style="width:400px;">
+                                    {{ mentor.content }}
+                                </span>
                             </li>
         {% endfor %}
                    </ul>

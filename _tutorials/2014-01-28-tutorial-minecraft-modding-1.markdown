@@ -5,7 +5,6 @@ date: 2014-01-28 09:32:00+00:00
 layout: post
 slug: tutorial-minecraft-modding-1
 title: 'Tutorial: Minecraft Modding 1'
-wordpress_id: 1739
 categories:
 - Minecraft Modding
 - News

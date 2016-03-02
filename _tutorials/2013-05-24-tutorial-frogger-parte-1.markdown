@@ -5,7 +5,6 @@ date: 2013-05-24 06:48:04+00:00
 layout: post
 slug: tutorial-frogger-parte-1
 title: Tutorial Frogger - Parte 1
-wordpress_id: 1240
 categories:
 - Scratch
 - Tutorial

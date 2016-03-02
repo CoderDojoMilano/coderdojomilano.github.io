@@ -23,7 +23,7 @@ h6 {
 }
 
 h1.jumbo {text-shadow: 0.1em 0.1em #666;}
-p {
+p.home {
     padding: 0 50px;
     margin: 0 0 25px;
     font-size: 18px;
@@ -31,7 +31,7 @@ p {
 }
 
 @media(min-width:767px) {
-    p {
+    p.home {
         padding: 0 100px;
         margin: 0 0 35px;
         font-size: 20px;
@@ -439,4 +439,8 @@ img::-moz-selection {
     font-size: 8;
     font-style: italic;
     font-weight: normal;
+}
+.mentor-avatar {
+    width: 128px;
+    height: 128px;
 }
