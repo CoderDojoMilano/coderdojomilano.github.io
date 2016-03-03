@@ -440,13 +440,6 @@ img::-moz-selection {
     font-style: italic;
     font-weight: normal;
 }
-<<<<<<< HEAD
 .mentor-avatar {
-    width: 128px;
-    height: 128px;
-=======
-
-img.mentor.img-circle {
     width: 180px;
->>>>>>> 8a2e5d21af659c7b529b23f9e42690eae6a1a453
 }

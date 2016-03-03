@@ -1,7 +1,7 @@
 ---
 author: admin
 comments: false
-date: 2016-03-13 14:30:00+00:00
+date: 2016-03-13 14:30:00+01:00
 layout: event
 location: tagmilano
 type: Player
@@ -10,7 +10,7 @@ title: CoderDojo il 13 marzo in Tag
 img: event_03.jpg
 thumb: event_03.jpg
 categories:
-- Eventi in programma
+- event_planned
 ---
 
 ### Istruzioni
