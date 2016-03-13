@@ -4,7 +4,7 @@
 <script src="{{ "/assets/js/jquery.easing.min.js" | prepend: site.baseurl }}"></script>
 <script src="{{ "/assets/js/init.js" | prepend: site.baseurl }}"></script>
 {% if jekyll.environment == "production" %}
-    <script src="http://www.kvstore.io/js/public.js?storage_uuid={{site.storage_uuid}}"></script>
+    <script async src="http://www.kvstore.io/js/public.js?storage_uuid={{site.storage_uuid}}"></script>
 {% endif %}
 <script src="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.js"></script>
 <script src="{{ "/assets/js/contact.js" | prepend: site.baseurl }}"></script>
