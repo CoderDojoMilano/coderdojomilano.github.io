@@ -1,21 +1,24 @@
 <h2>Calendario eventi</h2>
 <! -- EVENT PLANNED LIST -->
 <div>
-            <table class="table table-bordered">
-            <thead>
-                <tr>
-                    <td>Data/Ora</td>
-                    <td>Evento</td>
-                </tr>
-            </thead>
-            <tbody>
-{% for event in site.categories.event_planned %}
-                <tr>
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <td>Data/Ora</td>
+                <td>Evento</td>
+            </tr>
+        </thead>
+        <tbody>
+            {% for event in site.categories.event_planned %}
+                <tr date="{{event.date}}" style="display: none;">
                     <td>{{ event.date | date: "%m/%d/%Y %H:%M" }}</td>
                     <td><a href="{{ event.url  | prepend: site.baseurl }}">{{ event.title }}</a><br/><span>{%for location in site.event_locations%}{%if location.id == event.location%}
-            {{ location.name }}{%endif%}{%endfor%}</span></td>
+                    {{ location.name }}{%endif%}{%endfor%}</span></td>
                 </tr>
-{% endfor %}
-            </tbody>
-           </table>
+            {% endfor %}
+        </tbody>
+    </table>
+    <script type="text/javascript">
+        window.showFutureItems("tr[date]");
+    </script>
 </div>

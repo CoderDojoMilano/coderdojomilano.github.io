@@ -1,7 +1,7 @@
 ---
 author: admin
 comments: false
-date: 2016-03-13 14:30:00+01:00
+date: 2016-03-12 14:30:00+01:00
 layout: event
 location: tagmilano
 type: Player

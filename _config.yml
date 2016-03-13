@@ -60,4 +60,7 @@ collections:
     output: yes
     path: /tools/:name
 
- 
+gems:
+ - jekyll-coffeescript
+
+
