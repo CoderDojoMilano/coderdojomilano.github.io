@@ -62,5 +62,5 @@ collections:
 
 gems:
  - jekyll-coffeescript
-
+ - jekyll-redirect-from
 
