@@ -4,6 +4,9 @@ title: The 7 Golden Rules for Mentors
 date: '2014-09-16 10:50:42 +0200'
 categories:
 - tools
+redirect_from:
+  - /the-7-golden-rules-for-mentors
+  - /the-7-golden-rules-for-mentors/
 ---
 # The 7 Golden Rules for Mentors
 

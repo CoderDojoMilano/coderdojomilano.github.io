@@ -4,6 +4,9 @@ title: Le 7 regole d'oro per il mentor
 date: '2013-04-27 09:32:23 +0200'
 categories:
 - tools
+redirect_from:
+  - /le-7-regole-doro-per-il-mentor
+  - /le-7-regole-doro-per-il-mentor/
 ---
 # Le 7 regole d'oro per il mentor
 
