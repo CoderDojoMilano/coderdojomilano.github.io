@@ -1,9 +1,10 @@
+"use strict";
 (function mentor() {
   var mentor_form_element = $(".mentor-form");
   var calculation_label_element = mentor_form_element.find("[data-id='calculation-label']");
   var submit_button_element = mentor_form_element.find("[data-id='mentor-submit']");
 
-  read_values = function () {
+  var read_values = function () {
     var $item, i, item, j, key, len, len1, ref, ref1, values;
     values = {};
 
