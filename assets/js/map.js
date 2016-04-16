@@ -1,3 +1,4 @@
+"use strict";
 function initMainMap(map_container_id) {
   var map = L.map(map_container_id).setView([45.4913, 9.2093], 13);
   map.scrollWheelZoom.disable();
@@ -6,7 +7,7 @@ function initMainMap(map_container_id) {
     maxZoom: 18,
     id: 'mapbox.streets',
     accessToken: 'pk.eyJ1IjoicHJldmkiLCJhIjoiY2lobmZ2OXU3MDBoanZrbTlmZ2Zpb3JoayJ9.7vBRLC3iMq_xL-KIHeNIZw'
-  }).addTo(map);  
+  }).addTo(map);
 
   for (var i = 0; i < event_locations.length; i++) {
     var dojo = event_locations[i];
@@ -29,7 +30,7 @@ function initEventMap(map_container_id, event_location_id) {
     maxZoom: 18,
     id: 'mapbox.streets',
     accessToken: 'pk.eyJ1IjoicHJldmkiLCJhIjoiY2lobmZ2OXU3MDBoanZrbTlmZ2Zpb3JoayJ9.7vBRLC3iMq_xL-KIHeNIZw'
-  }).addTo(map);  
+  }).addTo(map);
 
   setMarker(map, dojo, true);
 }
@@ -38,7 +39,7 @@ function setMarker(map, dojo, popupOpen) {
   // Adds markers to the map.
 
   var cdmiMarkerIcon = L.icon({
-    iconUrl: '/assets/img/marker_cdmi.png', 
+    iconUrl: '/assets/img/marker_cdmi.png',
     iconSize:     [64, 64], // size of the icon
     shadowSize:   [0, 0], // size of the shadow
     iconAnchor:   [32, 64], // point of the icon which will correspond to marker's location
