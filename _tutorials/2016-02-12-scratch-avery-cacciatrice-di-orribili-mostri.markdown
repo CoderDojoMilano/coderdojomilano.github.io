@@ -4,16 +4,14 @@ comments: false
 date: 2016-02-12 12:00:00+01:00
 layout: post
 slug: scratch-avery-cacciatrice-di-orribili-mostri
-title: Scratch – Avery cacciatrice di orribili mostri
+title: Scratch – Avery cacciatrice di orribili mostri di Luigi Torelli
 categories:
 - News
 - Scratch
 - Tutorial
 ---
 
-### TUTORIAL per SCRATCH di Luigi Torelli
-
-Questo Tutorial ti mostrerà come creare il gioco ‘Avery cacciatrice di orribili mostri’
+##### Questo Tutorial ti mostrerà come creare il gioco ‘Avery cacciatrice di orribili mostri’
 
 AVERY, coraggiosa e intraprendente ragazza, si trova in un misterioso DESERTO STREGATO infestato da orribili mostri (ululato del lupo e inquietanti rumori non lasciano dubbi sul fatto che il posto in cui vi trovate è poco raccomandabile).
 

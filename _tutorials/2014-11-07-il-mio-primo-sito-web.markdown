@@ -12,18 +12,20 @@ categories:
 - Tutorial
 ---
 
-![html_sushi01](http://coderdojomilano.it/wp-content/uploads/2014/11/html_sushi01-270x300.jpg)
+##### Realizziamo il nostro primo sito web usando le Sushi Card
+
+<blockquote>Le Sushi Card sono una serie di schede rivolte a coloro che desiderano realizzare il proprio primo sito web</blockquote>
+
+In progressione e con semplicità si affrontano i principali concetti del linguaggio Html e dei Css.
 
 
-<blockquote> _Le Sushi Card sono una serie di schede rivolte a coloro che desiderano realizzare il proprio primo sito web._
+Per seguire il percorso è sufficiente scaricare, oltre alle schede che trovate sotto, la cartella compressa chiamata 'Materiale' che contiene già il file Html iniziale sulla base del quale si procederà poi alla costruzione dell'intero sito.
 
-_In progressione e con semplicità si affrontano i principali concetti del linguaggio Html e dei Css._
 
-_Per seguire il percorso è sufficiente scaricare, oltre alle schede che trovate sotto, la cartella compressa chiamata 'Materiale' che contiene già il file Html iniziale sulla base del quale si procederà poi alla costruzione dell'intero sito._
+Nella stessa cartella sono presenti un file Css che verrà successivamente modificato e personalizzato oltre ad una cartella con i file delle immagini utilizzate nel corso del lavoro.
 
-_Nella stessa cartella sono presenti un file Css che verrà successivamente modificato e personalizzato oltre ad una cartella con i file delle immagini utilizzate nel corso del lavoro._
 
-_Ogni scheda si presenta come una singola lezione e dovrebbero essere utilizzate in sequenza._</blockquote>
+Ogni scheda si presenta come una singola lezione e dovrebbero essere utilizzate in sequenza
 
 
 [01-Modifica una pagina web](http://coderdojomilano.it/wp-content/uploads/2014/11/01-Modifica-una-pagina-web.pdf)

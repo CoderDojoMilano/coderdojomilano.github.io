@@ -10,6 +10,8 @@ categories:
 - Tutorial
 ---
 
+##### Creiamo un plugin per Minecraft
+
 Guida allo sviluppo di Plugin Server per Minecraft.
 
 Credits: un ringraziamento a *Toto Castaldi* per il grande lavoro.
