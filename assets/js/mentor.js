@@ -61,7 +61,7 @@
         if (mentor_form_element.valid()) {
             submit_button_element.attr("disabled", "disabled");
 
-            var key = "ts_" + Date.now();
+            var key = "ts_" + Date.now().toJSON();
             var payload = JSON.stringify( read_values() );
 
             if ( typeof window.kvstoreio !== 'undefined' ) {
