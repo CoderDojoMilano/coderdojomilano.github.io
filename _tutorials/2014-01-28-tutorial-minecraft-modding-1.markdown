@@ -25,9 +25,8 @@ Alla fine di questa guida avremo ...
 
 … imparato un pò di Java.
 
-[![tutorial_minecraft_01](http://coderdojomilano.it/wp-content/uploads/2014/01/tutorial_minecraft_01-e1390565656609.jpg)](http://coderdojomilano.it/wp-content/uploads/2014/01/tutorial_minecraft_01-e1390565656609.jpg)
+[![tutorial_minecraft_01](/assets/uploads/2014/01/tutorial_minecraft_01-e1390565656609.jpg)](/assets/uploads/2014/01/tutorial_minecraft_01-e1390565656609.jpg)
 
 
-
-
-##### Vai alla Guida, [clicca QUI](https://docs.google.com/document/d/1ZlnqE98ckeoGnvdpM1En2JW9QrVc98oFCvGADeIEn98/edit?usp=sharing)
+##### Vai alla Guida
+<a href="https://docs.google.com/document/d/1ZlnqE98ckeoGnvdpM1En2JW9QrVc98oFCvGADeIEn98/edit?usp=sharing" target="new">clicca QUI</a>

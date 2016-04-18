@@ -28,26 +28,24 @@ Nella stessa cartella sono presenti un file Css che verrà successivamente modif
 Ogni scheda si presenta come una singola lezione e dovrebbero essere utilizzate in sequenza
 
 
-[01-Modifica una pagina web](http://coderdojomilano.it/wp-content/uploads/2014/11/01-Modifica-una-pagina-web.pdf)
+[01-Modifica una pagina web](/assets/uploads/2014/11/01-Modifica-una-pagina-web.pdf)
 
-[2-Crea una nuova pagina web](http://coderdojomilano.it/wp-content/uploads/2014/11/02-Crea-una-nuova-pagina-web.pdf)
+[2-Crea una nuova pagina web](/assets/uploads/2014/11/02-Crea-una-nuova-pagina-web.pdf)
 
-[03-Crea l-home page](http://coderdojomilano.it/wp-content/uploads/2014/11/03-Crea-l-home-page.pdf)[04-aggiungi-dello-stile](http://coderdojomilano.it/wp-content/uploads/2014/11/04-aggiungi-dello-stile.pdf)
+[03-Crea l-home page](/assets/uploads/2014/11/03-Crea-l-home-page.pdf)[04-aggiungi-dello-stile](/assets/uploads/2014/11/04-aggiungi-dello-stile.pdf)
 
-[05-Collega le pagine](http://coderdojomilano.it/wp-content/uploads/2014/11/05-Collega-le-pagine.pdf)
+[05-Collega le pagine](/assets/uploads/2014/11/05-Collega-le-pagine.pdf)
 
-[06-Dai stile al menu](http://coderdojomilano.it/wp-content/uploads/2014/11/06-Dai-stile-al-menu.pdf)
+[06-Dai stile al menu](/assets/uploads/2014/11/06-Dai-stile-al-menu.pdf)
 
-[07-Diamo stile ai link del menu](http://coderdojomilano.it/wp-content/uploads/2014/11/07-Diamo-stile-ai-link-del-menu.pdf)
+[07-Diamo stile ai link del menu](/assets/uploads/2014/11/07-Diamo-stile-ai-link-del-menu.pdf)
 
-[08-Identifichiamo il menu](http://coderdojomilano.it/wp-content/uploads/2014/11/08-Identifichiamo-il-menu.pdf)
+[08-Identifichiamo il menu](/assets/uploads/2014/11/08-Identifichiamo-il-menu.pdf)
 
-[09-Diventa Responsive](http://coderdojomilano.it/wp-content/uploads/2014/11/09-Diventa-Responsive.pdf)
+[09-Diventa Responsive](/assets/uploads/2014/11/09-Diventa-Responsive.pdf)
 
-[10-Aggiungi una tabella](http://coderdojomilano.it/wp-content/uploads/2014/11/10-Aggiungi-una-tabella.pdf)
+[10-Aggiungi una tabella](/assets/uploads/2014/11/10-Aggiungi-una-tabella.pdf)
 
-[11-Crea cruciverba](http://coderdojomilano.it/wp-content/uploads/2014/11/11-Crea-cruciverba.pdf)
+[11-Crea cruciverba](/assets/uploads/2014/11/11-Crea-cruciverba.pdf)
 
-[Materiale](http://coderdojomilano.it/wp-content/uploads/2014/11/Materiale.zip)
-
-
+[Materiale](/assets/uploads/2014/11/Materiale.zip)

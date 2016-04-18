@@ -16,12 +16,12 @@ categories:
 
 Seguendo questo tutorial imparerai a utilizzare i blocchi per ripetere tante volte la stessa istruzione (cicli) e quelli per far prendere delle decisioni al programma (condizioni).
 
-Vai alla Guida, [clicca QUI](https://drive.google.com/file/d/0B2acWmxEoKDkWF9JZ1o3eXVoOXM/edit?usp=sharing)
+Vai alla Guida, <a href="https://drive.google.com/file/d/0B2acWmxEoKDkWF9JZ1o3eXVoOXM/edit?usp=sharing" target="new">clicca qui</a>
 
-Per scaricare il progetto finito, [clicca QUI](https://drive.google.com/file/d/0B2acWmxEoKDkWXNQbG9IT1MwMGs/edit?usp=sharing)
+Per scaricare il progetto finito, <a href="https://drive.google.com/file/d/0B2acWmxEoKDkWXNQbG9IT1MwMGs/edit?usp=sharing" target="new">clicca qui</a>
 
-Per vedere il progetto online, [clicca QUI](http://scratch.mit.edu/projects/17838403/)
+Per vedere il progetto online, <a href="http://scratch.mit.edu/projects/17838403/" target="new">clicca qui</a>
 
 
 
-![SC_PB_S2_robot_e_farfalla](http://coderdojomilano.it/wp-content/uploads/2014/04/SC_PB_S2_robot_e_farfalla.png)
+![SC_PB_S2_robot_e_farfalla](/assets/uploads/2014/04/SC_PB_S2_robot_e_farfalla.png)

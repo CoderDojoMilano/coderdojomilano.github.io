@@ -17,13 +17,13 @@ categories:
 Seguendo questo tutorial imparerai a realizzare un gioco con Scratch familiarizzando con i suoi elementi base.
 In particolare: come si sceglie uno sfondo, come si scelgono i personaggi, come si fanno muovere e interagire tra di loro e come si aggiungono i punti e un limite di tempo al gioco.
 
-Vai alla Guida, [clicca QUI](https://drive.google.com/file/d/0B2acWmxEoKDkamxzTUJVOHRiVmM/edit?usp=sharing)
+Vai alla Guida, <a href="https://drive.google.com/file/d/0B2acWmxEoKDkamxzTUJVOHRiVmM/edit?usp=sharing" target="new">clicca qui</a>
 
-Per scaricare il progetto finito, [clicca QUI](https://drive.google.com/file/d/0B2acWmxEoKDkcU54Zzkza01kVk0/edit?usp=sharing)
+Per scaricare il progetto finito, <a href="https://drive.google.com/file/d/0B2acWmxEoKDkcU54Zzkza01kVk0/edit?usp=sharing" target="new">clicca qui</a>
 
-Per scaricare sfondi e personaggi, [clicca QUI](https://drive.google.com/file/d/0B2acWmxEoKDkdEl1MUZ2eFd3ejA/edit?usp=sharing)
+Per scaricare sfondi e personaggi, <a href="https://drive.google.com/file/d/0B2acWmxEoKDkdEl1MUZ2eFd3ejA/edit?usp=sharing" target="new">clicca qui</a>
 
-Per vedere il progetto online, [clicca QUI](http://scratch.mit.edu/projects/19708707/)
+Per vedere il progetto online, <a href="http://scratch.mit.edu/projects/19708707/" target="new">clicca qui</a>
 
 
-![SC_PB_S1_acchiappa_uovo](http://coderdojomilano.it/wp-content/uploads/2014/04/SC_PB_S1_acchiappa_uovo.png)
+![SC_PB_S1_acchiappa_uovo](/assets/uploads/2014/04/SC_PB_S1_acchiappa_uovo.png)

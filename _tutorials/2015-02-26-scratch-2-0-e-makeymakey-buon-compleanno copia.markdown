@@ -15,14 +15,12 @@ categories:
 
 Visto che in questo caso è stato preparato per una festa di compleanno, il percorso seguirà la sagoma di una torta con le candeline.
 
-Vai alla Guida, [clicca QUI](https://drive.google.com/file/d/0B3FGUG-ENxwNUmJLcU1YSFVGamc/view?usp=sharing)
+Vai alla Guida, <a href="https://drive.google.com/file/d/0B3FGUG-ENxwNUmJLcU1YSFVGamc/view?usp=sharing" target="new">clicca qui</a>
 
-Per scaricare il progetto di partenza, [clicca QUI](https://drive.google.com/file/d/0B3FGUG-ENxwNWEVKVFZQV3I1M3c/view?usp=sharing)
+Per scaricare il progetto di partenza, <a href="https://drive.google.com/file/d/0B3FGUG-ENxwNWEVKVFZQV3I1M3c/view?usp=sharing" target="new">clicca qui</a>
 
-Per scaricare il progetto finito, [clicca QUI](https://drive.google.com/file/d/0B3FGUG-ENxwNM3VKeFdlOXlveUk/view?usp=sharing)
+Per scaricare il progetto finito, <a href="https://drive.google.com/file/d/0B3FGUG-ENxwNM3VKeFdlOXlveUk/view?usp=sharing" target="new">clicca qui</a>
 
-Per vedere il progetto online, [clicca QUI](http://scratch.mit.edu/projects/53735028/)
+Per vedere il progetto online, <a href="http://scratch.mit.edu/projects/53735028/" target="new">clicca qui</a>
 
-![ScreenShot](http://coderdojomilano.it/wp-content/uploads/2015/02/ScreenShot-e1424959017965.jpg)
-
-
+![ScreenShot](/assets/uploads/2015/02/ScreenShot-e1424959017965.jpg)

@@ -15,5 +15,5 @@ categories:
 
 Non perdetevi la seconda parte del tutorial per realizzare il mitico videogioco anni '80 Frogger. E quando lo avete completato, aiutate la rana a superare gli ostacoli e a raggiungere la sua tana!
 
-
-[![Frogger 2](http://img.youtube.com/vi/94rFDo0s-bM/0.jpg)](http://www.youtube.com/watch?v=94rFDo0s-bM)
+#### Frogger - Parte 2
+<iframe width="420" height="315" src="https://www.youtube.com/embed/94rFDo0s-bM" frameborder="0" allowfullscreen></iframe>

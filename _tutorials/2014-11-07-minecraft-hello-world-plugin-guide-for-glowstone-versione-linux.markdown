@@ -17,5 +17,4 @@ Guida allo sviluppo di Plugin Server per Minecraft.
 Credits: un ringraziamento a *Toto Castaldi* per il grande lavoro.
 
 Versione per Linux
-
-[![Minecraft tutorial](http://img.youtube.com/vi/u1uYFSqEFkQ/0.jpg)](http://www.youtube.com/watch?v=u1uYFSqEFkQ)
+<iframe width="420" height="315" src="https://www.youtube.com/embed/94rFDo0s-bM" frameborder="0" allowfullscreen></iframe>

@@ -17,10 +17,10 @@ Seguendo questo tutorial imparerai a realizzare un gioco con Scratch familiarizz
 
 In particolare: come si sceglie uno sfondo, come si scelgono i personaggi, come si fanno muovere e interagire tra di loro e come si aggiungono i punti e un limite di tempo al gioco.
 
-Vai alla Guida, [clicca QUI](https://drive.google.com/file/d/0B2acWmxEoKDkUk42N0d0UEV1ZFk/edit?usp=sharing)
+Vai alla Guida <a href="https://drive.google.com/file/d/0B2acWmxEoKDkUk42N0d0UEV1ZFk/edit?usp=sharing" target="new">clicca qui</a>
 
-Per scaricare il progetto finito, [clicca QUI](https://drive.google.com/file/d/0B2acWmxEoKDkN1RoSUEwcWJZWkk/edit?usp=sharing)
+Per scaricare il progetto finito, <a href="https://drive.google.com/file/d/0B2acWmxEoKDkN1RoSUEwcWJZWkk/edit?usp=sharing" target="new">clicca qui</a>
 
-Per vedere il progetto online, [clicca QUI](http://scratch.mit.edu/projects/17937468/)
+Per vedere il progetto online, <a href="http://scratch.mit.edu/projects/17937468/" target="new">clicca qui</a>
 
-[![SC_PB_S1 acchiappa il cappello](http://coderdojomilano.it/wp-content/uploads/2014/02/SC_PB_S1-acchiappa-il-cappello.png)](http://coderdojomilano.it/wp-content/uploads/2014/02/SC_PB_S1-acchiappa-il-cappello.png)
+[![SC_PB_S1 acchiappa il cappello](/assets/uploads/2014/02/SC_PB_S1-acchiappa-il-cappello.png)](/assets/uploads/2014/02/SC_PB_S1-acchiappa-il-cappello.png)

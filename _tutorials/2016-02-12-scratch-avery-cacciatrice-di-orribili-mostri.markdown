@@ -17,15 +17,12 @@ AVERY, coraggiosa e intraprendente ragazza, si trova in un misterioso DESERTO ST
 
 Per giocare dovrete guidare AVERY in modo che insegua i mostri, li raggiunga e li tocchi, così facendo li farà scomparire temporaneamente.
 
-Per scaricare il pdf del tutorial [clicca qui](https://drive.google.com/file/d/0B3FGUG-ENxwNUk04ejhmMzFXSnc/view?usp=sharing)
+Per scaricare il pdf del tutorial <a href="https://drive.google.com/file/d/0B3FGUG-ENxwNUk04ejhmMzFXSnc/view?usp=sharing" target="new">clicca qui</a>
 
-Per vedere i video tutorial [clicca qui](https://www.youtube.com/playlist?list=PL20-bDssQLg6q1WpH1scgRQy68Mu4dVCa)
+Per vedere i video tutorial <a href="https://www.youtube.com/playlist?list=PL20-bDssQLg6q1WpH1scgRQy68Mu4dVCa" target="new">clicca qui</a>
 
-Per vedere il progetto online [clicca qui](https://scratch.mit.edu/projects/97613904/)
+Per vedere il progetto online <a href="https://scratch.mit.edu/projects/97613904/" target="new">clicca qui</a>
 
-Per scaricare il progetto Scratch [clicca qui](https://drive.google.com/file/d/0B3FGUG-ENxwNTkN1R1JkdkswclE/view?usp=sharing)
+Per scaricare il progetto Scratch <a href="https://drive.google.com/file/d/0B3FGUG-ENxwNTkN1R1JkdkswclE/view?usp=sharing" target="new">clicca qui</a>
 
-![ScreenShot](http://coderdojomilano.it/wp-content/uploads/2016/02/avery01.jpg)
-
-
-
+![ScreenShot](/assets/uploads/2016/02/avery01.jpg)

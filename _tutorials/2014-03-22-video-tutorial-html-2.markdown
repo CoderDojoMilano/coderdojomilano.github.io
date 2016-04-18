@@ -16,13 +16,10 @@ categories:
 Impariamo ad usare un editor di testo e visualizzare una pagina all'interno del Browser.
 
 Al termine del secondo tutorial avremo imparato:
-	
+
   * creare, salvare, visualizzare un file html
-	
   * uso dei tag <title> <h1> <h2> <h_n_> <br>
 
 
 ##### Se non vedi il video qui sotto, [clicca qui](http://www.powtoon.com/p/dG8B9Hvnpik/)
-
-
-
+<iframe width="420" height="315" src="http://www.powtoon.com/embed/dG8B9Hvnpik" frameborder="0" allowfullscreen></iframe>
