@@ -42,7 +42,7 @@
             if (contact_form_element.valid()) {
                 submit_button_element.attr("disabled", "disabled");
 
-                var key = "ts_" + Date.now();
+                var key = "ts_" + Date.now().toJSON();
                 var payload = JSON.stringify({ name: name_element.val(), email: email_element.val(), message: message_element.val()});
 
                 if ( typeof window.kvstoreio !== 'undefined' ) {

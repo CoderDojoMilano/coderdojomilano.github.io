@@ -30,6 +30,10 @@ p.home {
     line-height: 1.5;
 }
 
+ul.popular-posts li {
+    margin-bottom: 40px;
+}
+
 @media(min-width:767px) {
     p.home {
         padding: 0 100px;
