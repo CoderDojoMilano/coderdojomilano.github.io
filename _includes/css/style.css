@@ -445,5 +445,9 @@ img::-moz-selection {
     font-weight: normal;
 }
 .mentor-avatar {
-    width: 180px;
+    width: 90%;
+}
+.media > .pull-left {
+  margin-right: 10px;
+  width : 20%;
 }
