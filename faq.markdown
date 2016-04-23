@@ -51,7 +51,7 @@ Eventbrite è un servizio on-line che fa incontrare l’offerta di un servizio c
 Le registrazioni si aprono il Lunedì della settimana dell’evento, qualora l’evento si tenga di Sabato. Nel caso l’evento si tenga in un altro giorno della settimana, l’apertura delle iscrizioni verrà comunicata di volta in volta attraverso la pagina FB e Google+.
 
 ### A che ora si aprono le iscrizioni?
-Le iscrizioni si aprono alle ore 8.00.
+Le iscrizioni si aprono alle ore 15.30.
 
 ### Cosa devo fare per registrare mio figlio a Coderdojo?
 Il genitore può verificare la presenza di posti disponibili per una nuova data nel sito di Eventbrite (https://www.eventbrite.it) inserendo nel campo di ricerca degli eventi la chiave “Coderdojo”. Nel caso ci siano posti disponibili il pulsante “Registrati” è abilitato. Occorre premerlo e seguire le istruzioni.
