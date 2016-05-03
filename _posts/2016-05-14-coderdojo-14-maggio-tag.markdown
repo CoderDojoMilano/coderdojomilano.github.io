@@ -14,7 +14,7 @@ categories:
 ---
 
 ### Istruzioni
-Per partecipare all'evento è necessario registrarsi tramite il servizio EventBrite,[questo il link all'evento](https://www.eventbrite.it/e/biglietti-coderdojo-milano-tag-14-maggio-2016-25179466462).
+Per partecipare all'evento è necessario registrarsi tramite il servizio EventBrite, [questo il link all'evento](https://www.eventbrite.it/e/biglietti-coderdojo-milano-tag-14-maggio-2016-25179466462).
 Vi invitiamo a richiedere un ticket per ogni partecipante: la procedura consentirà di richiedere più ticket contemporaneamente.
 
 Una volta effettuata la registrazione riceverete una mail di conferma: nel caso non la riceveste vi invitiamo a rivedere la vostra registrazione.
