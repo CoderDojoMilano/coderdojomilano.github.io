@@ -12,7 +12,7 @@ color:
   fg: '#3f3f3f'
   navbar: 'rgba(255,255,255,.8)'
   navbar-collapsed: 'rgba(255,255,255,1)'
-  links: '#000'
+  links: '#4078c0'
   links-focus: '#00f'
 
 # Socials
