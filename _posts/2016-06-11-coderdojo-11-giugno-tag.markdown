@@ -14,6 +14,7 @@ categories:
 ---
 
 ### Istruzioni
+Per partecipare all'evento è necessario registrarsi tramite il servizio EventBrite, [questo il link all'evento](https://www.eventbrite.it/e/biglietti-coderdojo-milano-tag-11-giugno-2016-25683269350).
 Vi invitiamo a richiedere un ticket per ogni partecipante: la procedura consentirà di richiedere più ticket contemporaneamente.
 
 Una volta effettuata la registrazione riceverete una mail di conferma: nel caso non la riceveste vi invitiamo a rivedere la vostra registrazione.
@@ -25,7 +26,3 @@ A causa dei posti limitati non potremo consentire a chi è sprovvisto di registr
 - una merenda
 
 *Attenzione*: i ragazzi di età inferiore a 16 anni devono essere accompagnati da un adulto che *deve essere presente durante tutta la durata dell’evento*.
-
-
-
-
