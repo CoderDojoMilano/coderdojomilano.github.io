@@ -10,7 +10,7 @@ layout: default
     <div class="row">
         <div class="col-lg-6">
         	<h4>Data/Ora</h4>
-        	<p>{{ page.date | date: "%m/%d/%Y %H:%M" }}</p>
+        	<p>{{ page.date | date: "%d/%m/%Y %H:%M" }}</p>
         	<h4>Luogo</h4>{%for location in site.event_locations%}{%if location.id == page.location%}
         	<p>{{ location.name }}</p>
             <p>{{ location.addr }}</p>
