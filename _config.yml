@@ -46,6 +46,14 @@ event_locations:
     lon: 9.2425329
     logo: logo_wcap.png
     addr: Via Rombon, 52, 20134 Milano
+  - id: base
+    url: http://base.milano.it/
+    name: BASE Milano
+    lat: 45.452412
+    lon: 9.163875
+    logo: logo_base.png
+    addr: Via Bergognone, 34, 20144 Milano
+
 # Build settings
 markdown: kramdown
 permalink: pretty
