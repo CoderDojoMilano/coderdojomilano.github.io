@@ -3,7 +3,7 @@ author: admin
 comments: false
 date: 2016-11-27 14:30:00+01:00
 layout: event
-location: basemilano
+location: base
 type: Hackathon
 slug: coderdojo-hackathon-il-27-novembre-in-base
 title: CoderDojo Hackathon il 27 novembre in BASE
