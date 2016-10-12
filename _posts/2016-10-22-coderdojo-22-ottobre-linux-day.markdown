@@ -3,7 +3,7 @@ author: admin
 comments: false
 date: 2016-10-22 10:30:00+01:00
 layout: event
-#location:
+location: unimi-di
 type: spot
 slug: coderdojo-linux-day-il-22-ottobre
 title: CoderDojo Linux Day il 22 ottobre presso Università degli Studi di Milano
