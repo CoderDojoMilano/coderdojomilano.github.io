@@ -53,6 +53,13 @@ event_locations:
     lon: 9.163875
     logo: logo_base.png
     addr: Via Bergognone, 34, 20144 Milano
+  - id: unimi-di
+    url: http://www.di.unimi.it/
+    name: Università degli Studi di Milano - Dipartimento di Informatica
+    lat: 45.454522
+    lon: 9.214693
+    logo: logo_unimi.png
+    addr: Via Comelico, 39, 20135 Milano
 
 # Build settings
 markdown: kramdown
