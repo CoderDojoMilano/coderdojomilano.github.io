@@ -1,6 +1,6 @@
 "use strict";
 function initMainMap(map_container_id) {
-  var map = L.map(map_container_id).setView([45.4913, 9.2093], 13);
+  var map = L.map(map_container_id).setView([45.4913, 9.2093], 12);
   map.scrollWheelZoom.disable();
   L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoicHJldmkiLCJhIjoiY2lobmZ2OXU3MDBoanZrbTlmZ2Zpb3JoayJ9.7vBRLC3iMq_xL-KIHeNIZw', {
     attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
