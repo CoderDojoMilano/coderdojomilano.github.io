@@ -11,7 +11,7 @@ function initMainMap(map_container_id) {
 
   for (var i = 0; i < event_locations.length; i++) {
     var dojo = event_locations[i];
-    if (dojo.type != 'spot') {
+    if (!dojo.no_home_map) {
       setMarker(map, dojo, false);
     }
   }
