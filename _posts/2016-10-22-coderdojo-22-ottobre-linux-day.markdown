@@ -6,15 +6,19 @@ layout: event
 location: unimi-di
 type: spot
 slug: coderdojo-linux-day-il-22-ottobre
-title: CoderDojo Linux Day il 22 ottobre presso Università degli Studi di Milano
+title: CoderDojo @ Linux Day Milano
 img: event_03.jpg
 thumb: event_03.jpg
 categories:
 - event_planned
 ---
 
+Questa sessione CoderDojo fa parte dell'evento Linux Day Milano, che sarà ospitato dall'Università degli Studi di Milano, Dipartimento di Informatica, in via Comelico, 39 Milano.  Maggiori informazioni su: [www.linuxdaymilano.org](http://www.linuxdaymilano.org).
+
 ### Istruzioni
-Per partecipare all'evento è necessario registrarsi sul sito [www.linuxdaymilano.org](http://www.linuxdaymilano.org) a partire da Lunedì 17 Ottobre.
+Per partecipare all'evento è necessario registrarsi tramite il servizio EventBrite: [registrati qui!](http://coderdojo-al-linux-day-milano-2016.eventbrite.it)
+
+I biglietti saranno disponibili da Lunedì 17 ottobre.
 
 ### Ricordate di portare
 - un PC portatile dotato di *alimentatore e mouse* per ogni partecipante
