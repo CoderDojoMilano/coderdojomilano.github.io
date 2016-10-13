@@ -13,6 +13,7 @@ categories:
 - event_planned
 ---
 
+### Info
 Questa sessione CoderDojo fa parte dell'evento Linux Day Milano, che sarà ospitato dall'Università degli Studi di Milano, Dipartimento di Informatica, in via Comelico, 39 Milano.  Maggiori informazioni su: [www.linuxdaymilano.org](http://www.linuxdaymilano.org).
 
 ### Istruzioni
