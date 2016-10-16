@@ -22,7 +22,7 @@ function initEventMap(map_container_id, event_location_id) {
   var dojo = null;
   for (var i = 0; i < event_locations.length; i++) {
     dojo = event_locations[i];
-    if(dojo.did == event_location_id)
+    if(dojo.id == event_location_id)
       break;
   }
   var map = L.map(map_container_id).setView([dojo.lat, dojo.lon], 13);
