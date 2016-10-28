@@ -27,6 +27,11 @@ layout: default
         {% assign layout_width = "col-lg-12" %}
     {% endif %}
     <div class="row">
+        <div class="col-lg-12">
+            {{content}}
+        </div>
+    </div>
+    <div class="row">
         <div class="{{layout_width}}">
             <h3>Istruzioni</h3>
             <p>Per partecipare all'evento è necessario registrarsi {%if page.registration_url %}({%if eventbrite_id %}vedi il RIQUADRO oppure {% endif %}<a href="{{page.registration_url}}" target="_blank">CLICCA QUI</a>){% else %}(le informazioni per la registrazione non sono ancora disponibili){% endif %}</p>
