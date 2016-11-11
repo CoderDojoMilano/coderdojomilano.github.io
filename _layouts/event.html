@@ -27,7 +27,7 @@ layout: default
         {% assign layout_width = "col-lg-12" %}
     {% endif %}
     <div class="row">
-        <div class="{{layout_width}}">
+        <div class="{{layout_width}}" style="margin-top:30px;">
             {{content}}
             <h3>Istruzioni</h3>
             <p>Per partecipare all'evento è necessario registrarsi {%if page.registration_url %}({%if eventbrite_id %}vedi il RIQUADRO oppure {% endif %}<a href="{{page.registration_url}}" target="_blank">CLICCA QUI</a>){% else %}(le informazioni per la registrazione non sono ancora disponibili){% endif %}</p>
@@ -42,7 +42,7 @@ layout: default
             <strong>Attenzione: i ragazzi di età inferiore a 16 anni devono essere accompagnati da un adulto che deve essere presente durante tutta la durata dell’evento</strong>
         </div>
         {%if eventbrite_id %}
-            <div class="col-lg-6" style="text-align:left; margin-top:20px;"><iframe src="//eventbrite.it/tickets-external?eid={{eventbrite_id}}&ref=etckt" frameborder="0" height="550" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:100%; text-align:left;" ></div></div>
+            <div class="col-lg-6" style="text-align:left; margin-top:30px;"><iframe src="//eventbrite.it/tickets-external?eid={{eventbrite_id}}&ref=etckt" frameborder="0" height="550" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:100%; text-align:left;" ></div></div>
         {% endif %}
     </div>
 </div>
