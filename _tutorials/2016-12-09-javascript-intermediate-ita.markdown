@@ -4,7 +4,7 @@ comments: false
 date: 2016-12-09 12:00:00+01:00
 layout: post
 slug: javascript-intermediate-ITA
-title: "Javascript - Tutorial intermedio"
+title: "Livello intermedio"
 categories:
 - Javascript
 ---

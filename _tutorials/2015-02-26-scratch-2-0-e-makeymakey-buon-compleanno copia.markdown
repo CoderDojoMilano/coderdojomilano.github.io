@@ -4,7 +4,7 @@ comments: false
 date: 2015-02-26 13:58:36+00:00
 layout: post
 slug: scratch-2-0-e-makeymakey-buon-compleanno
-title: SCRATCH 2.0 e MakeyMakey di Ernesto - BUON COMPLEANNO
+title: "SCRATCH 2.0 e MakeyMakey - BUON COMPLEANNO (Ernesto)"
 categories:
 - Scratch
 ---

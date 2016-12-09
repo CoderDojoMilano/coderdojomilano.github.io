@@ -54,3 +54,15 @@ permalink: /tutorials/
             {% endif %}
         {% endfor %}
     </ul>
+    <h2>Python</h2>
+    <ul class="list-unstyled popular-posts">
+        {% for post in site.tutorials reversed %}
+            {% if post.categories[0] == 'Python' %}
+                <li>
+                    <h4><a href="{{ post.url  | prepend: site.baseurl }}">{{ post.title }}</a></h4>
+                    <em>Pubblicato il {{ post.date | date: "%m/%d/%Y" }}</em>
+                    <p>{{post.excerpt}}</p>
+                </li>
+            {% endif %}
+        {% endfor %}
+    </ul>

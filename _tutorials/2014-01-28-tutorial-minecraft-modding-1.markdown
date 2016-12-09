@@ -4,7 +4,7 @@ comments: false
 date: 2014-01-28 09:32:00+00:00
 layout: post
 slug: tutorial-minecraft-modding-1
-title: 'Tutorial: Minecraft Modding 1'
+title: 'Minecraft Modding 1'
 categories:
 - Minecraft
 ---
