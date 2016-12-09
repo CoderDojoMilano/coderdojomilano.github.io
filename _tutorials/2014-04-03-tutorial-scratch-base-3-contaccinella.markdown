@@ -4,8 +4,7 @@ comments: false
 date: 2014-04-03 06:16:22+00:00
 layout: post
 slug: tutorial-scratch-base-3-contaccinella
-title: 'Tutorial: Scratch Base 3 - Contaccinella'
-wordpress_id: 1846
+title: 'Base 3 - Contaccinella'
 categories:
 - Scratch
 ---

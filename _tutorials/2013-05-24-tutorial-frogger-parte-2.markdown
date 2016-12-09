@@ -4,7 +4,7 @@ comments: false
 date: 2013-05-24 06:50:59+00:00
 layout: post
 slug: tutorial-frogger-parte-2
-title: Tutorial Frogger – Parte 2
+title: Frogger – Parte 2
 categories:
 - Scratch
 ---

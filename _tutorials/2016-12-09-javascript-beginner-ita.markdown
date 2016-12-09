@@ -4,7 +4,7 @@ comments: false
 date: 2016-12-09 12:00:00+01:00
 layout: post
 slug: javascript-beginner-ITA
-title: "Javascript - Tutorial principianti"
+title: "Livello principianti"
 categories:
 - Javascript
 ---

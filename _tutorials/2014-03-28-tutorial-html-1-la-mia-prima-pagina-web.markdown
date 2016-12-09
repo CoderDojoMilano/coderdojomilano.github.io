@@ -4,8 +4,7 @@ comments: false
 date: 2014-03-28 08:34:02+00:00
 layout: post
 slug: tutorial-html-1-la-mia-prima-pagina-web
-title: 'Tutorial: HTML 1 - La mia prima pagina Web'
-wordpress_id: 1837
+title: '1 - La mia prima pagina Web'
 categories:
 - Html
 ---

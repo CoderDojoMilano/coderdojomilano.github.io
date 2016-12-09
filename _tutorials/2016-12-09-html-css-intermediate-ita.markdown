@@ -4,7 +4,7 @@ comments: false
 date: 2016-12-09 12:00:00+01:00
 layout: post
 slug: html-css-intermediate-ita
-title: "HTML-CSS: Tutorial intermedio"
+title: "Livello intermedio"
 categories:
 - Html/Css
 ---

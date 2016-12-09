@@ -4,8 +4,7 @@ comments: false
 date: 2014-04-02 14:15:46+00:00
 layout: post
 slug: scratch-base-2-il-robot-e-la-farfalla
-title: 'Tutorial: Scratch Base 2 - Il robot e la farfalla'
-wordpress_id: 1842
+title: 'Base 2 - Il robot e la farfalla'
 categories:
 - Scratch
 ---

@@ -4,8 +4,7 @@ comments: false
 date: 2014-04-07 09:53:27+00:00
 layout: post
 slug: scratch-base-1-acchiappa-luovo
-title: Scratch Base 1 - Acchiappa l'uovo
-wordpress_id: 1850
+title: "Base 1 - Acchiappa l'uovo"
 categories:
 - Scratch
 ---

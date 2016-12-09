@@ -4,7 +4,7 @@ comments: false
 date: 2016-02-12 12:00:00+01:00
 layout: post
 slug: scratch-avery-cacciatrice-di-orribili-mostri
-title: Scratch – Avery cacciatrice di orribili mostri di Luigi Torelli
+title: "Avery cacciatrice di orribili mostri (Luigi Torelli)"
 categories:
 - Scratch
 ---

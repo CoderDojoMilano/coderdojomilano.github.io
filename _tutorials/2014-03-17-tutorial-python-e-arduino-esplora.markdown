@@ -4,7 +4,7 @@ comments: false
 date: 2014-03-17 16:39:56+00:00
 layout: post
 slug: tutorial-python-e-arduino-esplora
-title: 'Tutorial: Python 3 - Arduino Esplora'
+title: 'Python 3 - Arduino Esplora'
 categories:
 - Python
 ---
