@@ -6,9 +6,7 @@ layout: post
 slug: scratch-avery-cacciatrice-di-orribili-mostri
 title: Scratch – Avery cacciatrice di orribili mostri di Luigi Torelli
 categories:
-- News
 - Scratch
-- Tutorial
 ---
 
 ##### Questo Tutorial ti mostrerà come creare il gioco ‘Avery cacciatrice di orribili mostri’

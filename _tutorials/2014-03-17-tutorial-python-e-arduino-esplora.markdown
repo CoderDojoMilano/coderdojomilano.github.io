@@ -6,9 +6,7 @@ layout: post
 slug: tutorial-python-e-arduino-esplora
 title: 'Tutorial: Python 3 - Arduino Esplora'
 categories:
-- News
 - Python
-- Tutorial
 ---
 
 ##### Comandiamo Esplora con Python, di Stefano Ricci.

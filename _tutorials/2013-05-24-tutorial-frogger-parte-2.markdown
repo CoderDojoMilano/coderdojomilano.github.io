@@ -6,11 +6,7 @@ layout: post
 slug: tutorial-frogger-parte-2
 title: Tutorial Frogger – Parte 2
 categories:
-- Eventi passati
-- News
 - Scratch
-- Tutorial
-- Video
 ---
 
 Non perdetevi la seconda parte del tutorial per realizzare il mitico videogioco anni '80 Frogger. E quando lo avete completato, aiutate la rana a superare gli ostacoli e a raggiungere la sua tana!

@@ -8,7 +8,6 @@ title: Scratch Base 1 - Acchiappa l'uovo
 wordpress_id: 1850
 categories:
 - Scratch
-- Tutorial
 ---
 
 ##### La versione pasquale del tutorial per creare un gioco con Scratch.

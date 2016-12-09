@@ -7,7 +7,6 @@ slug: tutorial-frogger-parte-1
 title: Tutorial Frogger - Parte 1
 categories:
 - Scratch
-- Tutorial
 ---
 
 Il mitico Frogger degli anni '80 sviluppato dai ragazzi di 10, 11 e 12 anni al Coderdojo di Sabato 18 Maggio.

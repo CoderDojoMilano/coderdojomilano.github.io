@@ -8,7 +8,6 @@ title: 'Tutorial: HTML 1 - La mia prima pagina Web'
 wordpress_id: 1837
 categories:
 - Html
-- Tutorial
 ---
 
 ##### La struttura html, di Stefania Gabrielli & Nunzia Turco.
