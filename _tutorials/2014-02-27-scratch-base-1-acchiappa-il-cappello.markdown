@@ -6,9 +6,7 @@ layout: post
 slug: scratch-base-1-acchiappa-il-cappello
 title: 'Tutorial: Scratch Base 1 - Acchiappa il cappello'
 categories:
-- News
 - Scratch
-- Tutorial
 ---
 
 ##### Impariamo a creare un gioco con Scratch.

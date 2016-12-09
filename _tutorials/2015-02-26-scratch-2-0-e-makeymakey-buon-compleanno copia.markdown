@@ -6,9 +6,7 @@ layout: post
 slug: scratch-2-0-e-makeymakey-buon-compleanno
 title: SCRATCH 2.0 e MakeyMakey di Ernesto - BUON COMPLEANNO
 categories:
-- News
 - Scratch
-- Tutorial
 ---
 
 ##### Questo tutorial insegna come creare un gioco con Scratch e la MakeyMakey in cui si deve far correre un anello lungo un tubo contorto, senza fargli toccare il tubo stesso.

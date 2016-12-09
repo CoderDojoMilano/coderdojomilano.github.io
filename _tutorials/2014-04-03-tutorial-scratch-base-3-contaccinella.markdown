@@ -8,7 +8,6 @@ title: 'Tutorial: Scratch Base 3 - Contaccinella'
 wordpress_id: 1846
 categories:
 - Scratch
-- Tutorial
 ---
 
 ##### Impariamo a usare le variabili e gli operatori in Scratch.

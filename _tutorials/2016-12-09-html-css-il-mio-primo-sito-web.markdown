@@ -1,15 +1,12 @@
 ---
 author: admin
 comments: false
-date: 2014-11-07 07:43:23+00:00
+date: 2016-12-09 12:00:00+01:00
 layout: post
-slug: il-mio-primo-sito-web
-title: 'Sushi Cards HTML: il mio primo sito web'
-wordpress_id: 2405
+slug: html-css-il-mio-primo-sito-web
+title: "HTML-CSS: il mio primo sito web"
 categories:
-- Html
-- News
-- Tutorial
+- Html/Css
 ---
 
 ##### Realizziamo il nostro primo sito web usando le Sushi Card

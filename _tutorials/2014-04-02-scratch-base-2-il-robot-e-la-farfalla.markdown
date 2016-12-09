@@ -8,7 +8,6 @@ title: 'Tutorial: Scratch Base 2 - Il robot e la farfalla'
 wordpress_id: 1842
 categories:
 - Scratch
-- Tutorial
 ---
 
 ##### Impariamo a usare cicli e condizioni con Scratch.

@@ -6,9 +6,7 @@ layout: post
 slug: tutorial-minecraft-modding-1
 title: 'Tutorial: Minecraft Modding 1'
 categories:
-- Minecraft Modding
-- News
-- Tutorial
+- Minecraft
 ---
 
 ##### Scriviamo una Mod per Minecraft
