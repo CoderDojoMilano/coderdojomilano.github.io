@@ -7,6 +7,7 @@ location: base
 type: Codedojo
 slug: coderdojo-il-12-febbraio-k2-frisbee
 title: CoderDojo K2-Frisbee il 12 febbraio in BASE
+registration_url: https://www.eventbrite.it/e/biglietti-bullo-e-chi-il-bullo-fa-k2-frisbee-coderdojo-milano-31775530467
 categories:
 - event_planned
 ---
