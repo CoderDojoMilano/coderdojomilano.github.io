@@ -14,4 +14,4 @@ categories:
 - event_planned
 ---
 
-Info evento: http://www.makershub.it/course/coderdojo-milano_makers-hub/
+Info evento: [http://www.makershub.it/course/coderdojo-milano_makers-hub/](http://www.makershub.it/course/coderdojo-milano_makers-hub/)
