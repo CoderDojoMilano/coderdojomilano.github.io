@@ -61,7 +61,7 @@ event_locations:
     logo: logo_unimi.png
     addr: Via Comelico, 39, 20135 Milano
     no_home_map: true
-- id: makershub
+  - id: makershub
     url: http://www.makershub.it/
     name: Makers Hub
     lat: 45.5073122
