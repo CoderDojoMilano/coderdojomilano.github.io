@@ -13,3 +13,5 @@ thumb: event_03.jpg
 categories:
 - event_planned
 ---
+
+Info evento: http://www.makershub.it/course/coderdojo-milano_makers-hub/
