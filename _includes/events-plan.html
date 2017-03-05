@@ -1,5 +1,5 @@
 <h2>Calendario eventi</h2>
-<! -- EVENT PLANNED LIST -->
+<!-- EVENT PLANNED LIST -->
 <div>
     <table class="table table-bordered">
         <thead>
@@ -18,11 +18,18 @@
             {% endfor %}
         </tbody>
     </table>
-    <script type="text/javascript">
-        $(document).ready(
-            function() {
-                showFutureItems("tr[date]");
-            }
-        );
-    </script>
+    
 </div>
+<div>
+    <a onclick="showAllItems()" href="#">Mostra anche gli eventi passati</a>
+</div>
+<div>
+    Dubbi? Leggi le <a href="/faq">domande frequenti</a>
+</div>
+<script type="text/javascript">
+    $(document).ready(
+        function() {
+            showFutureItems("tr[date]");
+        }
+    );
+</script>
