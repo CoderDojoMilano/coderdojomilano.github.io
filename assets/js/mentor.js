@@ -8,13 +8,13 @@
     var $item, i, item, j, key, len, len1, ref, ref1, values;
     values = {};
 
-    ref = $.merge($.merge($("input[type='text']"), $("input:checked")), $("textarea"));
+    ref = $.merge($.merge($("input[type='email']"),$("input[type='text']"), $("input:checked")), $("textarea"));
 
     for (i = 0, len = ref.length; i < len; i++) {
       item = ref[i];
       $item = $(item);
       key = $item.attr("name");
-      value = $item.val();
+      var value = $item.val();
       if (value.length > 0) {
         values[key] = values[key] || [];
         values[key].push($item.val());
