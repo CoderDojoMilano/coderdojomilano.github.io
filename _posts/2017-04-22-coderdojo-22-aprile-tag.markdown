@@ -4,7 +4,7 @@ comments: false
 date: 2017-04-22 14:30:00+01:00
 layout: event
 location: tagmilano
-registration_url: 
+registration_url: https://www.eventbrite.it/e/biglietti-coderdojo-milano-e-steminthecity-tag-22-aprile-2017-33474133033
 type: Player
 slug: coderdojo-il-22-aprile-in-tag
 title: CoderDojo il 22 aprile in Tag
