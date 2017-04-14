@@ -1,7 +1,7 @@
 ---
 author: admin
 comments: false
-date: 2017-06-17 14:30:00+01:00
+date: 2017-06-17 14:30:00+02:00
 layout: event
 location: tagmilano
 registration_url: 
