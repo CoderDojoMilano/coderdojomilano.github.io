@@ -69,6 +69,14 @@ event_locations:
     logo: logo_makershub.png
     addr: Via Enrico Cosenz 44/4, 20158 Milano
     no_home_map: true
+- id: incowork
+    url: http://www.incowork.it/
+    name: inCOWORK
+    lat: 45.545339
+    lon: 9.160683
+    logo: 
+    addr: 
+    no_home_map: true
 
 # Build settings
 markdown: kramdown
