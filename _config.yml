@@ -72,10 +72,10 @@ event_locations:
   - id: incowork
     url: http://www.incowork.it/
     name: inCOWORK
-    lat: 45.545339
-    lon: 9.160683
+    lat: 45.545692
+    lon: 9.160672
     logo: 
-    addr: 
+    addr: Via Po, 77, 20032 Cormano (MI)
     no_home_map: true
 
 # Build settings
