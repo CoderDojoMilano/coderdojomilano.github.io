@@ -77,6 +77,14 @@ event_locations:
     logo: 
     addr: Via Po, 77, 20032 Cormano (MI)
     no_home_map: true
+  - id: mico
+    url: http://www.micomilano.it
+    name: MiCo - Milano Congressi
+    lat: 45.48092
+    lon: 9.1533498
+    logo: logo_mico.png
+    addr: Viale Eginardo 29, angolo Viale Lodovico Scarampo, 20149 Milano (MI)
+    no_home_map: true
 
 # Build settings
 markdown: kramdown
