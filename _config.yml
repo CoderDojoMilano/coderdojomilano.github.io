@@ -83,8 +83,16 @@ event_locations:
     lat: 45.48092
     lon: 9.1533498
     logo: logo_mico.png
-    addr: Viale Eginardo 29, angolo Viale Lodovico Scarampo, 20149 Milano (MI)
+    addr: Viale Eginardo 29, angolo Viale Lodovico Scarampo, 20149 Milano
     no_home_map: true
+  - id: ladogana
+    url: http://ladoganadimilano.com/
+    name: La Dogana di Milano
+    lat: 45.463397
+    lon: 9.189293
+    logo: logo_ladogana.png
+    addr: Via Dogana 2, 20123 Milano
+    no_home_map: false
 
 # Build settings
 markdown: kramdown
