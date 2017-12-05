@@ -93,6 +93,14 @@ event_locations:
     logo: logo_ladogana.png
     addr: Via Dogana 2, 20123 Milano
     no_home_map: false
+  - id: google
+    url: http://www.google.com/
+    name: Google
+    lat: 45.486167
+    lon: 9.189544
+    logo: logo_google.png
+    addr: Via Federico Confalonieri 4, 20124 Milano
+    no_home_map: false
 
 # Build settings
 markdown: kramdown
