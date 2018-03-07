@@ -7,7 +7,7 @@ location: mikamai
 registration_url:
 type: Player
 slug: coderdojo-il-14-aprile-a-mikamai
-title: CoderDojo il 14 aprile a Mikamai
+title: CoderDojo il 14 aprile a Mikamai/LinkMe
 img: event_03.jpg
 thumb: event_03.jpg
 categories:
