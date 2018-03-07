@@ -103,7 +103,7 @@ event_locations:
     no_home_map: false
   - id: mikamai
     url: https://www.mikamai.com/
-    name: Mikamai
+    name: Mikamai/LinkMe
     lat: 45.490600
     lon: 9.215171
     logo: logo_mikamai.png
