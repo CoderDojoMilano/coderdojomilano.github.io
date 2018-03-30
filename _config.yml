@@ -109,6 +109,14 @@ event_locations:
     logo: logo_mikamai.png
     addr: Via Giulio e Corrado Venini 42, 20127 Milano
     no_home_map: false
+  - id: fonadazione_prada
+    url: http://www.fondazioneprada.org/
+    name: Fondazione Prada
+    lat: 45.444374
+    lon: 9.205253
+    logo: logo_fondazione_prada.png
+    addr: Largo Isarco, 2, 20139 Milano
+    no_home_map: true
 
 # Build settings
 markdown: kramdown
