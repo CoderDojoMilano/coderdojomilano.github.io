@@ -13,3 +13,5 @@ thumb: event_03.jpg
 categories:
 - event_planned
 ---
+
+<img src="/assets/img/logo_STEM.png" alt="STEM" style="width:200px">
