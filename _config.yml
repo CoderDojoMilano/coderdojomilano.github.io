@@ -117,6 +117,14 @@ event_locations:
     logo: logo_fondazione_prada.png
     addr: Largo Isarco, 2, 20139 Milano
     no_home_map: true
+  - id: ied
+    url: https://www.ied.it/
+    name: IED
+    lat: 45.4615582
+    lon: 9.20934490000002
+    logo: logo_ied.png
+    addr: Via Amatore Sciesa, 4, 20135 Milano
+    no_home_map: true
 
 # Build settings
 markdown: kramdown
