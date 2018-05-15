@@ -7,7 +7,7 @@ location: ied
 registration_url: https://www.eventbrite.it/e/biglietti-coderdojo-milano-ied-milano-46037023978
 type: Player
 slug: coderdojo-il-19-maggio-in-ied
-title: CoderDojo il 12 maggio in IED
+title: CoderDojo il 19 maggio in IED
 img: event_03.jpg
 thumb: event_03.jpg
 categories:
