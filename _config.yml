@@ -74,7 +74,7 @@ event_locations:
     name: inCOWORK
     lat: 45.545692
     lon: 9.160672
-    logo: 
+    logo:
     addr: Via Po, 77, 20032 Cormano (MI)
     no_home_map: true
   - id: mico
@@ -109,7 +109,7 @@ event_locations:
     logo: logo_mikamai.png
     addr: Via Giulio e Corrado Venini 42, 20127 Milano
     no_home_map: false
-  - id: fonadazione_prada
+  - id: fondazione_prada
     url: http://www.fondazioneprada.org/
     name: Fondazione Prada
     lat: 45.444374
