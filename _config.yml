@@ -125,6 +125,14 @@ event_locations:
     logo: logo_ied.png
     addr: Via Amatore Sciesa, 4, 20135 Milano
     no_home_map: true
+  - id: politecnico
+    url: https://www.polimi.it/
+    name: Politecnico - Bovisa
+    lat: 45.50237
+    lon: 9.1558413
+    logo: logo_politecnico.png
+    addr: Via Lambruschini, 4, 20146 Milano
+    no_home_map: true
 
 # Build settings
 markdown: kramdown
