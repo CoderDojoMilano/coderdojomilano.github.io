@@ -127,11 +127,11 @@ event_locations:
     no_home_map: true
   - id: politecnico
     url: https://www.polimi.it/
-    name: Politecnico - Campus Candiani
-    lat: 45.5038804
-    lon: 9.1605042
+    name: Politecnico - Bovisa
+    lat: 45.50237
+    lon: 9.1558413
     logo: logo_politecnico.png
-    addr: Via Giuseppe Candiani, 72, 20158 Milano
+    addr: Via Lambruschini, 4, 20146 Milano
     no_home_map: true
 
 # Build settings
