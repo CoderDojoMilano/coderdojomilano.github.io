@@ -1,7 +1,7 @@
 ---
 author: admin
 comments: false
-date: 2018-11-24 14:30:00+02:00
+date: 2018-11-24 14:30:00+01:00
 layout: event
 location: politecnico
 registration_url: 
