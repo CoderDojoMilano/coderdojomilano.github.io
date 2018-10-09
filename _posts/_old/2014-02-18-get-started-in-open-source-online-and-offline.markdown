@@ -11,8 +11,8 @@ categories:
 - Rassegna Stampa
 ---
 
-<blockquote>CoderDojo Milano su [opensource.com](http://opensource.com/life/14/2/exploring-open-source-beginners) pubblicazione online di Red Hat con la benedizione di [HelloWorldFoundation ](http://helloworldfoundation.com/)
+<blockquote>CoderDojo Milano su [opensource.com](//opensource.com/life/14/2/exploring-open-source-beginners) pubblicazione online di Red Hat con la benedizione di [HelloWorldFoundation ](//helloworldfoundation.com/)
 
-[Leggi tutto l'articolo >>](http://opensource.com/life/14/2/exploring-open-source-beginners)
+[Leggi tutto l'articolo >>](//opensource.com/life/14/2/exploring-open-source-beginners)
 
-![CoderDojoMilano2_0](http://coderdojomilano.it/wp-content/uploads/2014/02/CoderDojoMilano2_0.jpg)</blockquote>
+![CoderDojoMilano2_0](//coderdojomilano.it/wp-content/uploads/2014/02/CoderDojoMilano2_0.jpg)</blockquote>

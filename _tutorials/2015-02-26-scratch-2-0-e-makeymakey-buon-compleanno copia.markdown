@@ -19,6 +19,6 @@ Per scaricare il progetto di partenza, <a href="https://drive.google.com/file/d/
 
 Per scaricare il progetto finito, <a href="https://drive.google.com/file/d/0B3FGUG-ENxwNM3VKeFdlOXlveUk/view?usp=sharing" target="new">clicca qui</a>
 
-Per vedere il progetto online, <a href="http://scratch.mit.edu/projects/53735028/" target="new">clicca qui</a>
+Per vedere il progetto online, <a href="//scratch.mit.edu/projects/53735028/" target="new">clicca qui</a>
 
 ![ScreenShot](/assets/uploads/2015/02/ScreenShot-e1424959017965.jpg)

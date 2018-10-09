@@ -16,7 +16,7 @@ categories:
 Non perdetevi l'articolo!
 
 > 
-> # [Coderdojo incontra Pair Programming](http://www.mammeacrobate.com/bambini/giochi-e-tempo-libero/1435-coderdojo-incontra-pair-programming.html) 
+> # [Coderdojo incontra Pair Programming](//www.mammeacrobate.com/bambini/giochi-e-tempo-libero/1435-coderdojo-incontra-pair-programming.html) 
 > 
 > 
 

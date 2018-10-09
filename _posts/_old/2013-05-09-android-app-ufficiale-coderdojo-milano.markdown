@@ -20,4 +20,4 @@ categories:
 
 
 
-![coderMiApp](http://coderdojomilano.it/wp-content/uploads/2013/05/coderMiApp.jpg)
+![coderMiApp](//coderdojomilano.it/wp-content/uploads/2013/05/coderMiApp.jpg)

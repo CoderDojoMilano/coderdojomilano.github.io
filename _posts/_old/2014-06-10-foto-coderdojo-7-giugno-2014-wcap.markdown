@@ -18,4 +18,4 @@ categories:
 
 
 
-[![](http://coderdojomilano.it/wp-content/uploads/2014/06/wcap_2014.jpg)Clicca qui per vedere le foto flickr.com](https://www.flickr.com/photos/98942956@N02/sets/72157644648843767/)
+[![](//coderdojomilano.it/wp-content/uploads/2014/06/wcap_2014.jpg)Clicca qui per vedere le foto flickr.com](https://www.flickr.com/photos/98942956@N02/sets/72157644648843767/)

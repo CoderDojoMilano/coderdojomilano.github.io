@@ -21,12 +21,12 @@ categories:
 
 
 
-[![opportunity01](http://coderdojomilano.it/wp-content/uploads/2013/04/opportunity01.jpg)](http://coderdojomilano.it/wp-content/uploads/2013/04/opportunity01.jpg)
+[![opportunity01](//coderdojomilano.it/wp-content/uploads/2013/04/opportunity01.jpg)](//coderdojomilano.it/wp-content/uploads/2013/04/opportunity01.jpg)
 
 
-#### [Vedi tutta l'immagine >>](http://www.code.org/stats)
+#### [Vedi tutta l'immagine >>](//www.code.org/stats)
 
 
 
 
-[![opportunity](http://coderdojomilano.it/wp-content/uploads/2013/04/opportunity.jpg)](http://coderdojomilano.it/wp-content/uploads/2013/04/opportunity.jpg)
+[![opportunity](//coderdojomilano.it/wp-content/uploads/2013/04/opportunity.jpg)](//coderdojomilano.it/wp-content/uploads/2013/04/opportunity.jpg)

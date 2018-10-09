@@ -17,7 +17,7 @@ Leggete come a CoderDojo i ragazzi non imparano solo a programmare ma anche molt
 
 
 > 
-> #### [>> Vai all'articolo >>](http://webwomenwant-d.blogautore.repubblica.it/2013/12/13/mamma-portami-in-palestra-digitale/)
+> #### [>> Vai all'articolo >>](//webwomenwant-d.blogautore.repubblica.it/2013/12/13/mamma-portami-in-palestra-digitale/)
 > 
 > 
 </blockquote>
@@ -25,4 +25,4 @@ Leggete come a CoderDojo i ragazzi non imparano solo a programmare ma anche molt
 
 
 
-[![DSC_8514](http://coderdojomilano.it/wp-content/uploads/2013/12/DSC_8514.jpg)](http://coderdojomilano.it/wp-content/uploads/2013/12/DSC_8514.jpg)
+[![DSC_8514](//coderdojomilano.it/wp-content/uploads/2013/12/DSC_8514.jpg)](//coderdojomilano.it/wp-content/uploads/2013/12/DSC_8514.jpg)

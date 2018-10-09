@@ -16,4 +16,4 @@ categories:
 
 
 
-[![](http://coderdojomilano.it/wp-content/uploads/2013/12/tag_novembre.jpg)Clicca qui per vedere le foto flickr.com](http://www.flickr.com/photos/98942956@N02/sets/72157638012435796/)
+[![](//coderdojomilano.it/wp-content/uploads/2013/12/tag_novembre.jpg)Clicca qui per vedere le foto flickr.com](//www.flickr.com/photos/98942956@N02/sets/72157638012435796/)

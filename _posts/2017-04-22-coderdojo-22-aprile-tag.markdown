@@ -15,6 +15,6 @@ categories:
 ---
 
 <h3>Coding: un gioco da ragazze!</h3>
-Questo speciale evento di CoderDojo Milano, con il patrocinio del Comune di Milano, è parte del progetto [#STEMintheCity](http://www.comune.milano.it/wps/portal/ist/it/news/primopiano/tutte_notizie/educazione_istruzione/educazione_digitale_parte_steminthecity): un mese di eventi per sensibilizzare i giovani alla cultura digitale e avvicinare le ragazze allo studio delle materie tecnico-scientifiche.
+Questo speciale evento di CoderDojo Milano, con il patrocinio del Comune di Milano, è parte del progetto [#STEMintheCity](//www.comune.milano.it/wps/portal/ist/it/news/primopiano/tutte_notizie/educazione_istruzione/educazione_digitale_parte_steminthecity): un mese di eventi per sensibilizzare i giovani alla cultura digitale e avvicinare le ragazze allo studio delle materie tecnico-scientifiche.
 <p>
 <img src="/assets/img/logo_comune_milano.png" alt="Comune di Milano" >

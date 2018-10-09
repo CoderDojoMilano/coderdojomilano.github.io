@@ -18,9 +18,9 @@ Con la formula giusta, l’apprendimento diventa un gioco facile e divertente.</
 
 
 
-##### [di Federico Polvara su Famiglia Cristiana.it >> Leggi l'articolo](http://www.famigliacristiana.it/blogpost/coderdojo-la-programmazione-per-gioco.aspx)
+##### [di Federico Polvara su Famiglia Cristiana.it >> Leggi l'articolo](//www.famigliacristiana.it/blogpost/coderdojo-la-programmazione-per-gioco.aspx)
 
 
 
 
-[![coderdojo_860285](http://coderdojomilano.it/wp-content/uploads/2013/12/coderdojo_860285.jpg)](http://coderdojomilano.it/wp-content/uploads/2013/12/coderdojo_860285.jpg)
+[![coderdojo_860285](//coderdojomilano.it/wp-content/uploads/2013/12/coderdojo_860285.jpg)](//coderdojomilano.it/wp-content/uploads/2013/12/coderdojo_860285.jpg)

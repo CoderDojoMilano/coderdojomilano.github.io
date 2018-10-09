@@ -19,7 +19,7 @@ categories:
 
 
 > 
-> I nuovi arrivati si sono cimentati nella creazione di un gioco Scratch in tema, dove si devono accendere della candeline di una torta con... un drago! (Il tutorial si trova [qui](http://coderdojomilano.it/scratch-buono-compleanno-coderdojo-milano))
+> I nuovi arrivati si sono cimentati nella creazione di un gioco Scratch in tema, dove si devono accendere della candeline di una torta con... un drago! (Il tutorial si trova [qui](//coderdojomilano.it/scratch-buono-compleanno-coderdojo-milano))
 > 
 > 
 
@@ -31,7 +31,7 @@ categories:
 
 
 > 
-> ![bot](http://coderdojomilano.it/wp-content/uploads/2015/02/bot-e1424243885165.jpg)
+> ![bot](//coderdojomilano.it/wp-content/uploads/2015/02/bot-e1424243885165.jpg)
 > 
 > 
 
@@ -43,7 +43,7 @@ categories:
 
 
 > 
-> ![torta](http://coderdojomilano.it/wp-content/uploads/2015/02/torta.jpg)
+> ![torta](//coderdojomilano.it/wp-content/uploads/2015/02/torta.jpg)
 > 
 > 
 
@@ -55,15 +55,15 @@ categories:
 
 
 > 
-> ![magliette](http://coderdojomilano.it/wp-content/uploads/2015/02/magliette.jpg)
+> ![magliette](//coderdojomilano.it/wp-content/uploads/2015/02/magliette.jpg)
 > 
 > 
 
 
 > 
-> Nella seconda parte del pomeriggio abbiamo chiesto ai ragazzi di programmare una breve animazione per festeggiare l'evento. Abbiamo poi unito tutti i contributi in una bella carrellata di auguri, [QUI](http://scratch.mit.edu/projects/48060796/) il progetto.
+> Nella seconda parte del pomeriggio abbiamo chiesto ai ragazzi di programmare una breve animazione per festeggiare l'evento. Abbiamo poi unito tutti i contributi in una bella carrellata di auguri, [QUI](//scratch.mit.edu/projects/48060796/) il progetto.
 
-http://youtu.be/raUh0t3q3Jo
+//youtu.be/raUh0t3q3Jo
 
 
 > 

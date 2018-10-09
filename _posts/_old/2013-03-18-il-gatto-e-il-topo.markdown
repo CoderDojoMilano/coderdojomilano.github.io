@@ -11,12 +11,12 @@ categories:
 - Video
 ---
 
-Sul [canale Youtube di Coderdojo Milano](http://www.youtube.com/user/CoderdojoMi) trovate i nuovi video dei lavori realizzati dai nostri ragazzi.
+Sul [canale Youtube di Coderdojo Milano](//www.youtube.com/user/CoderdojoMi) trovate i nuovi video dei lavori realizzati dai nostri ragazzi.
 
 
 
 
-http://youtu.be/jEkANeVoXjc
+//youtu.be/jEkANeVoXjc
 
 
 

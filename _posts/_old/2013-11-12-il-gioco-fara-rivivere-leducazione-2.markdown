@@ -22,4 +22,4 @@ Barbara e Angelo</blockquote>
 _Clicca sull'immagine per vedere la presentazione_
 
 
-[![presentazione_gioco](http://coderdojomilano.it/wp-content/uploads/2013/11/presentazione_gioco.jpg)](http://www.slideshare.net/straordinariamentenormale/il-gioco-far-rivivere-leducazione)
+[![presentazione_gioco](//coderdojomilano.it/wp-content/uploads/2013/11/presentazione_gioco.jpg)](//www.slideshare.net/straordinariamentenormale/il-gioco-far-rivivere-leducazione)

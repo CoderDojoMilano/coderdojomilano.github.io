@@ -73,4 +73,4 @@ Il contenuto, qualora condiviso, deve essere condiviso con le stesse modalità e
 
 Quindi, solo ed esclusivamente in caso di presenza di licenza Creative Commons (BY, NC, ND), i contenuti testuali possono essere utilizzati senza chiedere il consenso di `coderdojomilano.it`, a patto che venga attribuita in maniera evidente e inequivocabile la paternità del contenuto a `coderdojomilano.it`, non se ne faccia un uso commerciale e non si modifichi in alcun modo tale contenuto.
 
-Ulteriori informazioni sull’uso delle licenze Creative Commons possono essere reperite all’indirizzo [www.creativecommons.it](http://www.creativecommons.it)
+Ulteriori informazioni sull’uso delle licenze Creative Commons possono essere reperite all’indirizzo [www.creativecommons.it](//www.creativecommons.it)

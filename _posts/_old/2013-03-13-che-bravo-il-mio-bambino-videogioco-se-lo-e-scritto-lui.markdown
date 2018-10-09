@@ -23,6 +23,6 @@ categories:
 di _SILVIO GULIZIA su Repibblica.it
 _
 
-**[Leggi l'articolo](http://www.repubblica.it/tecnologia/2013/03/12/news/bambini_programmatori-54394224/)**
+**[Leggi l'articolo](//www.repubblica.it/tecnologia/2013/03/12/news/bambini_programmatori-54394224/)**
 
-[![CoderDojo Milano](http://coderdojomilano.it/wp-content/uploads/2013/03/01.jpg)](http://coderdojomilano.it/wp-content/uploads/2013/03/01.jpg)
+[![CoderDojo Milano](//coderdojomilano.it/wp-content/uploads/2013/03/01.jpg)](//coderdojomilano.it/wp-content/uploads/2013/03/01.jpg)

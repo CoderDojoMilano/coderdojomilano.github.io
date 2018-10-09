@@ -10,17 +10,17 @@ categories:
 - News
 ---
 
-<blockquote>Che ci crediate o no il prossimo Coderdojo di Sabato 1 Giugno verrà ospitato all'interno del [Wired Next Fest 2013 ](http://www.wired.it/storage/partner/nextfest/default.html)presso il Museo Civico di Storia Naturale di Corso Venezia.
+<blockquote>Che ci crediate o no il prossimo Coderdojo di Sabato 1 Giugno verrà ospitato all'interno del [Wired Next Fest 2013 ](//www.wired.it/storage/partner/nextfest/default.html)presso il Museo Civico di Storia Naturale di Corso Venezia.
 
-Sviluppare videogiochi tra minerali, dinosuari, fossili e animali di ogni specie: ci sarà da divertirsi! Le registrazioni su [Smappo ](http://www.smappo.it/event/519f61dc22637_coderdojo-wirednextfest.html)**a partire da Lunedì 27 Maggio**.</blockquote>
-
-
-
-
-
-#### [Clicca qui per registratri su Smappo >>](http://www.smappo.it/event/519f61dc22637_coderdojo-wirednextfest.html)
+Sviluppare videogiochi tra minerali, dinosuari, fossili e animali di ogni specie: ci sarà da divertirsi! Le registrazioni su [Smappo ](//www.smappo.it/event/519f61dc22637_coderdojo-wirednextfest.html)**a partire da Lunedì 27 Maggio**.</blockquote>
 
 
 
 
-![coderlogo1](http://coderdojomilano.it/wp-content/uploads/2013/03/coderlogo11.png)
+
+#### [Clicca qui per registratri su Smappo >>](//www.smappo.it/event/519f61dc22637_coderdojo-wirednextfest.html)
+
+
+
+
+![coderlogo1](//coderdojomilano.it/wp-content/uploads/2013/03/coderlogo11.png)

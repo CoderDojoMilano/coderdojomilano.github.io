@@ -1,6 +1,6 @@
 # Site settings
 title: CoderDojo Milano
-url: http://www.coderdojomilano.it
+url: https://coderdojomilano.it
 description: "Dedicato a ragazzi e ragazze di età compresa tra i 7 e 17 anni che vogliono imparare a programmare, divertendosi"
 storage_uuid: "a26d6629-e365-4dea-8d40-dcf0d1b3a1aa"
 timezone: Europe/Rome
@@ -26,35 +26,35 @@ social:
 
 event_locations:
   - id: tagmilano
-    url: http://talentgarden.org
+    url: https://talentgarden.org
     name: TAG Milano
     lat: 45.4973345
     lon: 9.2191134
     logo: logo_tag_milano.png
     addr: Via Merano, 16, 20127 Milano
   - id: wemake
-    url: http://wemake.cc
+    url: https://wemake.cc
     name: WeMake
     lat: 45.507106
     lon: 9.2262703
     logo: logo_wemake.png
     addr: Via Privata Stefanardo da Vimercate, 27, 20128 Milano
   - id: wcapmi
-    url: http://www.wcap.tim.it/en/accelerators/milan
+    url: https://www.wcap.tim.it/en/accelerators/milan
     name: Working Capital Accelerator
     lat: 45.4862554
     lon: 9.2425329
     logo: logo_wcap.png
     addr: Via Rombon, 52, 20134 Milano
   - id: base
-    url: http://base.milano.it/
+    url: https://base.milano.it/
     name: BASE Milano
     lat: 45.452412
     lon: 9.163875
     logo: logo_base.png
     addr: Via Bergognone, 34, 20144 Milano
   - id: unimi-di
-    url: http://www.di.unimi.it/
+    url: //www.di.unimi.it/
     name: Università degli Studi di Milano - Dipartimento di Informatica
     lat: 45.454522
     lon: 9.214693
@@ -62,7 +62,7 @@ event_locations:
     addr: Via Comelico, 39, 20135 Milano
     no_home_map: true
   - id: makershub
-    url: http://www.makershub.it/
+    url: //www.makershub.it/
     name: Makers Hub
     lat: 45.5073122
     lon: 9.1617432
@@ -70,7 +70,7 @@ event_locations:
     addr: Via Enrico Cosenz 44/4, 20158 Milano
     no_home_map: true
   - id: incowork
-    url: http://www.incowork.it/
+    url: https://www.incowork.it/
     name: inCOWORK
     lat: 45.545692
     lon: 9.160672
@@ -78,7 +78,7 @@ event_locations:
     addr: Via Po, 77, 20032 Cormano (MI)
     no_home_map: true
   - id: mico
-    url: http://www.micomilano.it
+    url: https://www.micomilano.it
     name: MiCo - Milano Congressi
     lat: 45.48092
     lon: 9.1533498
@@ -86,7 +86,7 @@ event_locations:
     addr: Viale Eginardo 29, angolo Viale Lodovico Scarampo, 20149 Milano
     no_home_map: true
   - id: ladogana
-    url: http://ladoganadimilano.com/
+    url: //ladoganadimilano.com/
     name: La Dogana di Milano
     lat: 45.463397
     lon: 9.189293
@@ -94,7 +94,7 @@ event_locations:
     addr: Via Dogana 2, 20123 Milano
     no_home_map: false
   - id: google
-    url: http://www.google.com/
+    url: https://www.google.com/
     name: Google
     lat: 45.486167
     lon: 9.189544
@@ -110,7 +110,7 @@ event_locations:
     addr: Via Giulio e Corrado Venini 42, 20127 Milano
     no_home_map: false
   - id: fondazione_prada
-    url: http://www.fondazioneprada.org/
+    url: //www.fondazioneprada.org/
     name: Fondazione Prada
     lat: 45.444374
     lon: 9.205253
@@ -148,7 +148,7 @@ collections:
     output: yes
     path: /tools/:name
 
-gems:
+plugins:
  - jekyll-coffeescript
  - jekyll-redirect-from
 

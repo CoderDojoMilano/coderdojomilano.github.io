@@ -27,11 +27,11 @@ Non ho il tempo di terminare il solito discorso di benvenuto che Jacopo, uno dei
 
 Francesco e Roberto, i nostri "imbonitori" ai tavoli Makey Makey, fanno divertire i ragazzi facendo suonare la frutta
 
-![01_makeymakey](http://coderdojomilano.it/wp-content/uploads/2014/10/01_makeymakey.jpg)
+![01_makeymakey](//coderdojomilano.it/wp-content/uploads/2014/10/01_makeymakey.jpg)
 
 e facendoli sfidare ad un gioco in stile Halloween dove si eliminano i mostri avversari toccandoli su... un foglio di carta!
 
-![02_makeymakey](http://coderdojomilano.it/wp-content/uploads/2014/10/02_makeymakey.jpg)
+![02_makeymakey](//coderdojomilano.it/wp-content/uploads/2014/10/02_makeymakey.jpg)
 
 Si scoprono così i misteri della conduzione elettrica dove tutto diventa alternativa alla tastiera e al mouse: una mela, della stagnola, la grafite, i mentor (sì anche noi siamo conduttori!).
 
@@ -39,17 +39,17 @@ Abbiamo poche schede ma a rotazione riusciamo a farle provare a tutti.
 
 Agli altri tavoli grande successo dei circuiti morbidi con numerose fanboat costruite con bicchieri come scafo, motorini e cartoncino colorato come eliche.
 
-![03_fanboat](http://coderdojomilano.it/wp-content/uploads/2014/10/03_fanboat.jpg)![04_fanboat](http://coderdojomilano.it/wp-content/uploads/2014/10/04_fanboat.jpg)
+![03_fanboat](//coderdojomilano.it/wp-content/uploads/2014/10/03_fanboat.jpg)![04_fanboat](//coderdojomilano.it/wp-content/uploads/2014/10/04_fanboat.jpg)
 
 Da segnalare anche la variante "spara-pongo" dove le eliche servono per lanciare palline di didò contro l'avversario. Qualcuno riesce anche ad improvvisare una ruota con i tappi delle batterie e costruisce un vero robot itinerante. E poi tante luminarie simil-natalizie, abatjour di halloween e qualche inevitabile cortocircuito. Ma meno del previsto grazie agli avvertimenti e al controllo degli instancabili mini-mentor.
 
-![05_morbidi](http://coderdojomilano.it/wp-content/uploads/2014/10/05_morbidi.jpg)
+![05_morbidi](//coderdojomilano.it/wp-content/uploads/2014/10/05_morbidi.jpg)
 
 Alla fine alcune composizioni sono un tale groviglio di componenti che quando è ora di smontare, ne osservo una preoccupato e mi domando... ma taglio prima il filo rosso o il filo blu? :D
 
 Fantastici come sempre tutti i mentor. In particolare i nuovi arrivati che si sono lanciati subito nella mischia e, non solo sono sopravvissuti, ma hanno anche dato prova di grande disinvoltura sia con l'HW che con i bambini. I veterani invece, con la scusa di mostrare degli esempi, si sono divertiti come matti contendendo le componenti ai bambini.
 
-![06_mentor](http://coderdojomilano.it/wp-content/uploads/2014/10/06_mentor.jpg)![07 mentor](http://coderdojomilano.it/wp-content/uploads/2014/10/07-mentor.jpg)
+![06_mentor](//coderdojomilano.it/wp-content/uploads/2014/10/06_mentor.jpg)![07 mentor](//coderdojomilano.it/wp-content/uploads/2014/10/07-mentor.jpg)
 
 Eccezionale infine l'ospitalità di Google con merende a volontà ed erogazione continua di bevande e caffè per tutta la mattinata. Genitori, mentor e bambini, nessuno di noi ha fatto complimenti e abbiamo risparmiato a Google la fatica di traslocare nella nuova sede anche tutti quei beni alimentari! ;)
 

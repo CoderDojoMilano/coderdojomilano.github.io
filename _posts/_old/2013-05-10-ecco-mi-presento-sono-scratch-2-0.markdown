@@ -11,4 +11,4 @@ categories:
 - Video
 ---
 
-[Scratch 2.0](http://vimeo.com/41683547) from [ScratchEd](http://vimeo.com/scratchedteam) on [Vimeo](http://vimeo.com).
+[Scratch 2.0](//vimeo.com/41683547) from [ScratchEd](//vimeo.com/scratchedteam) on [Vimeo](//vimeo.com).

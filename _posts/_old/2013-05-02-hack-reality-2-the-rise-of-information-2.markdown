@@ -15,7 +15,7 @@ A grande richiesta torna dopo un anno l'evento dedicato all'interazione tra mobi
 
 
 
-Sabato 25 Maggio presso [Talent Garden Milano](http://milano.talentgarden.it/), WhyMCA ti aspetta con hackathon ricco di premi, interventi, workshop e un'area espositori.
+Sabato 25 Maggio presso [Talent Garden Milano](//milano.talentgarden.it/), WhyMCA ti aspetta con hackathon ricco di premi, interventi, workshop e un'area espositori.
 
 
 
@@ -25,7 +25,7 @@ Keyword della giornata: Web & Mobile, Automotive, Internet of Things, Wearable D
 
 
 
-Durante la giornata verranno realizzati talk di carattere divulgativo e interventi e workshop dal taglio pratico! Ecco il [link per iscrivervi](http://whymca.eventbrite.com/).
+Durante la giornata verranno realizzati talk di carattere divulgativo e interventi e workshop dal taglio pratico! Ecco il [link per iscrivervi](//whymca.eventbrite.com/).
 
 
 
@@ -41,14 +41,14 @@ Attraverso i kit realizzati dal team dell'HackLab sarà possibile scoprire i rud
 **E se volete rifare a casa gli stessi esperimenti con i vostri bambini, con una donazione di 10€ all'associazione potete comprare il kit che comprende 3 LED blu, 3 LED gialli, 3 LED rossi, 1 batteria 9V, 1 clip x batteria 9V, 1 motorino in corrente continua, 1 cicalino (buzzer) e 1 salsicciotto di didò!**
 
 
-#### [Vai al sito dell'evento >>](http://www.whymca.org/evento/hack-reality-2-rise-information)
+#### [Vai al sito dell'evento >>](//www.whymca.org/evento/hack-reality-2-rise-information)
 
 
-![02](http://coderdojomilano.it/wp-content/uploads/2013/05/02.jpeg)
+![02](//coderdojomilano.it/wp-content/uploads/2013/05/02.jpeg)
 
-![01](http://coderdojomilano.it/wp-content/uploads/2013/05/01.jpeg)
+![01](//coderdojomilano.it/wp-content/uploads/2013/05/01.jpeg)
 
-![03](http://coderdojomilano.it/wp-content/uploads/2013/05/03.jpeg)
+![03](//coderdojomilano.it/wp-content/uploads/2013/05/03.jpeg)
 
 
 

@@ -19,6 +19,6 @@ Vai alla Guida <a href="https://drive.google.com/file/d/0B2acWmxEoKDkUk42N0d0UEV
 
 Per scaricare il progetto finito, <a href="https://drive.google.com/file/d/0B2acWmxEoKDkN1RoSUEwcWJZWkk/edit?usp=sharing" target="new">clicca qui</a>
 
-Per vedere il progetto online, <a href="http://scratch.mit.edu/projects/17937468/" target="new">clicca qui</a>
+Per vedere il progetto online, <a href="//scratch.mit.edu/projects/17937468/" target="new">clicca qui</a>
 
 [![SC_PB_S1 acchiappa il cappello](/assets/uploads/2014/02/SC_PB_S1-acchiappa-il-cappello.png)](/assets/uploads/2014/02/SC_PB_S1-acchiappa-il-cappello.png)

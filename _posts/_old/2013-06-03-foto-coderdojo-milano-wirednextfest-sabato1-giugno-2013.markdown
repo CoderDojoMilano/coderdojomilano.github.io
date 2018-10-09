@@ -13,4 +13,4 @@ categories:
 Ecco le foto dell'evento di CoderDojo Milano,tenutosi @WiredNextFest Sabato1 Giugno 2013.
 
 
-[![](http://coderdojomilano.it/wp-content/uploads/2013/06/wired_2013.jpg)Clicca qui per vedere le foto flickr.com](http://www.flickr.com/photos/98942956@N02/sets/72157634977346499/)
+[![](//coderdojomilano.it/wp-content/uploads/2013/06/wired_2013.jpg)Clicca qui per vedere le foto flickr.com](//www.flickr.com/photos/98942956@N02/sets/72157634977346499/)

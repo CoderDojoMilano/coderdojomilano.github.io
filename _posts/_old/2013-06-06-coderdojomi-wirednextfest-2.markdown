@@ -17,15 +17,15 @@ categories:
 “Veramente... e va bene, venite, un posto ve lo troviamo”</blockquote>
 
 
-su  [A me mi](http://ame-mi.blogspot.it/2013/06/coderdojomi-wirednextfest.html) di  [Alessandra Mascoli](http://www.blogger.com/profile/14373180083913701463)
+su  [A me mi](//ame-mi.blogspot.it/2013/06/coderdojomi-wirednextfest.html) di  [Alessandra Mascoli](//www.blogger.com/profile/14373180083913701463)
 
 
-#### [Leggi tutto l'articolo >>](http://ame-mi.blogspot.it/2013/06/coderdojomi-wirednextfest.html)
+#### [Leggi tutto l'articolo >>](//ame-mi.blogspot.it/2013/06/coderdojomi-wirednextfest.html)
 
 
 
 
-![_DSC0553](http://coderdojomilano.it/wp-content/uploads/2013/06/DSC0553.jpg)
+![_DSC0553](//coderdojomilano.it/wp-content/uploads/2013/06/DSC0553.jpg)
 
 
 

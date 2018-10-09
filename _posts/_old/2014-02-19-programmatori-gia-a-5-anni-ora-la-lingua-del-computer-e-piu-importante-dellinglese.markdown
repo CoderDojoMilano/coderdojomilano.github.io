@@ -13,22 +13,22 @@ categories:
 <blockquote>
 
 > 
-> Il caso ha voluto che Domenica scorsa, in occasione del primo compleanno di CoderDojo Milano, la Repubblica sia uscita con un articolo sui giovani coder che parlava di noi e degli amici di [Codemotion](http://www.codemotionworld.com/) e [Coderdojo Roma](http://www.coderdojoroma.it/).
+> Il caso ha voluto che Domenica scorsa, in occasione del primo compleanno di CoderDojo Milano, la Repubblica sia uscita con un articolo sui giovani coder che parlava di noi e degli amici di [Codemotion](//www.codemotionworld.com/) e [Coderdojo Roma](//www.coderdojoroma.it/).
 > 
 > 
 
 > 
-> Qui [http://tinyurl.com/odarpjm](http://tinyurl.com/odarpjm) potete trovare la versione online.
+> Qui [//tinyurl.com/odarpjm](//tinyurl.com/odarpjm) potete trovare la versione online.
 > 
 > 
 
 > 
-> ![repubblica01](http://coderdojomilano.it/wp-content/uploads/2014/02/repubblica01-e1392803158740.jpg)
+> ![repubblica01](//coderdojomilano.it/wp-content/uploads/2014/02/repubblica01-e1392803158740.jpg)
 > 
 > 
 
 > 
-> ![repubblica02](http://coderdojomilano.it/wp-content/uploads/2014/02/repubblica02-e1392803298118.jpg)
+> ![repubblica02](//coderdojomilano.it/wp-content/uploads/2014/02/repubblica02-e1392803298118.jpg)
 > 
 > 
 </blockquote>

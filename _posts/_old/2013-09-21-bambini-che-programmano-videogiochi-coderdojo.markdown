@@ -13,8 +13,8 @@ categories:
 - Video
 ---
 
-http://youtu.be/a3Unhs8-FXw
+//youtu.be/a3Unhs8-FXw
 
 
 
-di [Genitori Channel](http://www.genitorichannel.it/video-scuola/bambini-programmatori-videogiochi.html)
+di [Genitori Channel](//www.genitorichannel.it/video-scuola/bambini-programmatori-videogiochi.html)

@@ -13,7 +13,7 @@ categories:
 
 L'animazione è stata realizzata con Scratch (scratch.mit.edu)
 
-http://youtu.be/Qg0auRZp20U
+//youtu.be/Qg0auRZp20U
 
 
 

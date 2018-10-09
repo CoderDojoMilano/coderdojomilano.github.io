@@ -18,10 +18,10 @@ categories:
 _“Di Coderdojo mi piace la demo iniziale perché imparo cose nuove e il momento libero perché posso realizzare le mie idee”_. Mi ha detto Anna, 5 anni.</blockquote>
 
 
-di [Manuela Cervetti](http://bambino.donnamoderna.com/author/manuela-cervetti/) su http://bambino.donnamoderna.com
+di [Manuela Cervetti](//bambino.donnamoderna.com/author/manuela-cervetti/) su //bambino.donnamoderna.com
 
 
-#### [Leggi tutto l'articolo](http://bambino.donnamoderna.com/bambini-4-6/bambini-e-computer-programmare-da-piccoli/)
+#### [Leggi tutto l'articolo](//bambino.donnamoderna.com/bambini-4-6/bambini-e-computer-programmare-da-piccoli/)
 
 
-[![programmazione1-870x650](http://coderdojomilano.it/wp-content/uploads/2013/03/programmazione1-870x650.jpg)](http://bambino.donnamoderna.com/bambini-4-6/bambini-e-computer-programmare-da-piccoli/)
+[![programmazione1-870x650](//coderdojomilano.it/wp-content/uploads/2013/03/programmazione1-870x650.jpg)](//bambino.donnamoderna.com/bambini-4-6/bambini-e-computer-programmare-da-piccoli/)

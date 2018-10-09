@@ -14,10 +14,10 @@ categories:
 ---
 
 ### Info
-Questa sessione CoderDojo fa parte dell'evento Linux Day Milano, che sarà ospitato dall'Università degli Studi di Milano, Dipartimento di Informatica, in via Comelico, 39 Milano.  Maggiori informazioni su: [www.linuxdaymilano.org](http://www.linuxdaymilano.org).
+Questa sessione CoderDojo fa parte dell'evento Linux Day Milano, che sarà ospitato dall'Università degli Studi di Milano, Dipartimento di Informatica, in via Comelico, 39 Milano.  Maggiori informazioni su: [www.linuxdaymilano.org](//www.linuxdaymilano.org).
 
 ### Istruzioni
-Per partecipare all'evento è necessario registrarsi tramite il servizio EventBrite: [registrati qui!](http://coderdojo-al-linux-day-milano-2016.eventbrite.it)
+Per partecipare all'evento è necessario registrarsi tramite il servizio EventBrite: [registrati qui!](//coderdojo-al-linux-day-milano-2016.eventbrite.it)
 
 I biglietti saranno disponibili da Lunedì 17 ottobre.
 

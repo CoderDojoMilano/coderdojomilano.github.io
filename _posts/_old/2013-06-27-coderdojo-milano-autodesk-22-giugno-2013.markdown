@@ -16,9 +16,9 @@ categories:
 su [pressportal.it](pressportal.it)
 
 
-#### [Leggi tutto l'articolo >>](http://www.pressportal.it/22-giugno-coderdojo-nella-sede-di-autodesk-italia-libera-la-creativita-di-bambini-e-ragazzi-insegnando-a-progettare-in-3d/)
+#### [Leggi tutto l'articolo >>](//www.pressportal.it/22-giugno-coderdojo-nella-sede-di-autodesk-italia-libera-la-creativita-di-bambini-e-ragazzi-insegnando-a-progettare-in-3d/)
 
 
 
 
-[![autodesk_p](http://coderdojomilano.it/wp-content/uploads/2013/06/autodesk_p-e1372347567705.jpg)](http://coderdojomilano.it/wp-content/uploads/2013/06/autodesk_p-e1372347567705.jpg)
+[![autodesk_p](//coderdojomilano.it/wp-content/uploads/2013/06/autodesk_p-e1372347567705.jpg)](//coderdojomilano.it/wp-content/uploads/2013/06/autodesk_p-e1372347567705.jpg)

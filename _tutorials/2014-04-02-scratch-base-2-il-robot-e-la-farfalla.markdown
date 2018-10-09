@@ -18,7 +18,7 @@ Vai alla Guida, <a href="https://drive.google.com/file/d/0B2acWmxEoKDkWF9JZ1o3e
 
 Per scaricare il progetto finito, <a href="https://drive.google.com/file/d/0B2acWmxEoKDkWXNQbG9IT1MwMGs/edit?usp=sharing" target="new">clicca qui</a>
 
-Per vedere il progetto online, <a href="http://scratch.mit.edu/projects/17838403/" target="new">clicca qui</a>
+Per vedere il progetto online, <a href="//scratch.mit.edu/projects/17838403/" target="new">clicca qui</a>
 
 
 

@@ -10,4 +10,4 @@ categories:
 - News
 ---
 
-![coderDojoMi01](http://coderdojomilano.it/wp-content/uploads/2013/05/coderDojoMi01.jpeg)
+![coderDojoMi01](//coderdojomilano.it/wp-content/uploads/2013/05/coderDojoMi01.jpeg)

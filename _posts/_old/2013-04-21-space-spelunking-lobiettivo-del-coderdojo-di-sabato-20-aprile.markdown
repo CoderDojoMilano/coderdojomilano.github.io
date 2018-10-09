@@ -22,10 +22,10 @@ Grazie Marco!</blockquote>
 
 
 
-[Clicca sull'immagine per accedere al progetto sul sito di Scratch.](http://scratch.mit.edu/projects/marcofaedo/3272457)
+[Clicca sull'immagine per accedere al progetto sul sito di Scratch.](//scratch.mit.edu/projects/marcofaedo/3272457)
 
 
 
 
 
-[![Scratch Project](http://scratch.mit.edu/static/projects/marcofaedo/3272457_med.png)](http://scratch.mit.edu/projects/marcofaedo/3272457)
+[![Scratch Project](//scratch.mit.edu/static/projects/marcofaedo/3272457_med.png)](//scratch.mit.edu/projects/marcofaedo/3272457)

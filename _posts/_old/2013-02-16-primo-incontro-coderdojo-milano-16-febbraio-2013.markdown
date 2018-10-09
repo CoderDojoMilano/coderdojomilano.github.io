@@ -11,13 +11,13 @@ categories:
 - Eventi passati
 ---
 
-Fotoracconto di [Alessandra Mascoli](http://www.blogger.com/profile/14373180083913701463) del primo evento del CoderDojo Milano, tenutosi il 16 febbraio 2013, presso la sede di StartMiUp.
+Fotoracconto di [Alessandra Mascoli](//www.blogger.com/profile/14373180083913701463) del primo evento del CoderDojo Milano, tenutosi il 16 febbraio 2013, presso la sede di StartMiUp.
 
 
 
 
 
-  [![](http://coderdojomilano.it/wp-content/uploads/2013/02/febbraio_2013.jpg)Clicca qui per vedere le foto flickr.com](http://www.flickr.com/photos/98942956@N02/sets/72157634842506997/)
+  [![](//coderdojomilano.it/wp-content/uploads/2013/02/febbraio_2013.jpg)Clicca qui per vedere le foto flickr.com](//www.flickr.com/photos/98942956@N02/sets/72157634842506997/)
 
 
 

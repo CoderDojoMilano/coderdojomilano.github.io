@@ -13,6 +13,6 @@ categories:
 
 Lo scoiattolo gigante sbuca da dietro una montagna e fa "squit squit". L'animazione è stata realizzata con Scratch (scratch.mit.edu)
 
-http://youtu.be/Ao9vAcp5YJg
+//youtu.be/Ao9vAcp5YJg
 
 

@@ -16,7 +16,7 @@ categories:
 
 
 
-#### [Leggi tutto l'articolo online >>](http://archiviostorico.corriere.it/2013/giugno/08/bambini_basta_giorno_per_creare_co_0_20130608_6d8d221a-d000-11e2-b89e-b25104470e16.shtml)
+#### [Leggi tutto l'articolo online >>](//archiviostorico.corriere.it/2013/giugno/08/bambini_basta_giorno_per_creare_co_0_20130608_6d8d221a-d000-11e2-b89e-b25104470e16.shtml)
 
 
 
@@ -24,4 +24,4 @@ categories:
 **clicca sull'immagine per ingrandire**
 
 
-[![CdS_articolo01](http://coderdojomilano.it/wp-content/uploads/2013/06/CdS_articolo01-842x1024.jpg)](http://coderdojomilano.it/wp-content/uploads/2013/06/CdS_articolo01.jpg)
+[![CdS_articolo01](//coderdojomilano.it/wp-content/uploads/2013/06/CdS_articolo01-842x1024.jpg)](//coderdojomilano.it/wp-content/uploads/2013/06/CdS_articolo01.jpg)

@@ -15,7 +15,7 @@ categories:
 
 Nel video Barbara Laura Alaimo, co-fondatrice di CoderDojo Milano, ci spiega come e' nato CoderDojo a Milano, di cosa ha bisogno per continuare a vivere, quali sono gli obiettivi futuri e qual è la valenza formativa e pedagogica di questi incontri.
 
-[Leggi l'articolo e guarda il video>>](http://www.genitorichannel.it/video-scuola/bambini-programmatori-videogiochi.html)</blockquote>
+[Leggi l'articolo e guarda il video>>](//www.genitorichannel.it/video-scuola/bambini-programmatori-videogiochi.html)</blockquote>
 
 
 

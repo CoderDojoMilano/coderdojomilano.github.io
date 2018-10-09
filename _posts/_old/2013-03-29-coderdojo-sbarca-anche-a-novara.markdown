@@ -14,6 +14,6 @@ Coderdojo sbarca anche a Novara.
 
 La prima data il 20 Aprile!
 
-Per Info e registrazioni[ clicca qui](http://coderdojo-gallug-1.eventbrite.it/?ref=fb)
+Per Info e registrazioni[ clicca qui](//coderdojo-gallug-1.eventbrite.it/?ref=fb)
 
-[![coderdojologo](http://coderdojomilano.it/wp-content/uploads/2013/03/coderdojologo.jpg)](http://coderdojomilano.it/wp-content/uploads/2013/03/coderdojologo.jpg)
+[![coderdojologo](//coderdojomilano.it/wp-content/uploads/2013/03/coderdojologo.jpg)](//coderdojomilano.it/wp-content/uploads/2013/03/coderdojologo.jpg)

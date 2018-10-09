@@ -13,9 +13,9 @@ categories:
 
 <blockquote>Ecco i progetti realizzati dai nostri Ninja Sabato 23 Novembre in TAG.
 
-La loro missione questa volta: 'Ridurre i Rifiuti', in concomitanza con la [Settimana Europea per la Riduzione dei Rifiuti ](http://www.ecodallecitta.it/menorifiuti/) (dal 16 al 24 novembre).
+La loro missione questa volta: 'Ridurre i Rifiuti', in concomitanza con la [Settimana Europea per la Riduzione dei Rifiuti ](//www.ecodallecitta.it/menorifiuti/) (dal 16 al 24 novembre).
 
-[>>Guarda i Progetti](http://scratch.mit.edu/studios/290294/)</blockquote>
+[>>Guarda i Progetti](//scratch.mit.edu/studios/290294/)</blockquote>
 
 
-[![missione_rifiuti](http://coderdojomilano.it/wp-content/uploads/2013/11/missione_rifiuti.jpg)](http://scratch.mit.edu/studios/290294/)
+[![missione_rifiuti](//coderdojomilano.it/wp-content/uploads/2013/11/missione_rifiuti.jpg)](//scratch.mit.edu/studios/290294/)

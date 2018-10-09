@@ -21,7 +21,7 @@ Per scaricare il progetto finito, <a href="https://drive.google.com/file/d/0B2a
 
 Per scaricare sfondi e personaggi, <a href="https://drive.google.com/file/d/0B2acWmxEoKDkdEl1MUZ2eFd3ejA/edit?usp=sharing" target="new">clicca qui</a>
 
-Per vedere il progetto online, <a href="http://scratch.mit.edu/projects/19708707/" target="new">clicca qui</a>
+Per vedere il progetto online, <a href="//scratch.mit.edu/projects/19708707/" target="new">clicca qui</a>
 
 
 ![SC_PB_S1_acchiappa_uovo](/assets/uploads/2014/04/SC_PB_S1_acchiappa_uovo.png)

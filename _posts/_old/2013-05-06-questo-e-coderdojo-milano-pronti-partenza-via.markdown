@@ -15,4 +15,4 @@ categories:
 ###### Coderdojo Milano 20 Aprile 2013. Il programma della mattinata.
 
 
-http://youtu.be/VM0yfpcbih0
+//youtu.be/VM0yfpcbih0

@@ -17,4 +17,4 @@ categories:
 
 
 
-[![](http://coderdojomilano.it/wp-content/uploads/2014/03/dojo_marzo_small.jpg)Clicca qui per vedere le foto flickr.com](http://www.flickr.com/photos/98942956@N02/sets/72157642611325223/)
+[![](//coderdojomilano.it/wp-content/uploads/2014/03/dojo_marzo_small.jpg)Clicca qui per vedere le foto flickr.com](//www.flickr.com/photos/98942956@N02/sets/72157642611325223/)

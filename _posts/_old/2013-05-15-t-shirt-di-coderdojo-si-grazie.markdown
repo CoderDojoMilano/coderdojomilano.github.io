@@ -17,4 +17,4 @@ Non mancare all'appuntamento, **potrai acquistare anche le T-Shirt di Coderdojo.
 [Vai Al Talent Store di Lovli >>](https://lovli.it)</blockquote>
 
 
-![lovli_badge](http://coderdojomilano.it/wp-content/uploads/2013/05/lovli_badge.jpg)
+![lovli_badge](//coderdojomilano.it/wp-content/uploads/2013/05/lovli_badge.jpg)

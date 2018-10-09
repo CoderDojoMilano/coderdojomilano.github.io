@@ -10,4 +10,4 @@ categories:
 - News
 ---
 
-[![coderDojoBrescia](http://coderdojomilano.it/wp-content/uploads/2013/04/coderDojoBrescia.jpg)](http://brescia.talentgarden.it/2013/03/19/coderdojo-anche-a-brescia-i-bambini-imparano-a-programmare-divertendosi/)
+[![coderDojoBrescia](//coderdojomilano.it/wp-content/uploads/2013/04/coderDojoBrescia.jpg)](//brescia.talentgarden.it/2013/03/19/coderdojo-anche-a-brescia-i-bambini-imparano-a-programmare-divertendosi/)

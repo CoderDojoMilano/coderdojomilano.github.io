@@ -26,11 +26,11 @@ Quello che fa CoderDojo è avvicinare, stimolare, insegnare ai più giovani i pr
 
 
 
-#### [Leggi tutto l'articolo >>](http://it.startupbusiness.it/news/chi-ha-fiducia-nei-nativi-digitali-iniziative-italiane-per-lempowerment-dei-teen-ager)
+#### [Leggi tutto l'articolo >>](//it.startupbusiness.it/news/chi-ha-fiducia-nei-nativi-digitali-iniziative-italiane-per-lempowerment-dei-teen-ager)
 
 
 
 
-![coderdojo_milano02](http://coderdojomilano.it/wp-content/uploads/2013/04/coderdojo_milano02.jpg)
+![coderdojo_milano02](//coderdojomilano.it/wp-content/uploads/2013/04/coderdojo_milano02.jpg)
 
 

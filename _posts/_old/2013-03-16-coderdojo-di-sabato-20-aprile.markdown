@@ -15,7 +15,7 @@ categories:
 
 
 
-##### Le registrazioni su [Smappo ](http://www.smappo.it/event/514056e287b92_coderdojo-milano.html )a partire da Lunedi 18 Marzo.
+##### Le registrazioni su [Smappo ](//www.smappo.it/event/514056e287b92_coderdojo-milano.html )a partire da Lunedi 18 Marzo.
 
 
 **Cosa devono portare con se i bambini:**
@@ -32,4 +32,4 @@ categories:
   * Un genitore! Un accompagnatore deve essere presente durante tutta la durata dell'evento.
 
 
-[![coderDojo](http://coderdojomilano.it/wp-content/uploads/2013/03/03.jpg)](http://coderdojomilano.it/wp-content/uploads/2013/03/03.jpg)
+[![coderDojo](//coderdojomilano.it/wp-content/uploads/2013/03/03.jpg)](//coderdojomilano.it/wp-content/uploads/2013/03/03.jpg)

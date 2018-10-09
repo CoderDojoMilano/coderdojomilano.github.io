@@ -14,4 +14,4 @@ categories:
 Ecco le foto dell'evento di CoderDojo Milano, tenutosi il 18 Maggio 2013, presso la sede di TAG.
 
 
-[![](http://coderdojomilano.it/wp-content/uploads/2013/05/maggio_2013_01.jpg)Clicca qui per vedere le foto flickr.com](http://www.flickr.com/photos/98942956@N02/sets/72157634983564460/)
+[![](//coderdojomilano.it/wp-content/uploads/2013/05/maggio_2013_01.jpg)Clicca qui per vedere le foto flickr.com](//www.flickr.com/photos/98942956@N02/sets/72157634983564460/)

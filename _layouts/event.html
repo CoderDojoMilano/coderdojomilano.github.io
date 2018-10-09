@@ -21,7 +21,7 @@ layout: default
         </div>
     </div>
     {% if page.registration_url contains "eventbrite.it/" %}
-        {% assign eventbrite_id = (page.registration_url | split:"-" | last) %}
+        {% assign eventbrite_id = page.registration_url | split:"-" | last %}
         {% assign layout_width = "col-lg-6" %}
     {% else %}
         {% assign layout_width = "col-lg-12" %}

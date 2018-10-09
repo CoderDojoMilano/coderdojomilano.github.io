@@ -16,12 +16,12 @@ Siamo lieti di annunciare che il prossimo Coderdojo del 20 Aprile sarà ospitato
 
 
 
-##### Visita [Talent Garden](http://www.talentgarden.it/it/#!/home)
+##### Visita [Talent Garden](//www.talentgarden.it/it/#!/home)
 
 
 
 
-[![tagIT](http://coderdojomilano.it/wp-content/uploads/2013/04/tagIT.jpg)](http://coderdojomilano.it/wp-content/uploads/2013/04/tagIT.jpg)
+[![tagIT](//coderdojomilano.it/wp-content/uploads/2013/04/tagIT.jpg)](//coderdojomilano.it/wp-content/uploads/2013/04/tagIT.jpg)
 
 
 

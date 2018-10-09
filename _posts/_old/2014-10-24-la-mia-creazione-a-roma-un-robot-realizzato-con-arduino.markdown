@@ -12,11 +12,11 @@ categories:
 
 Sono Valeria Cagnina, ho 13 anni e frequento il Coderdojo Milano ogni volta che posso: mi piace tantissimo la programmazione ma ancora di più il maker.
 
-Giovedì 16 ottobre, in occasione della Settimana del Codice sono stata invitata a "**CodeIT in Rome”** nella sala della sede italiana del Parlamento Europeo a Roma. Vi rendete conto? L'Agenda Digitale Italiana, quella del governo all'interno della quale lavora [Stefano Quintarelli che ho già avuto modo di conoscere a Rimini alla Festa della Rete](http://blog.lilianamonticone.com/festa-della-rete-quintarelli/) ed è una persona splendida!
+Giovedì 16 ottobre, in occasione della Settimana del Codice sono stata invitata a "**CodeIT in Rome”** nella sala della sede italiana del Parlamento Europeo a Roma. Vi rendete conto? L'Agenda Digitale Italiana, quella del governo all'interno della quale lavora [Stefano Quintarelli che ho già avuto modo di conoscere a Rimini alla Festa della Rete](//blog.lilianamonticone.com/festa-della-rete-quintarelli/) ed è una persona splendida!
 
-Ho tenuto la mia parte di talk insieme a Agnese Addone, la Champion di Coderdojo Italia che ha spiegato un po' cos'è il Coderdojo e come funzionano questi "clubs". Il talk è stato abbastanza breve rispetto al tempo che mi avevano messo a disposizione ad esempio [a Todi in occasione del'Appydays](http://blog.lilianamonticone.com/talk-di-valeria-idcamp14-todiappydays/) (dove il mio talk durava quasi mezz'ora), perché eravamo davvero in tanti, ma ho avuto il tempo di presentarmi, di presentare la realtà del Coderdojo Milano che è davvero unica, e di far vedere il mio robot o, come mi piace definirlo, "la mia creazione"!
+Ho tenuto la mia parte di talk insieme a Agnese Addone, la Champion di Coderdojo Italia che ha spiegato un po' cos'è il Coderdojo e come funzionano questi "clubs". Il talk è stato abbastanza breve rispetto al tempo che mi avevano messo a disposizione ad esempio [a Todi in occasione del'Appydays](//blog.lilianamonticone.com/talk-di-valeria-idcamp14-todiappydays/) (dove il mio talk durava quasi mezz'ora), perché eravamo davvero in tanti, ma ho avuto il tempo di presentarmi, di presentare la realtà del Coderdojo Milano che è davvero unica, e di far vedere il mio robot o, come mi piace definirlo, "la mia creazione"!
 
-Tutti guardavano con interesse il mio robottino, lo fotografavano, lo filmavano e mi facevano un sacco di domande su come lo avessi realizzato. La cosa che stupiva maggiormente erano i miei 13 anni. Pensate che [Dol's Magazine ha persino fatto un post su di me e sul mio intervento](http://www.dols.it/2014/10/17/piccole-dols-crescono/)!
+Tutti guardavano con interesse il mio robottino, lo fotografavano, lo filmavano e mi facevano un sacco di domande su come lo avessi realizzato. La cosa che stupiva maggiormente erano i miei 13 anni. Pensate che [Dol's Magazine ha persino fatto un post su di me e sul mio intervento](//www.dols.it/2014/10/17/piccole-dols-crescono/)!
 
 A Roma ho avuto anche la possibilità di incontrare **Riccardo Luna, **l'Italian Digital Champion**. **Anche lui mi ha fatto un sacco di complimenti e gli sono piaciute un po' tutte le cose che faccio: dal fatto di essere la più giovane travel blogger d'Italia alla mia passione per Arduino.
 
@@ -36,4 +36,4 @@ E' stata una splendida opportunità. Arrivederci a presto al prossimo Maker!
 
 
 
-http://youtu.be/_V0cs4qCXTE
+//youtu.be/_V0cs4qCXTE

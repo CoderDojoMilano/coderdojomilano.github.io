@@ -25,15 +25,15 @@ Alcuni, come i loro nonni, sognano ancora di diventare astronauti.</blockquote>
 
 
 
-##### su [Il Giorno Milan](http://www.ilgiorno.it/milano)o di _Luca Zorloni, _Twitter: @Luke_like__
+##### su [Il Giorno Milan](//www.ilgiorno.it/milano)o di _Luca Zorloni, _Twitter: @Luke_like__
 
 
 
 
 
-#### [Leggi tutto l'articolo>>](http://www.ilgiorno.it/milano/cronaca/2013/04/20/876739-coderdojo-milano-lezioni-informatica-gratis-ragazzi-smanettoni.shtml#.UXKyL601NQU.twitter)
+#### [Leggi tutto l'articolo>>](//www.ilgiorno.it/milano/cronaca/2013/04/20/876739-coderdojo-milano-lezioni-informatica-gratis-ragazzi-smanettoni.shtml#.UXKyL601NQU.twitter)
 
 
 
 
-![ilgiornomilano](http://coderdojomilano.it/wp-content/uploads/2013/04/ilgiornomilano.jpg)
+![ilgiornomilano](//coderdojomilano.it/wp-content/uploads/2013/04/ilgiornomilano.jpg)

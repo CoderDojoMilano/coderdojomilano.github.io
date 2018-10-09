@@ -12,9 +12,9 @@ categories:
 
 <blockquote>Missione Be Cool! Ecco i progetti che i nostri ragazzi hanno realizzato Sabato 19 ottobre in [Talent Garden](https://www.facebook.com/talentgarden?directed_target_id=0) con [Scratch](https://www.facebook.com/scratchteam?directed_target_id=0)
 
-[Guarda i progetti >>](http://scratch.mit.edu/studios/268513/)
+[Guarda i progetti >>](//scratch.mit.edu/studios/268513/)
 
 </blockquote>
 
 
-[![ninja_advanced](http://coderdojomilano.it/wp-content/uploads/2013/10/ninja_advanced.jpg)](http://scratch.mit.edu/studios/268513/)
+[![ninja_advanced](//coderdojomilano.it/wp-content/uploads/2013/10/ninja_advanced.jpg)](//scratch.mit.edu/studios/268513/)

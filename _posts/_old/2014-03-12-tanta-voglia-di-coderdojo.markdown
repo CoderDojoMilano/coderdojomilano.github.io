@@ -13,7 +13,7 @@ categories:
 <blockquote>
 
 > 
-> ![ticket](http://coderdojomilano.it/wp-content/uploads/2014/03/ticket.jpg)
+> ![ticket](//coderdojomilano.it/wp-content/uploads/2014/03/ticket.jpg)
 > 
 > 
 Lunedì si sono aperte le registrazioni e, come accade ormai da alcuni mesi, i ticket disponibili si sono esauriti immediatamente.
@@ -22,7 +22,7 @@ Dovremmo esserne strafelici … ma …
 
 A Febbraio la pagina dedicata alle registrazioni era stata visitata **556 volte** **nel giro di pochi minuti**, lunedì è stata visitata circa 430 volte: come commentava giustamente un genitore l’apertura delle registrazioni “non dovrebbe diventare una gara tra adulti a chi riesce a registrarsi prima” e non è questo ciò che desideriamo.
 
-Come abbiamo già avuto modo di dire nei giorni scorsi stiamo attuando una serie di azioni mirate ad allargare la disponibilità di questi laboratori, anche grazie alle iniziative dell’associazione [**Piccole Variabili** ](http://piccolevariabili.it/)di cui CoderDojo Milano è uno dei fiori all’occhiello.
+Come abbiamo già avuto modo di dire nei giorni scorsi stiamo attuando una serie di azioni mirate ad allargare la disponibilità di questi laboratori, anche grazie alle iniziative dell’associazione [**Piccole Variabili** ](//piccolevariabili.it/)di cui CoderDojo Milano è uno dei fiori all’occhiello.
 
 Nei prossimi giorni inseriremo a calendario almeno altre 3 date oltre a quelle già presenti per un totale di circa 70 posti disponibili. Tuttavia non vogliamo illudere nessuno: per quanto potremo aumentare le date o attivare liste d’attesa non possiamo pensare di soddisfare una domanda tanto imponente con le risorse oggi a disposizione.
 

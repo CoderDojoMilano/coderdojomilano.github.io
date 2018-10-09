@@ -24,8 +24,8 @@ Per scaricare il progetto di partenza, [clicca QUI](https://drive.google.com/fi
 
 Per scaricare il progetto finito, [clicca QUI](https://drive.google.com/file/d/0B28j76gOGeg0UUMzSkJ3cUJOVGs/view?usp=sharing)
 
-Per vedere il progetto online, [clicca QUI](http://scratch.mit.edu/projects/53734736/)
+Per vedere il progetto online, [clicca QUI](//scratch.mit.edu/projects/53734736/)
 
 
 
-![quiz](http://coderdojomilano.it/wp-content/uploads/2015/03/quiz.jpg)
+![quiz](//coderdojomilano.it/wp-content/uploads/2015/03/quiz.jpg)

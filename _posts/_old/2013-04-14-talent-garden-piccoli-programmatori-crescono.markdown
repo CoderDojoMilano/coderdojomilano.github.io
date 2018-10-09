@@ -29,9 +29,9 @@ categories:
 
 
 
-#### [Leggi tutto l'articolo >>](http://www.giornaledibrescia.it/in-citta/talent-garden-piccoli-programmatori-crescono-1.1630594)
+#### [Leggi tutto l'articolo >>](//www.giornaledibrescia.it/in-citta/talent-garden-piccoli-programmatori-crescono-1.1630594)
 
 
 
 
-[![1488104641](http://coderdojomilano.it/wp-content/uploads/2013/04/1488104641.jpg)](http://coderdojomilano.it/wp-content/uploads/2013/04/1488104641.jpg)
+[![1488104641](//coderdojomilano.it/wp-content/uploads/2013/04/1488104641.jpg)](//coderdojomilano.it/wp-content/uploads/2013/04/1488104641.jpg)

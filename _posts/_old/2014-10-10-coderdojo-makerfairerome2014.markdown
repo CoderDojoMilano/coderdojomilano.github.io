@@ -45,7 +45,7 @@ Il pomeriggio arrivano anche Giulia, Giampiero e Ale; la fiera apre al pubblico 
 
 Serata in pizzeria con coderdojo assortiti.
 
-![DSC_0294](http://coderdojomilano.it/wp-content/uploads/2014/10/DSC_0294-e1412976308779.jpg)
+![DSC_0294](//coderdojomilano.it/wp-content/uploads/2014/10/DSC_0294-e1412976308779.jpg)
 
 **** ****
 
@@ -67,7 +67,7 @@ Il resto della giornata prosegue con demo su demo, poi in serata salutiamo Angel
 
 Ma il sole sul CoderDojo non tramonta mai, e così cena direttamente in fiera e a seguire mega-mentor-meeting su temi vari.
 
-![DSC_0262](http://coderdojomilano.it/wp-content/uploads/2014/10/DSC_0262-e1412976358263.jpg)
+![DSC_0262](//coderdojomilano.it/wp-content/uploads/2014/10/DSC_0262-e1412976358263.jpg)
 
 **** ****
 
@@ -83,13 +83,13 @@ Il resto della giornata si va avanti tutta con le demo...in totale credo che qua
 
 Verso le 17 smonto i bot e con i mentor rimasti ci si incammina verso l’uscita, lasciamo una fiera ancora strapiena che sembra non voler chiudere mai.
 
-![DSC_0319](http://coderdojomilano.it/wp-content/uploads/2014/10/DSC_0319-e1412976409211.jpg)
+![DSC_0319](//coderdojomilano.it/wp-content/uploads/2014/10/DSC_0319-e1412976409211.jpg)
 
 **
 Siamo tutti stanchissimi ma soddisfatti, sulla via di casa già si pensa al prossimo anno; dobbiamo andare alla #mfr15 e fare ancora di più e meglio: non sarà facile superare "l'epicità abnorme dei robot"! :D**
 
 
 
-![IMG_6470](http://coderdojomilano.it/wp-content/uploads/2014/10/IMG_6470.jpg)
+![IMG_6470](//coderdojomilano.it/wp-content/uploads/2014/10/IMG_6470.jpg)
 
 

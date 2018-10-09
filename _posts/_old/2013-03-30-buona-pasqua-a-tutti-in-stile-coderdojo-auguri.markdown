@@ -20,12 +20,12 @@ categories:
 
 
 
-### [Vai al Gioco](http://scratch.mit.edu/projects/BeachDroid/469853)
+### [Vai al Gioco](//scratch.mit.edu/projects/BeachDroid/469853)
 
 
 
 
-[![egg](http://coderdojomilano.it/wp-content/uploads/2013/03/egg.jpg)](http://scratch.mit.edu/projects/BeachDroid/469853)
+[![egg](//coderdojomilano.it/wp-content/uploads/2013/03/egg.jpg)](//scratch.mit.edu/projects/BeachDroid/469853)
 
 
 

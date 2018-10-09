@@ -15,10 +15,10 @@ categories:
 
 Non perdetevi i progetti dei nostri ragazzi che si sono cimentati per la prima volta in una sessione di pair programming
 
-[Guarda i progetti >>](http://scratch.mit.edu/studios/253386/)
+[Guarda i progetti >>](//scratch.mit.edu/studios/253386/)
 
 > 
-> [![tsunami01](http://coderdojomilano.it/wp-content/uploads/2013/09/tsunami01.jpg)](http://scratch.mit.edu/studios/253386/)
+> [![tsunami01](//coderdojomilano.it/wp-content/uploads/2013/09/tsunami01.jpg)](//scratch.mit.edu/studios/253386/)
 > 
 > 
 </blockquote>

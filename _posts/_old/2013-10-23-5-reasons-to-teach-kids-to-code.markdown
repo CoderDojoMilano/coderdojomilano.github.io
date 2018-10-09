@@ -11,16 +11,16 @@ categories:
 ---
 
 
-			![5 Reasons to Teach Kids to Code](http://thumbnails.visually.netdna-cdn.com/5-reasons-to-teach-kids-to-code_525c170a49149_w587.png)
+			![5 Reasons to Teach Kids to Code](//thumbnails.visually.netdna-cdn.com/5-reasons-to-teach-kids-to-code_525c170a49149_w587.png)
 			
 
 
-				by [NowSourcing](http://nowsourcing.com?utm_source=visually_embed).   
-Explore more [infographics](http://visual.ly) like this one on the web's largest information design community - [Visually](http://visual.ly).
+				by [NowSourcing](//nowsourcing.com?utm_source=visually_embed).   
+Explore more [infographics](//visual.ly) like this one on the web's largest information design community - [Visually](//visual.ly).
 			
 
 
-			[](http://visual.ly/5-reasons-teach-kids-code?utm_source=visually_embed)
+			[](//visual.ly/5-reasons-teach-kids-code?utm_source=visually_embed)
 			
 			
 		

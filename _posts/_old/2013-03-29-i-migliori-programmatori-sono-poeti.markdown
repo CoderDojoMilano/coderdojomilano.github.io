@@ -22,6 +22,6 @@ CoderDojo nasce per questo lavoro!
 aiutare i bambini a diventare Programmatori-Poeti, insegnandosi a vicenda e divertendosi mentre imparano!</blockquote>
 
 
-http://youtu.be/k5ciSFjEN1c
+//youtu.be/k5ciSFjEN1c
 
 

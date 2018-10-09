@@ -10,7 +10,7 @@ categories:
 - News
 ---
 
-<blockquote>[The 7 golden rules for mentors](http://www.slideshare.net/straordinariamentenormale/the-7-golden-rules-for-mentors) by [**Barbara Laura Alaimo**](http://www.straordinariamentenormale.it/)
+<blockquote>[The 7 golden rules for mentors](//www.slideshare.net/straordinariamentenormale/the-7-golden-rules-for-mentors) by [**Barbara Laura Alaimo**](//www.straordinariamentenormale.it/)
 
 1. be interested and careful
 2. kids are full of resources
@@ -24,6 +24,6 @@ Vi voglio bene mentor!* * I love you mentors!
 
 Chi ha fatto CoderDojo deve essere benedetto per sempre* * Who created CoderDojo must be blessed forever
 
-[Guarda le Slide >>](http://www.slideshare.net/straordinariamentenormale/the-7-golden-rules-for-mentors)
+[Guarda le Slide >>](//www.slideshare.net/straordinariamentenormale/the-7-golden-rules-for-mentors)
 
-[![coderdojo_mi_slides](http://coderdojomilano.it/wp-content/uploads/2014/02/coderdojo_mi_slides-e1391505159896.jpg)](http://www.slideshare.net/straordinariamentenormale/the-7-golden-rules-for-mentors)</blockquote>
+[![coderdojo_mi_slides](//coderdojomilano.it/wp-content/uploads/2014/02/coderdojo_mi_slides-e1391505159896.jpg)](//www.slideshare.net/straordinariamentenormale/the-7-golden-rules-for-mentors)</blockquote>

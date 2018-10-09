@@ -19,7 +19,7 @@ Vai alla Guida, <a href="https://drive.google.com/file/d/0B2acWmxEoKDkODBqdXAzZ
 
 Per scaricare il progetto finito, <a href="https://drive.google.com/file/d/0B2acWmxEoKDkVFJyTVAybXJ1Qzg/edit?usp=sharing" target="new">clicca qui</a>
 
-Per vedere il progetto online, <a href="http://scratch.mit.edu/projects/18283098/" target="new">clicca qui</a>
+Per vedere il progetto online, <a href="//scratch.mit.edu/projects/18283098/" target="new">clicca qui</a>
 
 
 ![SC_PB_S3_contaccinella](/assets/uploads/2014/04/SC_PB_S3_contaccinella.png)

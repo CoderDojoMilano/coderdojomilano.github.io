@@ -14,16 +14,16 @@ categories:
 Qui di seguito il codice coupon che vi permette di ottenere il free shipping: **coderdojo** (si, il nostro nome tutto minuscolo).
 Vi ricordiamo che il ricavato della vendita sarà devoluto a CoderDojo Milano.
 
-[Registratevi](http://lovli.it/), inserite il codice e acquistate le T-Shirt: c'è anche la nostra.
+[Registratevi](//lovli.it/), inserite il codice e acquistate le T-Shirt: c'è anche la nostra.
 
 E non dimenticate di dirlo ai vostri amici!</blockquote>
 
 
 
 
-#### [Vai al sito Lovli.it >>](http://lovli.it/)
+#### [Vai al sito Lovli.it >>](//lovli.it/)
 
 
-![coderShirt](http://coderdojomilano.it/wp-content/uploads/2013/05/coderShirt.jpg)
+![coderShirt](//coderdojomilano.it/wp-content/uploads/2013/05/coderShirt.jpg)
 
 

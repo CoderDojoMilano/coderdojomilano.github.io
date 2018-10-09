@@ -10,7 +10,7 @@ categories:
 - News
 ---
 
-#### [Clicca per vedere le slide](http://www.slideshare.net/fabio.mm/coderdojo-galliate-20-aprile-2013)
+#### [Clicca per vedere le slide](//www.slideshare.net/fabio.mm/coderdojo-galliate-20-aprile-2013)
 
 
-[![slide-1-638](http://coderdojomilano.it/wp-content/uploads/2013/04/slide-1-638.jpg)](http://www.slideshare.net/fabio.mm/coderdojo-galliate-20-aprile-2013)
+[![slide-1-638](//coderdojomilano.it/wp-content/uploads/2013/04/slide-1-638.jpg)](//www.slideshare.net/fabio.mm/coderdojo-galliate-20-aprile-2013)

@@ -15,7 +15,7 @@ Ricordiamo che uno dei primi step √® verificare sul sito ufficiale se esiste gi√
 
 
 
-[Qui trovate anche una guida su come iniziare.](http://coderdojo.com/help-us/i-want-to-start-a-coderdojo-right-now/)
+[Qui trovate anche una guida su come iniziare.](//coderdojo.com/help-us/i-want-to-start-a-coderdojo-right-now/)
 
 
 
@@ -23,6 +23,6 @@ Ricordiamo che uno dei primi step √® verificare sul sito ufficiale se esiste gi√
 #### _Accendiamo la scintilla!_
 
 
-[![howTo](http://coderdojomilano.it/wp-content/uploads/2013/03/howTo.jpg)](http://coderdojomilano.it/wp-content/uploads/2013/03/howTo.jpg)
+[![howTo](//coderdojomilano.it/wp-content/uploads/2013/03/howTo.jpg)](//coderdojomilano.it/wp-content/uploads/2013/03/howTo.jpg)
 
 

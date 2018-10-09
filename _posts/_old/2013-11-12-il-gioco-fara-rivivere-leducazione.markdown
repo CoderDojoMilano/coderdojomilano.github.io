@@ -11,4 +11,4 @@ categories:
 - News
 ---
 
-[![presentazione_gioco](http://coderdojomilano.it/wp-content/uploads/2013/11/presentazione_gioco.jpg)](http://coderdojomilano.it/wp-content/uploads/2013/11/presentazione_gioco.jpg)[![presentazione_gioco](http://coderdojomilano.it/wp-content/uploads/2013/11/presentazione_gioco.jpg)](http://coderdojomilano.it/wp-content/uploads/2013/11/presentazione_gioco.jpg)
+[![presentazione_gioco](//coderdojomilano.it/wp-content/uploads/2013/11/presentazione_gioco.jpg)](//coderdojomilano.it/wp-content/uploads/2013/11/presentazione_gioco.jpg)[![presentazione_gioco](//coderdojomilano.it/wp-content/uploads/2013/11/presentazione_gioco.jpg)](//coderdojomilano.it/wp-content/uploads/2013/11/presentazione_gioco.jpg)

@@ -14,7 +14,7 @@ categories:
 Ecco le foto del terzo evento di CoderDojo Milano, tenutosi il 20 Aprile 2013, presso la sede di TAG.
 
 
-[![](http://coderdojomilano.it/wp-content/uploads/2013/04/aprile_2013.jpg)Clicca qui per vedere le fotoflickr.com](http://www.flickr.com/photos/98942956@N02/sets/72157634976997543/)
+[![](//coderdojomilano.it/wp-content/uploads/2013/04/aprile_2013.jpg)Clicca qui per vedere le fotoflickr.com](//www.flickr.com/photos/98942956@N02/sets/72157634976997543/)
 
 
 

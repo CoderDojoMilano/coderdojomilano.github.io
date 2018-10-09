@@ -15,4 +15,4 @@ categories:
 <blockquote>Se vi siete persi il TG di Telelombardia con il servizio sull’evento di Sabato 18 Maggio potete rivederlo sul nostro canale YouTube.</blockquote>
 
 
-http://youtu.be/n5gvcE4qE3A
+//youtu.be/n5gvcE4qE3A

@@ -21,4 +21,4 @@ Vai alla Guida, <a href="https://docs.google.com/document/d/1Fv86u6miGoMnWLM--y
 
 
 
-![HTML](http://coderdojomilano.it/wp-content/uploads/2014/03/HTML.jpg)
+![HTML](//coderdojomilano.it/wp-content/uploads/2014/03/HTML.jpg)

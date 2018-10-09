@@ -37,14 +37,14 @@ categories:
 
 
 
-##### di [Luigina Foggetti](http://www.luiginafoggetti.com/) su girlgeeklife.com
+##### di [Luigina Foggetti](//www.luiginafoggetti.com/) su girlgeeklife.com
 
 
 
 
-#### [Leggi tutto l'articolo >>](http://www.girlgeeklife.com/2013/04/coderdojo-bambini-programmare/)
+#### [Leggi tutto l'articolo >>](//www.girlgeeklife.com/2013/04/coderdojo-bambini-programmare/)
 
 
 
 
-![coder_mi_01](http://coderdojomilano.it/wp-content/uploads/2013/04/coder_mi_01.jpg)
+![coder_mi_01](//coderdojomilano.it/wp-content/uploads/2013/04/coder_mi_01.jpg)

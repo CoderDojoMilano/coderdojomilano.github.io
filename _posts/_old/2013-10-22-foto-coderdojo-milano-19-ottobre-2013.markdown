@@ -15,4 +15,4 @@ categories:
 
 
 
-[![](http://coderdojomilano.it/wp-content/uploads/2013/10/tag_ottobre.jpg)Clicca qui per vedere le foto flickr.com](http://www.flickr.com/photos/98942956@N02/sets/72157636734392774/)
+[![](//coderdojomilano.it/wp-content/uploads/2013/10/tag_ottobre.jpg)Clicca qui per vedere le foto flickr.com](//www.flickr.com/photos/98942956@N02/sets/72157636734392774/)

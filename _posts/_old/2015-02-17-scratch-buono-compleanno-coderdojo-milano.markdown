@@ -23,8 +23,8 @@ Per scaricare il progetto di partenza, [clicca QUI](https://drive.google.com/op
 
 Per scaricare il progetto finito, [clicca QUI](https://drive.google.com/file/d/0B2acWmxEoKDkOGJGa0t3QlFvbTg)
 
-Per vedere il progetto online, [clicca QUI](http://scratch.mit.edu/projects/47969402/)
+Per vedere il progetto online, [clicca QUI](//scratch.mit.edu/projects/47969402/)
 
 
 
-![buoncompleannoCD](http://coderdojomilano.it/wp-content/uploads/2015/02/buoncompleannoCD.jpg)
+![buoncompleannoCD](//coderdojomilano.it/wp-content/uploads/2015/02/buoncompleannoCD.jpg)

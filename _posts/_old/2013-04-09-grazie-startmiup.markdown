@@ -10,7 +10,7 @@ categories:
 - News
 ---
 
-Oggi vogliamo ringraziare[ StartMiUp](http://www.startmiup.it/) che ha ospitato le prime due sessioni di Coderdojo Milano.
+Oggi vogliamo ringraziare[ StartMiUp](//www.startmiup.it/) che ha ospitato le prime due sessioni di Coderdojo Milano.
 Ci avete supportato con grande professionalità e ci avete messo a disposizione la vostra bellissima sede, facendo si che Coderdojo potesse decollare e prendere il volo. Sappiamo che continuerete a seguirci in questa avventura e a fare il tifo per noi.
 
 
@@ -19,4 +19,4 @@ Ci avete supportato con grande professionalità e ci avete messo a disposizione 
 
 
 
-[![startmiup](http://coderdojomilano.it/wp-content/uploads/2013/04/startmiup.jpg)](http://www.startmiup.it/)
+[![startmiup](//coderdojomilano.it/wp-content/uploads/2013/04/startmiup.jpg)](//www.startmiup.it/)

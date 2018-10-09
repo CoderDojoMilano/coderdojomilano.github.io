@@ -15,7 +15,7 @@ categories:
 
 **Informazioni sull'evento**:
 
-Evento gratuito promosso dai canali [K2](http://www.k2tv.it/) (canale 41) e [Frisbee](http://www.frisbeetv.it/) (canale 44) del gruppo Discovery Italia per la campagna "BULLO E’ CHI IL BULLO FA" che supporta la lotta contro bullismo e cyberbullismo avviata dal Ministero della Pubblica Istruzione, dell’Università e della Ricerca. 
+Evento gratuito promosso dai canali [K2](//www.k2tv.it/) (canale 41) e [Frisbee](//www.frisbeetv.it/) (canale 44) del gruppo Discovery Italia per la campagna "BULLO E’ CHI IL BULLO FA" che supporta la lotta contro bullismo e cyberbullismo avviata dal Ministero della Pubblica Istruzione, dell’Università e della Ricerca. 
  
 I partecipanti impareranno a creare un gioco attraverso la piattaforma Scratch ed utilizzando come personaggio principale il simpatico gattone blu Oggy, protagonista della serie animata "Oggy e i Maledetti Scarafaggi".
  

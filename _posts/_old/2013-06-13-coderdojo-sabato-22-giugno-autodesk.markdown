@@ -12,7 +12,7 @@ categories:
 
 <blockquote>Sabato 22 Giugno si terrà un Coderdojo straordinario presso la sede milanese di Autodesk.
 
-Le registrazioni apriranno Lunedì 17 su [Smappo](http://www.smappo.it/event/51b9ac8f955d2_coderdojo-autodesk.html).
+Le registrazioni apriranno Lunedì 17 su [Smappo](//www.smappo.it/event/51b9ac8f955d2_coderdojo-autodesk.html).
 
 Raccomandiamo ai genitori di verificare attentamente i requisiti HW e SW presenti nel form di iscrizione prima di effettuare la registrazione, pena l'impossibilità per i bambini di lavorare e divertirsi.
 
@@ -22,4 +22,4 @@ In aggiunta (non in alternativa) portate anche i vostri dispositivi iOS o Androi
 
 I posti sono limitati ... non lasciateveli sfuggire, ci sarà da divertirsi!
 
-[Iscrizioni su Smappo](http://www.smappo.it/event/51b9ac8f955d2_coderdojo-autodesk.html)</blockquote>
+[Iscrizioni su Smappo](//www.smappo.it/event/51b9ac8f955d2_coderdojo-autodesk.html)</blockquote>
