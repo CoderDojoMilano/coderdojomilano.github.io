@@ -32,6 +32,7 @@ event_locations:
     lon: 9.2191134
     logo: logo_tag_milano.png
     addr: Via Merano, 16, 20127 Milano
+    no_home_map: true
   - id: wemake
     url: https://wemake.cc
     name: WeMake
@@ -39,6 +40,7 @@ event_locations:
     lon: 9.2262703
     logo: logo_wemake.png
     addr: Via Privata Stefanardo da Vimercate, 27, 20128 Milano
+    no_home_map: true
   - id: wcapmi
     url: https://www.wcap.tim.it/en/accelerators/milan
     name: Working Capital Accelerator
@@ -46,6 +48,7 @@ event_locations:
     lon: 9.2425329
     logo: logo_wcap.png
     addr: Via Rombon, 52, 20134 Milano
+    no_home_map: true
   - id: base
     url: https://base.milano.it/
     name: BASE Milano
@@ -53,6 +56,7 @@ event_locations:
     lon: 9.163875
     logo: logo_base.png
     addr: Via Bergognone, 34, 20144 Milano
+    no_home_map: true    
   - id: unimi-di
     url: //www.di.unimi.it/
     name: Università degli Studi di Milano - Dipartimento di Informatica
@@ -124,7 +128,6 @@ event_locations:
     lon: 9.20934490000002
     logo: logo_ied.png
     addr: Via Amatore Sciesa, 4, 20135 Milano
-    no_home_map: true
   - id: politecnico
     url: https://www.polimi.it/
     name: Politecnico - Bovisa
@@ -132,7 +135,6 @@ event_locations:
     lon: 9.1558413
     logo: logo_politecnico.png
     addr: Via Lambruschini, 4, 20146 Milano
-    no_home_map: true
 
 # Build settings
 markdown: kramdown
