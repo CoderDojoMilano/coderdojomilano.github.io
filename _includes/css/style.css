@@ -451,3 +451,18 @@ img::-moz-selection {
   margin-right: 10px;
   width : 20%;
 }
+
+
+input[type=checkbox], input[type=radio] {
+    vertical-align: middle;
+    position: relative;
+    bottom: 2px;
+}
+
+input[type=radio] {
+    bottom: 2px;
+}
+
+.mr-5 {
+  margin-right: 5px;  
+}

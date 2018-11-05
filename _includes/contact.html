@@ -5,11 +5,15 @@
         <form class="contact-form form-horizontal" novalidate>
             <div class="form-group">
                 <label class="control-label">Il tuo nome</label>
-                <input type="text" class="form-control" name="name" minlength="2" required aria-required="true" data-emoji_font="true">
+                <input type="text" class="form-control" name="first_name" minlength="2" required aria-required="true" data-emoji_font="true" data-cons-subject="first_name">
+            </div>
+            <div class="form-group">
+                <label class="control-label">Il tuo cognome</label>
+                <input type="text" class="form-control" name="last_name" minlength="2" required aria-required="true" data-emoji_font="true" data-cons-subject="last_name">
             </div>
             <div class="form-group">
                 <label class="control-label" >Il tuo indirizzo e-mail</label>
-                <input type="email" class="form-control" name="email" required aria-required="true">
+                <input type="email" class="form-control" name="email" required aria-required="true" data-cons-subject="email">
             </div>
             <div class="form-group">
                 <label class="control-label">Inserisci il tuo messaggio</label>
@@ -19,9 +23,29 @@
                 <label class="control-label" data-id="calculation-label"></label>
                 <input type="text" class="form-control" name="calculation" required aria-required="true">
             </div>
+            <ul style="list-style: none">
+                <li>
+                    <label class="control-label">
+                        <span class="mr-5">
+                            Ho letto la <a href="https://www.iubenda.com/privacy-policy/71749296>" target="_blank">Privacy Policy</a>
+                        </span>
+                        <input type="checkbox" name="documents" data-cons-preference="legal_documents" id="documents"/>
+                    </label>
+
+                </li>
+                <li style="margin-top: 10px">
+                    <label>
+                        <span class="mr-5">
+                           Desidero ricevere periodicamente aggiornamenti ed informazioni
+                        </span>
+                        <input type="checkbox" name="newsletter" data-cons-preference="newsletter"/>
+                    </label>
+                </li>
+            </ul>
             <div class="col-md-12 form-group">
                 <button type="submit" data-id="contact-submit" class="btn btn-block btn-cta btn-cta-primary">Invia</button>
             </div>
+
         </form>
     </section>
 
