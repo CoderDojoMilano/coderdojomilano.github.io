@@ -7,7 +7,6 @@
     var submit_button_element = contact_form_element.find("[data-id='contact-submit']");
     var calculation_label_element = contact_form_element.find("[data-id='calculation-label']");
 
-
     var validate = function(value) {
         contact_form_element.validate( {
 
@@ -52,6 +51,8 @@
        contact_form_element.submit( function(e) {
             e.preventDefault();
 
+            var email = email_element.val();
+
             validate(operation_checker.result);
 
             if (contact_form_element.valid()) {
@@ -61,8 +62,18 @@
                     writeOnLocalStorage: false,
                     form: {
                         selector: document.getElementById('contact'),
+                        map: {
+                            subject: {
+                                first_name: 'first_name',
+                                last_name: 'last_name',
+                                email: 'email'
+                            }
+                        }
                     },
                     consent: {
+                        subject: {
+                            id: md5(email),
+                        },
                         legal_notices: [
                             {
                                 identifier: 'legal_documents',
@@ -75,7 +86,7 @@
                 })
                 .success(function() {
                     var key = "ts_" + Date.now().toJSON();
-                    var payload = JSON.stringify({ name: first_name_element.val() + last_name_element.val(), email: email_element.val(), message: message_element.val()});
+                    var payload = JSON.stringify({ name: first_name_element.val() + last_name_element.val(), email: email, message: message_element.val()});
 
                     if ( typeof window.kvstoreio !== 'undefined' ) {
                         kvstoreio("contacts",
