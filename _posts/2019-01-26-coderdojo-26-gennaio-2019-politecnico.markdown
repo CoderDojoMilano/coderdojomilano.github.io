@@ -1,7 +1,7 @@
 ---
 author: admin
 comments: false
-date: 2019-01-26 14:30:00+02:00
+date: 2019-01-26 15:30:00+02:00
 layout: event
 location: politecnico
 registration_url: 
