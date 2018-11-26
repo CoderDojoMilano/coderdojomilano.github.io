@@ -4,7 +4,7 @@ comments: false
 date: 2018-12-01 14:30:00+01:00
 layout: event
 location: ied
-registration_url: 
+registration_url: https://www.eventbrite.it/e/biglietti-coderdojo-milano-ied-milano-52989942344
 type: Player
 slug: coderdojo-il-1-dicembre-in-ied
 title: CoderDojo l'1 dicembre in IED
