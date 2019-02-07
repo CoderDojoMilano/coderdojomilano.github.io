@@ -54,7 +54,7 @@ event_locations:
     lon: 9.163875
     logo: logo_base.png
     addr: Via Bergognone, 34, 20144 Milano
-    no_home_map: true    
+    no_home_map: true
   - id: unimi-di
     url: //www.di.unimi.it/
     name: Università degli Studi di Milano - Dipartimento di Informatica
@@ -133,6 +133,20 @@ event_locations:
     lon: 9.1558413
     logo: logo_politecnico.png
     addr: Via Lambruschini, 4, 20146 Milano
+  - id: mm
+    url: https://www.mmspa.eu/
+    name: MM Centrale dell’acqua di Milano
+    lat: 45.4873268
+    lon: 9.1634932
+    logo: logo_mm.png
+    addr: Piazza Dioclezionano, 5, 20154 Milano
+  - id: fastweb
+    url: https://www.fastweb.it/
+    name: Fastweb
+    lat: 45.4428686
+    lon: 9.2015771
+    logo: logo_fastweb.png
+    addr: Piazza Adriano Olivetti,1, 20139 Milano
 
 # Build settings
 markdown: kramdown
