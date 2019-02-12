@@ -13,5 +13,5 @@ anche gestione dell'indirizzario del mio paese e la sprotezione dei programmi ba
 Venne poi l'università, il programma di scacchi e quello di dama (che difficilmente battevo).
 Negli anni a seguire tante tecnologie, tanti linguaggi, ma sempre con tanta, tanta curiosità.
 
-Oggi corro per le colline di Invorio con moglie, figlio e amiche a 4 zampe, gioco a scacchi (maluccio), divoro
+Oggi corro per le colline di Invorio con moglie, figlio e amiche a 4 zampe, gioco a scacchi (maluccio!), divoro
 libri e, tra tutto questo, continuo ad occuparmi di software.
