@@ -11,5 +11,5 @@ title: CoderDojo il 6 aprile 2019 al Politecnico
 img: event_03.jpg
 thumb: event_03.jpg
 categories:
-- event_planned
+- event_onhold
 ---
