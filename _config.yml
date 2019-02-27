@@ -135,11 +135,11 @@ event_locations:
     addr: Via Lambruschini, 4, 20146 Milano
   - id: mm
     url: https://www.mmspa.eu/
-    name: MM Centrale dell’acqua di Milano
+    name: MM Centrale dell'Acqua di Milano
     lat: 45.4873268
     lon: 9.1634932
     logo: logo_mm.png
-    addr: Piazza Dioclezionano, 5, 20154 Milano
+    addr: Piazza Diocleziano, 5, 20154 Milano
   - id: fastweb
     url: https://www.fastweb.it/
     name: Fastweb
