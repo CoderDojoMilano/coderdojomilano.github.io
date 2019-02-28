@@ -30,18 +30,21 @@ layout: default
         <div class="{{layout_width}}" style="margin-top:30px;">
             {{content}}
             <h3>Istruzioni</h3>
-            <p>Per partecipare all'evento è necessario registrarsi {%if page.registration_url %}({%if eventbrite_id %}vedi il RIQUADRO oppure {% endif %}<a href="{{page.registration_url}}" target="_blank">CLICCA QUI</a>){% else %}(le informazioni per la registrazione non sono ancora disponibili){% endif %}</p>
+            <p>Per partecipare all'evento è necessario registrarsi {%if page.registration_url %}({%if eventbrite_id %}vedi il RIQUADRO oppure {% endif %}<a href="{{page.registration_url}}" target="_blank">CLICCA QUI</a>){% else %}(<b>le informazioni per la registrazione non sono ancora disponibili</b>){% endif %}</p>
             <p>Vi invitiamo a richiedere un ticket per ogni partecipante: la procedura consentirà di richiedere più ticket contemporaneamente.</p>
             <p>Una volta effettuata la registrazione riceverete una mail di conferma: nel caso non la riceveste vi invitiamo a rivedere la vostra registrazione</p>
             <p>A causa dei posti limitati non potremo consentire a chi è sprovvisto di registrazione di partecipare all’evento, *senza alcuna eccezione*</p>
             <h3>Ricordate di portare</h3>
             <ul>
                 <li>un PC portatile dotato di <strong>alimentatore e mouse</strong> per ogni partecipante</li>
+                <li>Se è la prima volta che partecipi, ti chiediami di installare preventivamente <a href="https://scratch.mit.edu/download" target="_blank">Scratch</a> (versione 3+)</li>
                 <li>una merenda</li>
             </ul>
-            <strong>Attenzione: i ragazzi di età inferiore a 16 anni devono essere accompagnati da un adulto che deve essere presente durante tutta la durata dell’evento</strong>
-            <p>Sarà necessario installare Scratch (versione 2+). Istruzioni disponibili <a href="https://scratch.mit.edu/download" target="_blank">qui</a></p>
+            <p></p>
         </div>
+
+        {% include informazioni_generali_eventi.html %}
+
         {%if eventbrite_id %}
             <div class="col-lg-6" style="text-align:left; margin-top:30px;"><iframe src="//eventbrite.it/tickets-external?eid={{eventbrite_id}}&ref=etckt" frameborder="0" height="550" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:100%; text-align:left;" ></div></div>
         {% endif %}
