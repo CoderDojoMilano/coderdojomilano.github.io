@@ -52,15 +52,15 @@ Potete trovare una lista di tutti i Coderdojo esistenti [qui](https://coderdojo.
 ## Posso usare le immagini presenti nel sito `coderdojomilano.it` all’interno di siti o opere di mia proprietà?
 Tutti i contenuti, testuali e multimediali (foto, video, ecc.), presenti nel sito `coderdojomilano.it` sono tutelati da copyright. Ciò significa che non possono essere utilizzati in nessun modo senza l’autorizzazione scritta di `coderdojomilano.it`
 
-In particolare i contenuti fotografici sono di proprietà di `coderdojomilano.it` e non possono essere utilizzati al di fuori di `coderdojomilano.it`. A titolo puramente esemplificativo si rammenta che le fotografie non possono essere utilizzate neppure a fronte di una citazione dell’autore dell’opera
+**In particolare i contenuti fotografici sono di proprietà di `coderdojomilano.it` e non possono essere utilizzati al di fuori di `coderdojomilano.it`. A titolo puramente esemplificativo si rammenta che le fotografie non possono essere utilizzate neppure a fronte di una citazione dell’autore dell’opera**
 
-Tutte le precauzioni sono state adottate al fine di scoraggiare l’uso inappropriato delle fotografie: nel caso tuttavia `coderdojomilano.it` dovesse venire a conoscenza di una violazione del copyright richiederà la rimozione immediata della/e immagine/i oggetto della violazione e, se la violazione dovesse persistere, si riserva il diritto di intervenire secondo quanto previsto dalla legge in materia di tutela del copyright
+**Tutte le precauzioni sono state adottate al fine di scoraggiare l’uso inappropriato delle fotografie**: nel caso tuttavia `coderdojomilano.it` dovesse venire a conoscenza di una violazione del copyright richiederà la rimozione immediata della/e immagine/i oggetto della violazione e, se la violazione dovesse persistere, si riserva il diritto di intervenire secondo quanto previsto dalla legge in materia di tutela del copyright
 
 ## Posso utilizzare i contenuti testuali presenti nel sito `coderdojomilano.it` all’interno di siti o opere di mia proprietà?
 Per quanto riguarda i soli contenuti testuali tale tutela che prevede “tutti i diritti riservati” può essere
 modificata in “alcuni diritti riservati” se in calce al contenuto è presente l’indicazione della licenza Creative Commons: per quanto non espressamente regolato dalla Licenza Creative Commons continua a valere ciò che è previsto dalla tutela del copyright
 
-Esistono varie declinazioni della Licenza Creative Commons: quella da noi adottata è del tipo “Attribuzione, Non commerciale, Non opere derivate (BY, NC, ND)”:
+**La Licenze Creative Commons da noi adottata è del tipo “Attribuzione, Non commerciale, Non opere derivate (BY, NC, ND)”**, ovvero:
 
 - Attribuzione (BY): il contenuto deve essere attribuito in maniera chiara e contestuale a `coderdojomilano.it`.
 - Non commerciale (NC): è vietato l’uso dei contenuti a fini commerciali. È vietata quindi la vendita dei contenuti ma anche il loro utilizzo nell’ambito di iniziative commerciali.
@@ -68,6 +68,6 @@ Esistono varie declinazioni della Licenza Creative Commons: quella da noi adotta
 
 Il contenuto, qualora condiviso, deve essere condiviso con le stesse modalità e con la stessa licenza Creative Commons (BY, NC, ND) utilizzata da `coderdojomilano.it`
 
-Quindi, solo ed esclusivamente in caso di presenza di licenza Creative Commons (BY, NC, ND), i contenuti testuali possono essere utilizzati senza chiedere il consenso di `coderdojomilano.it`, a patto che venga attribuita in maniera evidente e inequivocabile la paternità del contenuto a `coderdojomilano.it`, non se ne faccia un uso commerciale e non si modifichi in alcun modo tale contenuto
+**Quindi, in caso di presenza della dicitura relativa alla Licenza Creative Commons (BY, NC, ND), i soli contenuti testuali possono essere utilizzati senza chiedere il consenso di `coderdojomilano.it`, a patto che venga attribuita in maniera evidente e inequivocabile la paternità del contenuto a `coderdojomilano.it`, non se ne faccia un uso commerciale e non si modifichi in alcun modo tale contenuto**
 
 Ulteriori informazioni sull’uso delle licenze Creative Commons possono essere reperite all’indirizzo [www.creativecommons.it](//www.creativecommons.it)
