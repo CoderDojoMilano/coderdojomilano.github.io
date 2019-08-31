@@ -1,0 +1,15 @@
+---
+author: admin
+comments: false
+date: 2019-10-19 14:30:00+02:00
+layout: event
+location: fastweb
+registration_url: https://www.eventbrite.it/e/biglietti-fastweb-e-coderdojo-milano-coding-the-future-60217628548
+type: Player
+slug: coderdojo-il-19-ottobre-in-fastweb
+title: CoderDojo il 19 ottobre in Fastweb
+img: event_03.jpg
+thumb: event_03.jpg
+categories:
+- event_planned
+---
