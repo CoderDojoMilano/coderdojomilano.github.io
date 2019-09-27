@@ -4,7 +4,7 @@ comments: false
 date: 2020-04-04 14:30:00+02:00
 layout: event
 location: ied
-registration_url: https://www.eventbrite.it/e/biglietti-coderdojo-milano-ied-milano-61353425748
+registration_url:
 type: Player
 slug: coderdojo-il-4-aprile-in-ied
 title: CoderDojo il 4 aprile in IED
