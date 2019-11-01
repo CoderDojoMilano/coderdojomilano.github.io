@@ -3,11 +3,11 @@ author: admin
 comments: false
 date: 2020-02-15 14:30:00+01:00
 layout: event
-location: luiss
+location: fgb_luiss
 registration_url:
 type: Player
-slug: coderdojo-il-15-febbraio-in-luiss
-title: CoderDojo il 15 febbraio in Luiss
+slug: coderdojo-il-15-febbraio-in-fgb-luiss
+title: CoderDojo il 15 febbraio in FGB @ Luiss Hub for makers and students
 img: event_03.jpg
 thumb: event_03.jpg
 categories:

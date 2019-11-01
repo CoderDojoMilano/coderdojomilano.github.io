@@ -147,12 +147,12 @@ event_locations:
     lon: 9.2015771
     logo: logo_fastweb.png
     addr: Piazza Adriano Olivetti,1, 20139 Milano
-  - id: luiss
+  - id: fgb_luiss
     url: https://www.luiss.it/
-    name: Luiss
+    name: FGB @milano Luiss Hub for makers and students
     lat: 45.4831495
     lon: 9.1821101
-    logo: logo_luiss.png
+    logo: logo_fgb.jpg
     addr: Via Massimo D'Azeglio, 3, 20154 Milano
 
 
