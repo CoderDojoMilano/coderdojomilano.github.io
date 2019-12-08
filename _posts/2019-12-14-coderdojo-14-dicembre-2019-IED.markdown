@@ -4,7 +4,7 @@ comments: false
 date: 2019-12-14 14:30:00+01:00
 layout: event
 location: ied
-registration_url:
+registration_url: https://www.eventbrite.it/e/biglietti-coderdojo-milano-ied-milano-85208367521
 type: Player
 slug: coderdojo-il-14-dicembre-in-ied
 title: CoderDojo il 14 dicembre in IED
