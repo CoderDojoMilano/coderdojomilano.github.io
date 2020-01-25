@@ -154,7 +154,13 @@ event_locations:
     lon: 9.1821101
     logo: logo_fgb.jpg
     addr: Via Massimo D'Azeglio, 3, 20154 Milano
-
+  - id: statale_mi_informatica
+    url: https://www.unimi.it
+    name: Università degli Studi di Milano
+    lat: 45.4760027
+    lon: 9.2318815
+    logo: logo_unimi.png
+    addr: Via G. Celoria, 18, 20133 Milano - Dipartimento di Informatica
 
 # Build settings
 markdown: kramdown
