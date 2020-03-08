@@ -11,5 +11,4 @@ title: CoderDojo il 21 marzo in IED
 img: event_03.jpg
 thumb: event_03.jpg
 categories:
-- event_planned
 ---
