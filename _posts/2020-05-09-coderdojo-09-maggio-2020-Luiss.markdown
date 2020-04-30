@@ -11,5 +11,4 @@ title: CoderDojo il 9 maggio in FGB @ Luiss Hub for makers and students
 img: event_03.jpg
 thumb: event_03.jpg
 categories:
-- event_planned
 ---
