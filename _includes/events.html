@@ -1,8 +1,65 @@
 <h1>Eventi</h1>
-In questa pagina puoi trovare informazioni relative ai prossimi eventi di CoderDojo Milano.<br/>
-<br/>
+<p>
+  In questa pagina puoi trovare informazioni relative ai prossimi eventi di CoderDojo Milano.
+</p>
 
+<h2>Il nuovo formato</h2>
+<p>Nel rispetto delle restrizioni causate dall’emergenza sanitaria COVID-19 ed a maggior
+tutela dell’intera comunità di ragazzi, genitori, accompagnatori e mentor, CoderDojo
+Milano ha scelto di far ripartire le attività 2020/21 in modo virtuale.
+</p>
+
+<p>L’idea è di organizzare dei gruppi di lavoro remoti, attorno a progetti specifici che
+vedranno il coinvolgimento di ragazzi e mentor. Ad esempio un gruppo/progetto potrà
+concentrarsi sulla creazione di giochi mentre un altro sui droni. Un ninja (il nome che
+diamo ai nostri ragazzi) potrebbe anche scegliere di partecipare a più di un progetto alla
+volta.
+</p>
+
+<p>
+Queste gruppi, le “classi virtuali”, saranno calibrati in modo da permettere la
+partecipazione più ampia possibile in termini di competenze ed interessi. Ovviamente i
+mentor di CoderDojo Milano vi aiuteranno a capire quale classe potrebbe essere la più
+adatta per i vostri ninja!
+</p>
+
+<p>
+Dal punto di vista delle tempistiche, lo svolgimento delle attività del gruppo sarà
+distribuita su un arco di tempo più lungo rispetto al “tradizionale giorno dell’evento
+Coderdojo”. Inoltre l’organizzazione della classe, in termini di cadenza dei lavori,
+materiale ed eventuali strumenti accessori, saranno organizzati dai mentor in
+autonomia.
+</p>
+
+<h2>Le tipologie di eventi</h2>
+
+<p>
+  Gli eventi "pubblici" CoderDojo Milano saranno sostanzialmente di due tipologie:
+
+  <ul>
+    <li>
+      <p>
+        <b>ONBOARDING</b>: prevalentemente rivolto ai genitori e con l'obiettivo di spiegare come funziona
+      il nostro CoderDojo virtuale.
+      In questa sessione spiegheremo le modalità di partecipazione dei ragazzi,
+      gli strumenti utilizzati e risponderemo alle vostre domande.
+      La partecipazione a questi eventi, una videochiamata di gruppo di circa un'oretta, avverrà previa
+      registrazione secondo le modalità specificate.
+      </p>
+    </li>
+    <li>
+      <p>
+        <b>SHOW-CASE</b>: periodicamente i ragazzi, secondo le modalità definite con i propri mentor di riferimento,
+        potranno mostrare i propri progressi agli altri ninja. Si creerà l'occasione per dare un occhio al lavoro "dei vicini"
+        e magari avere qualche spunto creativo!
+      </p>
+    </li>
+  </ul>
+</p>
+
+<!--
 {% include informazioni_generali_eventi.html %}
+-->
 
 <h2>Calendario eventi CoderDojo</h2>
 <!-- EVENT PLANNED LIST -->
@@ -15,6 +72,11 @@ In questa pagina puoi trovare informazioni relative ai prossimi eventi di CoderD
             </tr>
         </thead>
         <tbody>
+            <tr>
+              <td>31/10/2020 15:00</td>
+              <td><a href="https://www.eventbrite.it/e/biglietti-coderdojo-milano-2020-tutti-a-bordo-126724926667">ONBOARDING</a></td>
+            </tr>
+
             {% for event in site.categories.event_planned reversed%}
                 <tr date="{{event.date}}" style="display: none;">
                     <td>{{ event.date | date: "%d/%m/%Y %H:%M" }}</td>
