@@ -72,16 +72,23 @@ autonomia.
             </tr>
         </thead>
         <tbody>
-            <tr>
-              <td>31/10/2020 15:00</td>
-              <td><a href="https://www.eventbrite.it/e/biglietti-coderdojo-milano-2020-tutti-a-bordo-126724926667">ONBOARDING</a></td>
-            </tr>
-
             {% for event in site.categories.event_planned reversed%}
                 <tr date="{{event.date}}" style="display: none;">
                     <td>{{ event.date | date: "%d/%m/%Y %H:%M" }}</td>
-                    <td><a href="{{ event.url  | prepend: site.baseurl }}">{{ event.title }}</a><br/><span>{%for location in site.event_locations%}{%if location.id == event.location%}
-                    {{ location.name }}{%endif%}{%endfor%}</span></td>
+                    <td>
+                      {%if event.categories contains "onboarding" %}
+                        <a href="{{ event.registration_url }}">{{ event.title }}</a>
+                      {% else %}
+                        <a href="{{ event.url  | prepend: site.baseurl }}">{{ event.title }}</a>
+                      {% endif %}
+                      <br/>
+                      <span>{%for location in site.event_locations%}
+                        {%if location.id == event.location%}{{ location.name }}{%endif%}{%endfor%}
+                        {%if event.type == "online" %}
+                          Online
+                        {% endif %}
+                      </span>
+                    </td>
                 </tr>
             {% endfor %}
         </tbody>
