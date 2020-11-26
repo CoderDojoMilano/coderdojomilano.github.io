@@ -97,7 +97,6 @@ Ti contatteremo il prima possibile!
 {% include informazioni_generali_eventi.html %}
 -->
 
-{% unless site.categories.event_planned.size %}
 <h2>Calendario eventi CoderDojo</h2>
 <div>
     <table class="table table-bordered">
@@ -107,6 +106,7 @@ Ti contatteremo il prima possibile!
                 <td>Evento</td>
             </tr>
         </thead>
+
         <tbody>
             {% for event in site.categories.event_planned reversed%}
                 <tr date="{{event.date}}" style="display: none;">
@@ -131,7 +131,6 @@ Ti contatteremo il prima possibile!
     </table>
 
 </div>
-{% endunless %}
 
 <hr />
 <p>
