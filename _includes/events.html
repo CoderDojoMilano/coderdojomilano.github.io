@@ -87,12 +87,18 @@ autonomia.
     </li>
   </ul>
 </p>
+
+<h2>Interessato a saperne di più?</h2>
+Se il nostro progetto e le nostre attività ti interessano e desideri partecipare ad un evento di "ONBOARDING",
+compila <a href="https://forms.gle/SnuucMwRTyCxvGST8">questo form</a>.
+Ti contatteremo il prima possibile!
+
 <!--
 {% include informazioni_generali_eventi.html %}
 -->
 
+{% unless site.categories.event_planned.size %}
 <h2>Calendario eventi CoderDojo</h2>
-<!-- EVENT PLANNED LIST -->
 <div>
     <table class="table table-bordered">
         <thead>
@@ -125,9 +131,15 @@ autonomia.
     </table>
 
 </div>
+{% endunless %}
+
+<hr />
 <p>
-    <a onclick="showAllItems()" href="#">Mostra anche gli eventi passati</a>
+    <a onclick="showAllItems()" href="#">Mostra gli eventi passati</a>
 </p>
+
+<hr />
+
 <p>
     Dubbi? Leggi le <a href="/faq">domande frequenti</a>
 </p>
