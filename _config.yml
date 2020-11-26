@@ -176,6 +176,6 @@ collections:
     output: yes
     path: /tools/:name
 
-plugins:
+plugins_dir:
  - jekyll-coffeescript
  - jekyll-redirect-from

@@ -2,10 +2,10 @@
 function initMainMap(map_container_id) {
   var map = L.map(map_container_id).setView([45.4913, 9.2093], 12);
   map.scrollWheelZoom.disable();
-  L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoicHJldmkiLCJhIjoiY2lobmZ2OXU3MDBoanZrbTlmZ2Zpb3JoayJ9.7vBRLC3iMq_xL-KIHeNIZw', {
+  L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoicHJldmkiLCJhIjoiY2lobmZ2OXU3MDBoanZrbTlmZ2Zpb3JoayJ9.7vBRLC3iMq_xL-KIHeNIZw', {
     attribution: 'Map data &copy; <a href="//openstreetmap.org">OpenStreetMap</a> contributors, <a href="//creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="//mapbox.com">Mapbox</a>',
     maxZoom: 18,
-    id: 'mapbox.streets',
+    id: 'mapbox/streets-v11',
     accessToken: 'pk.eyJ1IjoicHJldmkiLCJhIjoiY2lobmZ2OXU3MDBoanZrbTlmZ2Zpb3JoayJ9.7vBRLC3iMq_xL-KIHeNIZw'
   }).addTo(map);
 
@@ -27,10 +27,10 @@ function initEventMap(map_container_id, event_location_id) {
   }
   var map = L.map(map_container_id).setView([dojo.lat, dojo.lon], 13);
   map.scrollWheelZoom.disable();
-  L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoicHJldmkiLCJhIjoiY2lobmZ2OXU3MDBoanZrbTlmZ2Zpb3JoayJ9.7vBRLC3iMq_xL-KIHeNIZw', {
+  L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoicHJldmkiLCJhIjoiY2lobmZ2OXU3MDBoanZrbTlmZ2Zpb3JoayJ9.7vBRLC3iMq_xL-KIHeNIZw', {
     attribution: 'Map data &copy; <a href="//openstreetmap.org">OpenStreetMap</a> contributors, <a href="//creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="//mapbox.com">Mapbox</a>',
     maxZoom: 18,
-    id: 'mapbox.streets',
+    id: 'mapbox/streets-v11',
     accessToken: 'pk.eyJ1IjoicHJldmkiLCJhIjoiY2lobmZ2OXU3MDBoanZrbTlmZ2Zpb3JoayJ9.7vBRLC3iMq_xL-KIHeNIZw'
   }).addTo(map);
 
