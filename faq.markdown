@@ -9,7 +9,7 @@ permalink: /faq/
 Durante gli eventi i partecipanti, con l’aiuto dei mentor, imparano le basi della programmazione ad esempio utilizzando un programma visuale, Scratch, creato appositamente dal MIT
 
 ##  Come ci si iscrive ai vostri incontri?
-Il calendario degli eventi e le modalità di registrazione sono indicate volta per volta sul sito alla sezione [EVENTI](/events-plan)
+Il calendario degli eventi e le modalità di registrazione sono indicate volta per volta sul sito alla sezione [EVENTI](/events)
 
 ##  Quando si aprono le registrazioni?
 Solitamente le registrazioni si aprono il lunedì pomeriggio precedente alla data dell'evento stesso. Per essere puntualmente aggiornato segui la nostra pagina [Facebook](https://www.facebook.com/CoderDojoMi/) o il nostro account [Twitter](https://twitter.com/coderdojomi)
