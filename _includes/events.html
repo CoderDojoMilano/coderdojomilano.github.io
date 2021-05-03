@@ -112,7 +112,7 @@ Ti contatteremo il prima possibile!
                 <tr date="{{event.date}}" style="display: none;">
                     <td>{{ event.date | date: "%d/%m/%Y %H:%M" }}</td>
                     <td>
-                      {%if event.categories contains "onboarding" %}
+                      {%if event.categories contains "onboarding" or event.categories contains "online" %}
                         <a href="{{ event.registration_url }}">{{ event.title }}</a>
                       {% else %}
                         <a href="{{ event.url  | prepend: site.baseurl }}">{{ event.title }}</a>
