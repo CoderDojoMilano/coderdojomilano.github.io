@@ -161,6 +161,13 @@ event_locations:
     lon: 9.2318815
     logo: logo_unimi.png
     addr: Via G. Celoria, 18, 20133 Milano - Dipartimento di Informatica
+  - id: spaziolenovo
+    url: https://www.spaziolenovo.com/
+    name: Spazio Lenovo
+    lat: 45.466822
+    lon: 9.1928198
+    logo: logo_spaziolenovo.png
+    addr: Corso Matteotti 10, Milano
 
 # Build settings
 markdown: kramdown
