@@ -2,36 +2,59 @@
 layout: blog
 title: Reply per CoderDojo!
 ---
-<div class="row">
-  <h1>Reply Xmas!</h1>
-  <p class="lead mb-4">via Robert Koch 1, Milano<br/> 13 dicembre 2022</p>
-</div>
-<div class="row">
-  <p height="">&nbsp;</p>
+<script src="https://www.paypalobjects.com/donate/sdk/donate-sdk.js" charset="UTF-8"></script>
+
+<div class="row" style="margin-bottom: 30px;">
+  <div class="col-lg-6">
+    <h1>
+      <img src="/assets/img/logo_reply.png" class="rounded" alt="Responsive image" height="80px">
+      <div style="height: 52px; display: inline-block; vertical-align: text-bottom;">
+      <span class="text-danger">Xmas 2022!</span>
+      </div>
+    </h1>
+  </div>
+  <div class="col-lg-6 text-right" style="padding: 20px 15px;">
+    <p class="lead" style="margin-bottom: 0px;">
+      via Robert Koch 1, Milano
+    </p>
+    <p>13 dicembre 2022</p>
+  </div>
 </div>
 <div class="row">
   <div class="col-lg-6">
-    <div class="row">
-      <img src="/assets/img/logo_reply.png" class="rounded" alt="Responsive image" height="80px"/>
-    </div>
-    <div class="row">
-      <p height="">&nbsp;</p>
-    </div>
     <p class="lead">
       &quot;Il tuo contribuito, anche piccolo, ci permetterà di acquistare nuovo materiale e di organizzare attività sempre più coinvolgenti, divertenti ed educative&quot;
     </p>
     <p class="lead">
       CoderDojo Milano
     </p>
+    <p>
+      <div id="paypal-donate-button-container" class="text-center" style="padding-top: 30px"></div>
+    </p>
   </div>
   <div class="col-lg-6">
     <p class="text-center lead">
-      Puoi donare con PayPal!<br/>
-      <a href="https://piccolevariabili.it/#sostienici" target="_blank">Clicca qui</a>
-      o scansiona questo QR
+      Puoi usare anche questo QR
     </p>
     <p class="text-center">
       <img src="/assets/img/donazione_pv_qr.png" class="rounded" alt="Responsive image" height="300px"/>
     </p>
   </div>
 </div>
+
+<script>
+PayPal.Donation.Button({
+    env: 'production',
+    hosted_button_id: 'JJSHRKXD4SZFJ',
+    image: {
+        src: 'https://www.paypalobjects.com/it_IT/IT/i/btn/btn_donate_SM.gif',
+        alt:'Fai una donazione con il pulsante PayPal',
+        title:'PayPal - The safer, easier way to pay online!',
+    },
+    style: {
+    },
+    onComplete: function (params) {
+        console.log(params);
+    },
+}).render('#paypal-donate-button-container');
+</script>
