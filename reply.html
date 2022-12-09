@@ -2,8 +2,6 @@
 layout: blog
 title: Reply per CoderDojo!
 ---
-<script src="https://www.paypalobjects.com/donate/sdk/donate-sdk.js" charset="UTF-8"></script>
-
 <div class="row" style="margin-bottom: 30px;">
   <div class="col-lg-6">
     <h1>
@@ -28,33 +26,16 @@ title: Reply per CoderDojo!
     <p class="lead">
       CoderDojo Milano
     </p>
-    <p>
-      <div id="paypal-donate-button-container" class="text-center" style="padding-top: 30px"></div>
+    <p class="text-center lead" style="margin-top: 70px; margin-bottom: 70px;">
+      <a href="https://www.paypal.com/donate/?hosted_button_id=JJSHRKXD4SZFJ" style="font-weight: bold;">>> Clicca qui <<</a> per fare la tua donazione!
     </p>
   </div>
-  <div class="col-lg-6">
+  <div class="col-lg-6" style="margin-top: 30px;">
     <p class="text-center lead">
-      Puoi usare anche questo QR
+      Oppure usa questo QR
     </p>
     <p class="text-center">
-      <img src="/assets/img/donazione_pv_qr.png" class="rounded" alt="Responsive image" height="300px"/>
+      <img src="/assets/img/donazione_pv_qr.png" class="rounded" alt="Responsive image" height="250px"/>
     </p>
   </div>
 </div>
-
-<script>
-PayPal.Donation.Button({
-    env: 'production',
-    hosted_button_id: 'JJSHRKXD4SZFJ',
-    image: {
-        src: 'https://www.paypalobjects.com/it_IT/IT/i/btn/btn_donate_SM.gif',
-        alt:'Fai una donazione con il pulsante PayPal',
-        title:'PayPal - The safer, easier way to pay online!',
-    },
-    style: {
-    },
-    onComplete: function (params) {
-        console.log(params);
-    },
-}).render('#paypal-donate-button-container');
-</script>
