@@ -1,7 +1,7 @@
 ---
 author: admin
 comments: false
-date: 2023-05-20 14:30:00+01:00
+date: 2023-05-20 14:30:00+02:00
 layout: event
 location: biblioteca_bonola
 registration_url:
