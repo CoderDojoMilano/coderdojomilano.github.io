@@ -168,6 +168,14 @@ event_locations:
     lon: 9.1928198
     logo: logo_spaziolenovo.png
     addr: Corso Matteotti 10, Milano
+  - id: biblioteca_bonola
+    url: https://milano.biblioteche.it/library/gallaratese/cal/coder-dojo/
+    name: Biblioteca Gallaratese
+    lat: 45.4965006
+    lon: 9.1128673
+    logo: logo_biblioteca_bonola.jpg
+    addr: Via Giacomo Quarenghi, 21, 20151 Milano MI
+
 
 # Build settings
 markdown: kramdown
