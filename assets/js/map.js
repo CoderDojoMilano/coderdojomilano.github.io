@@ -44,9 +44,9 @@ function setMarker(map, dojo, popupOpen) {
     iconUrl: '/assets/img/marker_cdmi.png',
     iconSize:     [64, 64], // size of the icon
     shadowSize:   [0, 0], // size of the shadow
-    iconAnchor:   [32, 64], // point of the icon which will correspond to marker's location
+    iconAnchor:   [32, 0], // point of the icon which will correspond to marker's location
     shadowAnchor: [0, 0],  // the same for the shadow
-    popupAnchor:  [32, -64] // point from which the popup should open relative to the iconAnchor
+    popupAnchor:  [0, 0] // point from which the popup should open relative to the iconAnchor
   });
   var popup_html = "<div><img src='/assets/img/" + dojo.logo + "'></img></div><div class='map_dojo_name'><a href='" + dojo.url + "' target='_new'>" + dojo.name + "</a></div><div class='map_dojo_addr'>" + dojo.addr + "</div>"
   var marker = L.marker([dojo.lat, dojo.lon], {icon: cdmiMarkerIcon}).addTo(map).bindPopup(popup_html);

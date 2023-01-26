@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+{% if page.registration_url contains "eventbrite.it/" %}
+    {% assign eventbrite_id = page.registration_url | split:"-" | last %}
+{% endif %}
 <div class="container mtb">
     <div class="row">
         <div class="col-lg-12">
@@ -8,29 +11,19 @@ layout: default
         </div>
     </div>
     <div class="row">
-        <div class="col-lg-6">
+        <div class="col-lg-8">
             <h4>Data/Ora</h4>
             <p>{{ page.date | date: "%d/%m/%Y %H:%M" }}</p>
-            <h4>Luogo</h4>{%for location in site.event_locations%}{%if location.id == page.location%}
-            <p>{{ location.name }}</p>
-            <p>{{ location.addr }}</p>
-            {%endif%}{%endfor%}
-        </div>
-        <div class="col-lg-6">
-            <div id="event_map_container"></div>
-        </div>
-    </div>
-    {% if page.registration_url contains "eventbrite.it/" %}
-        {% assign eventbrite_id = page.registration_url | split:"-" | last %}
-        {% assign layout_width = "col-lg-6" %}
-    {% else %}
-        {% assign layout_width = "col-lg-12" %}
-    {% endif %}
-    <div class="row">
-        <div class="{{layout_width}}" style="margin-top:30px;">
-            {{content}}
+            <h4>Luogo</h4>
+            {%for location in site.event_locations%}
+              {%if location.id == page.location%}
+              <p>{{ location.name }}</p>
+              <p>{{ location.addr }}</p>
+              {%endif%}
+            {%endfor%}
+
             <h3>Istruzioni</h3>
-            <p>Per partecipare all'evento è necessario registrarsi {%if page.registration_url %}({%if eventbrite_id %}vedi il RIQUADRO oppure {% endif %}<a href="{{page.registration_url}}" target="_blank">CLICCA QUI</a>){% else %}(<b>le informazioni per la registrazione non sono ancora disponibili</b>){% endif %}</p>
+            <p>Per partecipare all'evento è necessario registrarsi {%if page.registration_url %}({%if eventbrite_id %}vedi il RIQUADRO oppure {% endif %}<a href="{{page.registration_url}}" target="_blank">CLICCA QUI</a>){% else %}(<b>le informazioni per la registrazione non sono ancora disponibili</b>){% endif %}.</p>
             <p>Vi invitiamo a richiedere un ticket per ogni partecipante: la procedura consentirà di richiedere più ticket contemporaneamente.</p>
             <p>Una volta effettuata la registrazione riceverete una mail di conferma: nel caso non la riceveste vi invitiamo a rivedere la vostra registrazione</p>
             <p>A causa dei posti limitati non potremo consentire a chi è sprovvisto di registrazione di partecipare all’evento, *senza alcuna eccezione*</p>
@@ -41,13 +34,16 @@ layout: default
                 <li>una merenda</li>
             </ul>
             <p></p>
-           {% include informazioni_generali_eventi.html %}
+
+            {% include informazioni_generali_eventi.html %}
 
         </div>
-
-        {%if eventbrite_id %}
-            <div class="col-lg-6" style="text-align:left; margin-top:30px;"><iframe src="//eventbrite.it/tickets-external?eid={{eventbrite_id}}&ref=etckt" frameborder="0" height="550" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:100%; text-align:left;" ></div></div>
-        {% endif %}
+        <div class="col-lg-4">
+            <div id="event_map_container"></div>
+            {%if eventbrite_id %}
+                <div style="text-align:left; margin-top:30px;"><iframe src="//eventbrite.it/tickets-external?eid={{eventbrite_id}}&ref=etckt" frameborder="0" height="550" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:100%; text-align:left;" ></div></div>
+            {% endif %}
+        </div>
     </div>
 </div>
 <script type="text/javascript">var event_location = '{{page.location}}'</script>
